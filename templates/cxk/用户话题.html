@@ -1,0 +1,368 @@
+{% load staticfiles %}
+<!doctype html>
+<html class="no-js" lang="en">
+
+
+<!-- Mirrored from jsofttheme.com/kiaalap-preview/kiaalap/sparkline.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 May 2018 22:19:07 GMT -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Sparkline | Kiaalap - Kiaalap Admin Template</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- favicon
+		============================================ -->
+    <link rel="shortcut icon" type="image/x-icon" href='{% static "img/favicon.ico" %}'>
+    <!-- Google Fonts
+		============================================ -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,700,900" rel="stylesheet">
+    <!-- Bootstrap CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.6/css/bootstrap.min.css">
+    <!-- Bootstrap CSS
+		============================================ -->
+    <link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <!-- owl.carousel CSS
+		============================================ -->
+    <link rel="stylesheet" href='{% static "css/owl.carousel.css" %}'>
+    <link rel="stylesheet" href='{% static "css/owl.theme.css" %}'>
+    <link rel="stylesheet" href='{% static "css/owl.transitions.css" %}'>
+    <!-- animate CSS
+		============================================ -->
+    <link rel="stylesheet" href='{% static "css/animate.css" %}'>
+    <!-- normalize CSS
+		============================================ -->
+    <link rel="stylesheet" href='{% static "css/normalize.css" %}'>
+    <!-- meanmenu icon CSS
+		============================================ -->
+    <link rel="stylesheet" href='{% static "css/meanmenu.min.css" %}'>
+    <!-- main CSS
+		============================================ -->
+    <link rel="stylesheet" href='{% static "css/main.css" %}'>
+    <!-- educate icon CSS
+		============================================ -->
+    <link rel="stylesheet" href='{% static "css/educate-custon-icon.css" %}'>
+    <!-- morrisjs CSS
+		============================================ -->
+    <link rel="stylesheet" href='{% static "css/morrisjs/morris.css" %}'>
+    <!-- mCustomScrollbar CSS
+		============================================ -->
+    <link rel="stylesheet" href='{% static "css/scrollbar/jquery.mCustomScrollbar.min.css" %}'>
+    <!-- metisMenu CSS
+		============================================ -->
+    <link rel="stylesheet" href='{% static "css/metisMenu/metisMenu.min.css" %}'>
+    <link rel="stylesheet" href='{% static "css/metisMenu/metisMenu-vertical.css" %}'>
+    <!-- calendar CSS
+		============================================ -->
+    <link rel="stylesheet" href='{% static "css/calendar/fullcalendar.min.css" %}'>
+    <link rel="stylesheet" href='{% static "css/calendar/fullcalendar.print.min.css" %}'>
+    <!-- style CSS
+		============================================ -->
+    <link rel="stylesheet" href='{% static "style.css" %}'>
+    <!-- responsive CSS
+		============================================ -->
+    <link rel="stylesheet" href='{% static "css/responsive.css" %}'>
+    <!-- modernizr JS
+		============================================ -->
+    <script src='{% static "js/vendor/modernizr-2.8.3.min.js" %}'></script>
+</head>
+
+<body>
+    <!--[if lt IE 8]>
+		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+	<![endif]-->
+    <!-- Start Left menu area -->
+ <div class="left-sidebar-pro">
+        <nav id="sidebar" class="">
+            <div class="sidebar-header">
+                <a href="{% url 'project:index' %}"><img class="main-logo" src='{% static "img/logo/logos.png" %}' alt="" /></a>
+                <strong><a href="{% url 'project:index' %}"><img src='{% static "img/logo/logosn.png" %}' alt="" /></a></strong>
+            </div>
+            <div class="left-custom-menu-adp-wrap comment-scrollbar">
+                <nav class="sidebar-nav left-sidebar-menu-pro">
+                    <ul class="metismenu" id="menu1">
+                        <li class="active">
+                            <a class="has-arrow" href="#">
+								   <span class="educate-icon educate-home icon-wrap"></span>
+								   <span class="mini-click-non">粉丝分析</span>
+								</a>
+                            <ul class="submenu-angle" aria-expanded="true">
+                                <li><a title="Dashboard v.1" href="{% url 'project:yonghuhuaxiang' %}"><span class="mini-sub-pro">用户画像</span></a></li>
+                                <li><a title="Dashboard v.2" href="#"><span class="mini-sub-pro">地区分布</span></a></li>
+                                <li><a title="Dashboard v.3" href="{% url 'project:yingxianglipaiming' %}"><span class="mini-sub-pro">影响力排行</span></a></li>
+                                <li><a title="Analytics" href="{% url 'project:gongtongguanzhu' %}"><span class="mini-sub-pro">共同关注</span></a></li>
+                                <li><a title="Widgets" href="{% url 'project:shijianduan' %}"><span class="mini-sub-pro">粉丝活跃时间段</span></a></li>
+                                <li><a title="Widgets" href="{% url 'project:fensiqinggan' %}"><span class="mini-sub-pro">粉丝情感</span></a></li>
+                                <li><a title="Widgets" href="{% url 'project:xiaofaxian' %}"><span class="mini-sub-pro">小发现</span></a></li>
+                            </ul>
+                        </li>
+
+                        <li>
+                            <a title="Landing Page" href="{% url 'project:yonghuhuati' %}" aria-expanded="false"><span class="educate-icon educate-event icon-wrap sub-icon-mg" aria-hidden="true"></span> <span class="mini-click-non">话题分析</span></a>
+                        </li>
+                         <li>
+                            <a title="Landing Page" href="#" aria-expanded="false"><span class="educate-icon educate-event icon-wrap sub-icon-mg" aria-hidden="true"></span> <span class="mini-click-non">艺人分析</span></a>
+                        </li> <li>
+                            <a title="Landing Page" href="#" aria-expanded="false"><span class="educate-icon educate-event icon-wrap sub-icon-mg" aria-hidden="true"></span> <span class="mini-click-non">代言分析</span></a>
+                        </li> <li>
+                            <a title="Landing Page" href="#" aria-expanded="false"><span class="educate-icon educate-event icon-wrap sub-icon-mg" aria-hidden="true"></span> <span class="mini-click-non">作品分析</span></a>
+                        </li>
+                      
+                    </ul>
+                </nav>
+            </div>
+        </nav>
+    </div>
+    <!-- End Left menu area -->
+    <!-- Start Welcome area -->
+    <div class="all-content-wrapper">
+         <div class="header-advance-area">
+            <!-- Mobile Menu start -->
+            <div class="mobile-menu-area">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="mobile-menu">
+                                <nav id="dropdown">
+                                    <ul class="mobile-menu-nav">
+                                        <li><a data-toggle="collapse" data-target="#Charts" href="#">粉丝分析<span class="admin-project-icon edu-icon edu-down-arrow"></span></a>
+                                            <ul class="collapse dropdown-header-top">
+                                                <li><a href="{% url 'project:yonghuhuaxiang' %}">用户画像</a></li>
+                                                <li><a href="#">地区分布</a></li>
+                                                <li><a href="{% url 'project:yingxianglipaiming' %}">影响力排行</a></li>
+                                                <li><a href="{% url 'project:gongtongguanzhu' %}">共同关注</a></li>
+                                                <li><a href="{% url 'project:shijianduan' %}">粉丝活跃时间段</a></li>
+                                                <li><a href="{% url 'project:fensiqinggan' %}">粉丝情感</a></li>
+                                                <li><a href="{% url 'project:xiaofaxian' %}">小发现</a></li>
+                                            </ul>
+                                        </li>
+
+                                       <li><a href="{% url 'project:yonghuhuati' %}">话题分析</a></li>
+                                       <li><a href="#">艺人分析</a></li>
+                                       <li><a href="#">代言分析</a></li>
+                                       <li><a href="#">作品分析</a></li>
+
+                                  </ul>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Mobile Menu end -->
+            <div class="breadcome-area">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <div class="breadcome-list">
+                                <div class="row">
+                                    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                        <div class="breadcome-heading">
+                                            <form role="search" class="sr-input-func">
+                                                <input type="text" placeholder="Search..." class="search-int form-control">
+                                                <a href="#"><i class="fa fa-search"></i></a>
+                                            </form>
+                                        </div>
+                                    </div>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+               <div class="analytics-sparkle-area">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                        <div class="analytics-sparkle-line reso-mg-b-30">
+                            <div class="analytics-content">
+                                <h5>粉丝主页数据</h5>
+                                <h2><span class="counter">5000</span> <span class="tuition-fees">来源于微博</span></h2>
+                                <!--<span class="text-success">20%</span>
+                                <div class="progress m-b-0">
+                                    <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:20%;"> <span class="sr-only">20% Complete</span> </div>
+                                </div>-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                        <div class="analytics-sparkle-line reso-mg-b-30">
+                            <div class="analytics-content">
+                                <h5>微博评论数据</h5>
+                                <h2><span class="counter">3000</span> <span class="tuition-fees">来源于微博</span></h2>
+                               <!-- <span class="text-danger">30%</span>
+                                <div class="progress m-b-0">
+                                    <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:30%;"> <span class="sr-only">230% Complete</span> </div>
+                                </div>-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                        <div class="analytics-sparkle-line reso-mg-b-30 table-mg-t-pro dk-res-t-pro-30">
+                            <div class="analytics-content">
+                                <h5>关键词数据</h5>
+                                <h2><span class="counter">2000</span> <span class="tuition-fees">来源于微博</span></h2>
+                               <!-- <span class="text-info">60%</span>
+                                <div class="progress m-b-0">
+                                    <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:60%;"> <span class="sr-only">20% Complete</span> </div>
+                                </div>-->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
+                        <div class="analytics-sparkle-line table-mg-t-pro dk-res-t-pro-30">
+                            <div class="analytics-content">
+                                <h5>话题数据</h5>
+                                <h2><span class="counter">3500</span> <span class="tuition-fees">来源于微博</span></h2>
+                              <!-- <span class="text-inverse">80%</span>
+                                <div class="progress m-b-0">
+                                    <div class="progress-bar progress-bar-inverse" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:80%;"> <span class="sr-only">230% Complete</span> </div>
+                                </div>-->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div>  <br><br></div>
+        
+        <!-- Small chart Start-->
+        <div class="sparkline-area">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                        <div class="about-sparkline responsive-mg-b-30">
+                            <div class="sparkline-hd">
+                                <div class="main-spark-hd">
+                                    <h1>艺人话题 </h1>
+                                </div>
+                            </div>
+                            <div class="sparkline-content">
+                                <p>s sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.You need to include both on your page to generate sparklines.</p>
+                                <p>The plugin is compatible with most modern browsers and has been tested with <span class="table-dis-n-pro dk-res-t-d-n">Firefox 2+, Safari 3+, Opera 9, Google Chrome and Internet Explorer 6, 7, 8, 9 & 10 as well as Android.</span></p>
+                               
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                        <div class="sparkline-list">
+                        <!--表格-->
+                            <div class="smart-sparkline-hd">
+                                <div class="smart-main-spark-hd">
+                                    <h1>放词云的地方</h1>
+                                </div>
+                            </div>
+                            <div class="smart-sparkline-list">
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Small chart end-->
+        <!-- custom chart start-->
+        <div class="pie-bar-line-area mg-t-30 mg-b-15">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                        <div class="sparkline7-list responsive-mg-b-30">
+                            <div class="sparkline7-hd">
+                                <div class="main-spark7-hd">
+                                    <h1>用户情感</h1>
+                                </div>
+                            </div>
+                            <div class="sparkline7-graph">
+                                <span id="sparkline7"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                        <div class="sparkline8-list responsive-mg-b-30">
+                            <div class="sparkline8-hd">
+                                <div class="main-sparkline8-hd">
+                                    <h1>用户情感</h1>
+                                </div>
+                            </div>
+                            <p> sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.You need to include both on your page to generate sparklines.</p>
+                            
+                            <p> sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via javascript.You need to include both on your page to generate sparklines.</p>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        <!-- custom chart end-->
+        <div class="footer-copyright-area">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="footer-copy-right">
+                            <p>Copyright © 2018 <a href="https://themeforest.net/user/soft_theme/portfolio">soft_theme</a> All rights reserved.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- jquery
+		============================================ -->
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-1.12.4.min.js"></script>
+    <!-- bootstrap JS
+		============================================ -->
+    <script src='{% static "js/bootstrap.min.js" %}'></script>
+    <!-- wow JS
+		============================================ -->
+    <script src='{% static "js/wow.min.js" %}'></script>
+    <!-- price-slider JS
+		============================================ -->
+    <script src='{% static "js/jquery-price-slider.js" %}'></script>
+    <!-- meanmenu JS
+		============================================ -->
+    <script src='{% static "js/jquery.meanmenu.js" %}'></script>
+    <!-- owl.carousel JS
+		============================================ -->
+    <script src='{% static "js/owl.carousel.min.js" %}'></script>
+    <!-- sticky JS
+		============================================ -->
+    <script src='{% static "js/jquery.sticky.js" %}'></script>
+    <!-- scrollUp JS
+		============================================ -->
+    <script src='{% static "js/jquery.scrollUp.min.js" %}'></script>
+    <!-- mCustomScrollbar JS
+		============================================ -->
+    <script src='{% static "js/scrollbar/jquery.mCustomScrollbar.concat.min.js" %}'></script>
+    <script src='{% static "js/scrollbar/mCustomScrollbar-active.js" %}'></script>
+    <!-- metisMenu JS
+		============================================ -->
+    <script src='{% static "js/metisMenu/metisMenu.min.js" %}'></script>
+    <script src='{% static "js/metisMenu/metisMenu-active.js" %}'></script>
+    <!-- morrisjs JS
+		============================================ -->
+    <script src='{% static "js/sparkline/jquery.sparkline.min.js" %}'></script>
+    <script src='{% static "js/sparkline/jquery.charts-sparkline.js" %}'></script>
+    <script src='{% static "js/sparkline/sparkline-active.js" %}'></script>
+    <!-- calendar JS
+		============================================ -->
+    <script src='{% static "js/calendar/moment.min.js" %}'></script>
+    <script src="https://cdn.bootcss.com/fullcalendar/3.8.0/fullcalendar.min.js"></script>
+    <script src='{% static "js/calendar/fullcalendar-active.js" %}'></script>
+    <!-- plugins JS
+		============================================ -->
+    <script src='{% static "js/plugins.js" %}'></script>
+    <!-- main JS
+		============================================ -->
+    <script src='{% static "js/main.js" %}'></script>
+    <!-- tawk chat JS
+		============================================ -->
+    
+</body>
+
+
+<!-- Mirrored from jsofttheme.com/kiaalap-preview/kiaalap/sparkline.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 30 May 2018 22:19:07 GMT -->
+</html>
