@@ -1,6 +1,6 @@
 from django.http import HttpResponse, JsonResponse
 from django.shortcuts import render
-from .models import star_topic,fan_phone
+from .models import star_topic,fan_phone,star_pinglun
 # 创建数据库连接
 import MySQLdb
 
@@ -21,6 +21,7 @@ def yonghuhuati(request):
     return render(request,"cxk/用户话题.html")
 def fensiqinggan(request):
     getHuaticiyun()
+    getPingLunCiYun()
     return render(request,"cxk/粉丝情感.html")
 def load_phone_data(request):
     fan_phones_count = fan_phone.objects.all().count()
@@ -42,5 +43,20 @@ def getHuaticiyun():
     all_items = star_topic.objects.all()
     for i in range(keyword_count):
         file.write('"'+all_items[i].keyword+'"'+':'+str(all_items[i].tote)+',\n')
+    file.write("};")
+    file.close()
+
+
+def getPingLunCiYun():
+    keyword_count = star_pinglun.objects.all().filter(tote__gt=48).count()
+    file = open('project/static/js_myself/pinglun_data.js', 'w+', encoding='utf-8')
+    file.write("var pinglun_data = {")
+    all_items = star_pinglun.objects.all().filter(tote__gt=48)
+    for i in range(keyword_count):
+        if (all_items[i].keyword == '蔡徐坤'):
+            pass
+        if(all_items[i].tote>40):
+            file.write('"' + all_items[i].keyword + '"' + ':' + str(all_items[i].tote) + ',\n')
+
     file.write("};")
     file.close()
