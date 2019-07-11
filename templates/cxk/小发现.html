@@ -73,12 +73,6 @@
     <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-stat/ecStat.min.js"></script>
     <script type="text/javascript"
             src="http://echarts.baidu.com/gallery/vendors/echarts/extension/dataTool.min.js"></script>
-    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/china.js"></script>
-    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/world.js"></script>
-    <script type="text/javascript"
-            src="https://api.map.baidu.com/api?v=2.0&ak=xfhhaTThl11qYVrqLZii6w8qE5ggnhrY&__ec_v__=20190126"></script>
-    <script type="text/javascript"
-            src="http://echarts.baidu.com/gallery/vendors/echarts/extension/bmap.min.js"></script>
     <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/simplex.js"></script>
 </head>
 
@@ -262,8 +256,9 @@
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                         <div class="charts-single-pro responsive-mg-b-30">
                             <div class="alert-title">
-                                <h2>手机终端</h2>
-                                <div id="user_phone" style="height: 100%"></div>
+                                <h2 id="phone">手机终端</h2>
+                                <div id="user_phone" style="height: 200%"></div>
+
                             </div>
                             <div id="pie-chart">
                                 <canvas id="piechart"></canvas>
@@ -365,6 +360,10 @@
     <script src='{% static "js/calendar/moment.min.js" %}'></script>
     <script src="https://cdn.bootcss.com/fullcalendar/3.8.0/fullcalendar.min.js"></script>
     <script src='{% static "js/calendar/fullcalendar-active.js" %}'></script>
+        <!-- Charts JS
+		============================================ -->
+    <script src="https://cdn.bootcss.com/Chart.js/2.6.0/Chart.js"></script>
+    <script src="{% static "js/charts/rounded-chart.js" %}"></script>
     <!-- plugins JS
 		============================================ -->
     <script src='{% static "js/plugins.js" %}'></script>
@@ -375,75 +374,95 @@
 		============================================ -->
     <!--echars的代码-->
     <script type="text/javascript">
-        var dom = document.getElementById("user_phone");
-        var myChart = echarts.init(dom);
-        var app = {};
-        option = null;
-        app.title = '嵌套环形图';
-        option = {
-            tooltip: {
-                trigger: 'item',
-                formatter: "{a} <br/>{b}: {c} ({d}%)"
-            },
-            legend: {
-                orient: 'vertical',
-                x: 'left',
-                data: ['直达', '营销广告', '搜索引擎', '邮件营销', '联盟广告', '视频广告', '百度', '谷歌', '必应', '其他']
-            },
-            series: [
-                {
-                    name: '访问来源',
-                    type: 'pie',
-                    radius: ['40%', '55%'],
-                    label: {
-                        normal: {
-                            formatter: '{a|{a}}{abg|}\n{hr|}\n  {b|{b}：}{c}  {per|{d}%}  ',
-                            backgroundColor: '#eee',
-                            borderColor: '#aaa',
-                            borderWidth: 1,
-                            borderRadius: 4,
-                            rich: {
-                                a: {
-                                    color: '#999',
-                                    lineHeight: 22,
-                                    align: 'center'
+        $(document).ready(function () {
+            $('#phone').click(function () {
+                $.getJSON("{% url 'index:load_phone_data' %}", function (ret) {
+                    // 也可以用 ret['twz']
+                    var dom = document.getElementById("user_phone");
+                    var myChart = echarts.init(dom);
+                    var app = {};
+                    option = null;
+                    app.title = '嵌套环形图';
+
+                    option = {
+                        tooltip: {
+                            trigger: 'item',
+                            formatter: "{a} <br/>{b}: {c} ({d}%)"
+                        },
+                        legend: {
+                            orient: 'vertical',
+                            x: 'left',
+                            data: ['iphone', 'vivo', 'oppo', 'HUAWEI', '小米', '黑莓']
+                        },
+                        series: [
+                            {
+                                name: '访问来源',
+                                type: 'pie',
+                                radius: ['40%', '55%'],
+                                label: {
+                                    normal: {
+                                        formatter: '{a|{a}}{abg|}\n{hr|}\n  {b|{b}：}{c}  {per|{d}%}  ',
+                                        backgroundColor: '#eee',
+                                        borderColor: '#aaa',
+                                        borderWidth: 1,
+                                        borderRadius: 4,
+                                        // shadowBlur:3,
+                                        // shadowOffsetX: 2,
+                                        // shadowOffsetY: 2,
+                                        // shadowColor: '#999',
+                                        // padding: [0, 7],
+                                        rich: {
+                                            a: {
+                                                color: '#999',
+                                                lineHeight: 22,
+                                                align: 'center'
+                                            },
+                                            // abg: {
+                                            //     backgroundColor: '#333',
+                                            //     width: '100%',
+                                            //     align: 'right',
+                                            //     height: 22,
+                                            //     borderRadius: [4, 4, 0, 0]
+                                            // },
+                                            hr: {
+                                                borderColor: '#aaa',
+                                                width: '100%',
+                                                borderWidth: 0.5,
+                                                height: 0
+                                            },
+                                            b: {
+                                                fontSize: 16,
+                                                lineHeight: 33
+                                            },
+                                            per: {
+                                                color: '#eee',
+                                                backgroundColor: '#334455',
+                                                padding: [2, 4],
+                                                borderRadius: 2
+                                            }
+                                        }
+                                    }
                                 },
-                                hr: {
-                                    borderColor: '#aaa',
-                                    width: '100%',
-                                    borderWidth: 0.5,
-                                    height: 0
-                                },
-                                b: {
-                                    fontSize: 16,
-                                    lineHeight: 33
-                                },
-                                per: {
-                                    color: '#eee',
-                                    backgroundColor: '#334455',
-                                    padding: [2, 4],
-                                    borderRadius: 2
-                                }
+                                data: [
+                                    {value: ret['iphone'], name: 'iphone'},
+                                    {value: ret['vivo'], name: 'vivo'},
+                                    {value: ret['oppo'], name: 'oppo'},
+                                    {value: ret['HUAWEI'], name: 'HUAWEI'},
+                                    {value: ret['xiaomi'], name: '小米'},
+                                    {value: ret['blackbarry'], name: '黑莓'},
+                                ]
                             }
-                        }
-                    },
-                    data: [
-                        {value: 335, name: '直达'},
-                        {value: 310, name: '邮件营销'},
-                        {value: 234, name: '联盟广告'},
-                        {value: 135, name: '视频广告'},
-                        {value: 1048, name: '百度'},
-                        {value: 251, name: '谷歌'},
-                        {value: 147, name: '必应'},
-                        {value: 102, name: '其他'}
-                    ]
-                }
-            ]
-        };
-        ;
-        if (option && typeof option === "object") {
-            myChart.setOption(option, true);
-        }
+                        ]
+                    };
+                    ;
+                    if (option && typeof option === "object") {
+                        myChart.setOption(option, true);
+                    }
+                })
+            })
+        });
+
+
     </script>
 
 

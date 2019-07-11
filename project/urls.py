@@ -10,7 +10,6 @@ from project import views
 
 app_name = 'project'
 urlpatterns = [
-    path('', views.index),
     url(r'^$', views.index, name='index'),
     url(r'^yingxianglipaiming/$', views.yingxianglipaiming, name='yingxianglipaiming'),
     url(r'^xiaofaxian/$', views.xiaofaxian, name='xiaofaxian'),
@@ -19,4 +18,5 @@ urlpatterns = [
     url(r'^yonghuhuati/$', views.yonghuhuati, name='yonghuhuati'),
     url(r'^fensiqinggan/$', views.fensiqinggan, name='fensiqinggan'),
     url(r'^gongtongguanzhu/$', views.gongtongguanzhu, name='gongtongguanzhu'),
+    url(r'^load_phone_data/$', views.load_phone_data, name='load_phone_data'),
 ]

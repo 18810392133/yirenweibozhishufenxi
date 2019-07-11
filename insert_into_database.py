@@ -22,7 +22,7 @@ cursor = db.cursor()
 
 # 读取文件，开始构建sql语句，插入数据
 data = []
-for line in open("all_datas/huaticiyun.txt","r",encoding='utf8'): #设置文件对象并读取每一行文件
+for line in open("all_datas/pinglun_ciyun.txt","r",encoding='utf8'): #设置文件对象并读取每一行文件
     data.append(line)              #将每一行文件加入到list中
 
 
@@ -32,7 +32,7 @@ for i in range(len(data)):
         print(temp)
         tote =temp[1]
         keyword =temp[0]
-        sql = 'insert into project_star_topic(keyword,tote) values ("%s",%s)'%(keyword,tote)
+        sql = 'insert into project_star_pinglun(keyword,tote) values ("%s","%d")'%(keyword,int(tote))
         print(sql)
         cursor.execute(sql)
         db.commit()

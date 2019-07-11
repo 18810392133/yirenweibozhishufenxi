@@ -1,6 +1,6 @@
-from django.http import HttpResponse
+from django.http import HttpResponse, JsonResponse
 from django.shortcuts import render
-from .models import star_topic
+from .models import star_topic,fan_phone
 # 创建数据库连接
 import MySQLdb
 
@@ -22,6 +22,16 @@ def yonghuhuati(request):
 def fensiqinggan(request):
     getHuaticiyun()
     return render(request,"cxk/粉丝情感.html")
+def load_phone_data(request):
+    fan_phones_count = fan_phone.objects.all().count()
+    fan_phones = fan_phone.objects.all()
+    name_dict = []
+    for i in range(fan_phones_count):
+        temp = (fan_phones[i].phone_name,fan_phones[i].tote)
+        name_dict.append(temp)
+    return JsonResponse(dict(name_dict))
+
+
 
 
 
