@@ -1,0 +1,6722 @@
+﻿var qinggan_data=[
+    {
+        "log_id": 7940621243610936026,
+        "text": "近日 徐坤 VIEWOFTHEARTS 网站 头条 作者 一个 艺术家 并且 高度赞扬 徐坤 声线 GreatVocals ",
+        "items": [
+            {
+                "positive_prob": 0.29124,
+                "confidence": 0.352801,
+                "negative_prob": 0.70876,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 284701215898153722,
+        "text": "徐坤 登上 VIEWOFTHRARTS 头条 Performance 评为 最高 程度 五星 这次 发行 第九 原创 单曲 HardToGet 不仅 世界 极具 专业 权威 音乐 公司 EMPIRE 一起 合作 并且 自己 亲自 参与 作词 作曲 MV 拍摄 外媒 评价 声线 GreatVocals 虽然 只有 但是 他用 令人 难以 ",
+        "items": [
+            {
+                "positive_prob": 0.869322,
+                "confidence": 0.709605,
+                "negative_prob": 0.130678,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3905152203618182458,
+        "text": "伦敦 Performance 登上 VIEWOFTHRARTS 头条 评为 五星 作者 高度赞扬 声线 GreatVocals 视线 跳出 那些 误解 偏见 看看 没有 有色眼镜 评价 相信 一天 可以 表演 征服 更多人 金子 总会 发现 芒果 娱乐 ",
+        "items": [
+            {
+                "positive_prob": 0.835717,
+                "confidence": 0.634927,
+                "negative_prob": 0.164283,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8542661562359084986,
+        "text": "我国 音乐 争光 真的 一件 事情 认真 音乐 徐坤 真的 喜欢 希望 带给 我们 越来越 惊喜 ",
+        "items": [
+            {
+                "positive_prob": 0.943279,
+                "confidence": 0.873954,
+                "negative_prob": 0.0567208,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8818430839109487834,
+        "text": "今天 ",
+        "items": [
+            {
+                "positive_prob": 0.547143,
+                "confidence": 0.0571322,
+                "negative_prob": 0.452857,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 4311561595534305882,
+        "text": "花花世界 静守己 危险 眼前 一切 依然 壮观 有趣 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.900129,
+                "confidence": 0.778065,
+                "negative_prob": 0.0998709,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1815680785966499130,
+        "text": "巅峰 之路 一起 ",
+        "items": [
+            {
+                "positive_prob": 0.64532,
+                "confidence": 0.211823,
+                "negative_prob": 0.35468,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 123068867773136314,
+        "text": "不是 国内外 评价 不一是 一致 差评 还有 可能 国外 带点 偏见 国内 没有 偏见 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.0521061,
+                "confidence": 0.884208,
+                "negative_prob": 0.947894,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8310255050564212538,
+        "text": "徐坤 我本 以为 徐坤 条目 登上 维基百科 首页 之后 流量 暴增 没想到 还是 不够 可能 Wikikun 百度 百科 流量 ",
+        "items": [
+            {
+                "positive_prob": 0.347568,
+                "confidence": 0.227627,
+                "negative_prob": 0.652432,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6838228490043929434,
+        "text": "作为 一个 艺人 褒贬 正常 不会 所有 喜欢 正面 评价 承受 负面 评价 能力 只要 做好 自己 恶意中伤 争论 喜欢 无论 怎样 不会 喜欢 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.68661,
+                "confidence": 0.303577,
+                "negative_prob": 0.31339,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7761191707688445722,
+        "text": "知道 什么 时候 我们 养成 一种 习惯 无论 什么 不想 别人 知道 一直 忍着 一天 某个 晚上 因为 某个 某个 角落 某句 某个 画面 崩溃 然后 一个 床上 枕头 失声痛哭 然后 特别 个人 谈谈心 发现 知道 因为 身边 其实 没有 真正 知道 了解 ",
+        "items": [
+            {
+                "positive_prob": 0.311073,
+                "confidence": 0.308726,
+                "negative_prob": 0.688927,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2972505442017681690,
+        "text": "抛开 粉丝 滤镜 旁观者 角度 几句 NBA 球迷 角度 看看 徐坤 凭借 人气 成为 NBA 新春 大使 不是 作做 NBA 确实 生意场 徐坤会 打球 不假 那段 恶搞 视频 多少 球迷 学不来 就算 有点 专业 歌手 形象大使 我们 不能 按照 球员 高度 要求 篮球 ",
+        "items": [
+            {
+                "positive_prob": 0.361515,
+                "confidence": 0.196634,
+                "negative_prob": 0.638485,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 593937386474011706,
+        "text": "截图 评论 转发 出来 ",
+        "items": [
+            {
+                "positive_prob": 0.41922,
+                "confidence": 0.0683988,
+                "negative_prob": 0.580779,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 3303367374737220826,
+        "text": "二十岁 无限 可能 ",
+        "items": [
+            {
+                "positive_prob": 0.547794,
+                "confidence": 0.0441241,
+                "negative_prob": 0.452206,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 2524613568895367834,
+        "text": "网页 链接 这篇 微博 发现 雷粉 重合 妖孽 一伙 ",
+        "items": [
+            {
+                "positive_prob": 0.279646,
+                "confidence": 0.378566,
+                "negative_prob": 0.720354,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5054807615590409370,
+        "text": "自己 不必 庸人自扰 不必 理会 庸人 不必 牵强 别人 忍耐 不是 有限 在我看来 忍耐 极限 想念 红色 巴比 ",
+        "items": [
+            {
+                "positive_prob": 0.267461,
+                "confidence": 0.405642,
+                "negative_prob": 0.732539,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6676392879883034746,
+        "text": "徐坤 早起 小猫咪 有歌 Likun 莫夕 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.497747,
+                "confidence": 0.954937,
+                "negative_prob": 0.502253,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 2019356614643879418,
+        "text": "篮球 一直 喜欢 运动 无论是 任何 自我介绍 自己 喜欢 篮球 可能 自己 知道 因为 喜欢 所以 这个 贺岁 大使 自己 国家 这样 国内 因为 所谓 流量 小生 爱豆 一直 调侃 一点 地方 无限 放大 但是 本质 一位 音乐 ",
+        "items": [
+            {
+                "positive_prob": 0.972661,
+                "confidence": 0.939246,
+                "negative_prob": 0.0273393,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8270134439028130074,
+        "text": "发财 发生 一段 感情 来说 青天 阜阳 ",
+        "items": [
+            {
+                "positive_prob": 0.601093,
+                "confidence": 0.11354,
+                "negative_prob": 0.398907,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 5685089270756606970,
+        "text": "博客 外网 分不清 粉丝 理直气壮 真的 外网 只会 丢人 国外 男女 不女 ",
+        "items": [
+            {
+                "positive_prob": 0.158197,
+                "confidence": 0.64845,
+                "negative_prob": 0.841803,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 575102576019511130,
+        "text": "菜虚鲲 徐坤 现在 广告 真会 ",
+        "items": [
+            {
+                "positive_prob": 0.276364,
+                "confidence": 0.385857,
+                "negative_prob": 0.723636,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7991689155086426746,
+        "text": "徐坤 尊严 不容 侵犯 希望 以后 不要 恶搞 直接 删掉 所有 社交 软件 账号 参加 任何 商业活动 代言 任何 产品 发布 任何 作品 找个 深山 隐居 起来 再也 这个 肮脏 世界 侮辱 机会 加油 徐坤 ",
+        "items": [
+            {
+                "positive_prob": 0.639507,
+                "confidence": 0.198905,
+                "negative_prob": 0.360493,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6656231387475487034,
+        "text": "再度 登上 Billboard 美国版 官网 音乐 无国界 PopStarKun ",
+        "items": [
+            {
+                "positive_prob": 0.586576,
+                "confidence": 0.0812793,
+                "negative_prob": 0.413424,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3787656632541206330,
+        "text": "徐坤 尊严 不容 侵犯 希望 以后 不要 恶搞 直接 删掉 所有 社交 软件 账号 参加 任何 商业活动 代言 任何 产品 发布 任何 作品 找个 深山 隐居 起来 再也 这个 肮脏 世界 侮辱 机会 加油 徐坤 ",
+        "items": [
+            {
+                "positive_prob": 0.639507,
+                "confidence": 0.198905,
+                "negative_prob": 0.360493,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 5327615763580257274,
+        "text": "南通 海门 铁粉 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.570117,
+                "confidence": 0.0447047,
+                "negative_prob": 0.429883,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 171441233661724378,
+        "text": "时间 证明 一切 优秀 不容 质疑 ",
+        "items": [
+            {
+                "positive_prob": 0.687269,
+                "confidence": 0.305043,
+                "negative_prob": 0.312731,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7390607354972437690,
+        "text": "给爷 逗乐 才华 没有 粉丝 大把大把 反过来 臊皮 自己 多难 多难 我们 这些 几千 一个月 是不是 不配 活下去 说白了 就是 要立 娱乐圈 这么 好榜样 徐坤 就是 一个 榜样 专注 自己 音乐 没有 那么 花里胡哨 偏偏 要学 超越 上位 ",
+        "items": [
+            {
+                "positive_prob": 0.107183,
+                "confidence": 0.761816,
+                "negative_prob": 0.892817,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 3562327864702553498,
+        "text": "时间 证明 一切 青岛 台路 ",
+        "items": [
+            {
+                "positive_prob": 0.624366,
+                "confidence": 0.165258,
+                "negative_prob": 0.375634,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4134572441444274970,
+        "text": "实力 证明 一切 心中 greatvocal 骄傲 ",
+        "items": [
+            {
+                "positive_prob": 0.740477,
+                "confidence": 0.423281,
+                "negative_prob": 0.259523,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 2367895231433287674,
+        "text": "从不 吝啬 喜爱 始终 相信 的话 时间 证明 一切 那么 我们 时间 一点 时间 游泳池 ",
+        "items": [
+            {
+                "positive_prob": 0.797719,
+                "confidence": 0.550488,
+                "negative_prob": 0.202281,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 137875496015957466,
+        "text": "徐坤 努力 终会 看见 ",
+        "items": [
+            {
+                "positive_prob": 0.617419,
+                "confidence": 0.149821,
+                "negative_prob": 0.382581,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1328811195276914362,
+        "text": "徐坤 ",
+        "items": [
+            {
+                "positive_prob": 1,
+                "confidence": 1,
+                "negative_prob": 0,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 956268751987753626,
+        "text": "emm 徐坤 其实 没有 一些 黑子 想象 垃圾 不过 眼里 确实 当然 网络 暴力 还是 恐怖 请别 伤害 偶尔 鬼畜 还是 可以 徐坤 污点 其实 很多 兴趣 可以 下载 看看 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.0797808,
+                "confidence": 0.822709,
+                "negative_prob": 0.920219,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7085107230277205306,
+        "text": "徐坤 积分 谢谢 ",
+        "items": [
+            {
+                "positive_prob": 0.812803,
+                "confidence": 0.584007,
+                "negative_prob": 0.187197,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8677301260763243258,
+        "text": "舞台 就是 有共情 感染力 狮子 猫系 女友 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.78829,
+                "confidence": 0.529533,
+                "negative_prob": 0.21171,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 115131311041924346,
+        "text": "徐坤 几天 内心 难受 压抑 达到 极致 多么 告诉 所有人 喜欢 可是 黑子 还是 越来越 甚至 周围 黑粉 脱粉 快乐 还是 坚持 快乐 一个 反感 粉圈 觉得 麻烦 而且 容易 迷失 自我 变成 ",
+        "items": [
+            {
+                "positive_prob": 0.0622431,
+                "confidence": 0.861682,
+                "negative_prob": 0.937757,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6475895378917148346,
+        "text": "全网 过后 必定 满江红 猜忌 同生 键盘 功夫 麻烦 各位 读读书 一个 经得起 多大 嘲讽 经得起 多大 荣誉 所谓 营销 跟风 制作 恶搞 鬼畜 视频 快省 别乱 节奏 ",
+        "items": [
+            {
+                "positive_prob": 0.136352,
+                "confidence": 0.696996,
+                "negative_prob": 0.863648,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7428215227550658522,
+        "text": "自己 不要 逼脸 不要 出国 中国 快滚 美国 中国 欢迎 ",
+        "items": [
+            {
+                "positive_prob": 0.264561,
+                "confidence": 0.412087,
+                "negative_prob": 0.735439,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7818377875540657882,
+        "text": "口播 好听 巴黎 时光 穿梭 读书 时候 学长 诚邀 听听 第首 原创 作品 还有 Mv 上线 粉丝 cxk 粉丝 ccxkLBazaarV 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.917786,
+                "confidence": 0.817303,
+                "negative_prob": 0.0822136,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8951185174293636986,
+        "text": "各个 国家 文化背景 差异 所以 不同 地域 艺术风格 欣赏 角度 一样 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.692734,
+                "confidence": 0.317187,
+                "negative_prob": 0.307266,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7566767346791039226,
+        "text": "绝地 求生 形象大使 来自 接受 任何 律师函 视频 纯属 娱乐 没有 任何 恶意 伤害 各位 情感 下方 留言 我会 发更多 谢谢 各位 LS Rachel 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.478297,
+                "confidence": 0.565943,
+                "negative_prob": 0.521703,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 7526681876747522266,
+        "text": "安利 一下 新歌 KHardToGet 质疑 品味 ",
+        "items": [
+            {
+                "positive_prob": 0.493072,
+                "confidence": 0.861437,
+                "negative_prob": 0.506928,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 6315775756820139770,
+        "text": "cxk 原创 陪伴 最长 告白 守护 沉默 陪伴 ",
+        "items": [
+            {
+                "positive_prob": 0.716469,
+                "confidence": 0.369932,
+                "negative_prob": 0.283531,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1991761162810700474,
+        "text": "那个 网站 就是 国外 微信 公众 之类 东西 关注 只有 几万 不是 头条 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.424514,
+                "confidence": 0.0566359,
+                "negative_prob": 0.575486,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6497748127786142394,
+        "text": "吩咐 下去 保护 少夫人 老夫 老板 ",
+        "items": [
+            {
+                "positive_prob": 0.565709,
+                "confidence": 0.0349086,
+                "negative_prob": 0.434291,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4971760419093837914,
+        "text": "每个 人生 不同 每个 不是 完美无瑕 作为 粉丝 没错 眼里 就是 完美 从没 奢求 别人 这样 认为 对于 评价 觉得 是从 客观 角度 来说 至于 国内 网友 评论 认为 那些 客观 我们 开心 思考 至于 那些 盲目 ",
+        "items": [
+            {
+                "positive_prob": 0.449333,
+                "confidence": 0.00148283,
+                "negative_prob": 0.550667,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8653839810931720218,
+        "text": "每个 自己 观点 自己 喜好 可能 所有人 观点 一样 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.68016,
+                "confidence": 0.289245,
+                "negative_prob": 0.31984,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5223195889221255290,
+        "text": "徐坤 深夜 求捞 ",
+        "items": [
+            {
+                "positive_prob": 0.495173,
+                "confidence": 0.903466,
+                "negative_prob": 0.504827,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 1374957236227776698,
+        "text": "魔鬼 广州 横沥镇 LYoungQng 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.543024,
+                "confidence": 0.13953,
+                "negative_prob": 0.456976,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 1302261196445926554,
+        "text": "徐坤 刚刚 一个月 人气 那些 好几年 明星 一样 人家 努力 这么 多年 成功 一个月 成功 不服 而且 ikun 徐坤 刚刚 出道 时候 基本上 娱乐圈 其他 明星 得罪 所以 内地 很多 评价 不好 看看 五年 TFBOYS 看看 现在 徐坤 网友 已经 客气 ",
+        "items": [
+            {
+                "positive_prob": 0.865532,
+                "confidence": 0.701182,
+                "negative_prob": 0.134468,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3940059611117531322,
+        "text": "别人 因为 老子 别人 模仿 空气 系统 提示 ",
+        "items": [
+            {
+                "positive_prob": 0.377616,
+                "confidence": 0.160853,
+                "negative_prob": 0.622384,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2915440230505280954,
+        "text": "推荐 提出 问题 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 近日 VIEWOFTHEARTS 网站 头条 作者 已有 回答 围观 内容 欢迎 锁定 ",
+        "items": [
+            {
+                "positive_prob": 0.594231,
+                "confidence": 0.0982915,
+                "negative_prob": 0.405769,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1579888233098182010,
+        "text": "一个 一千 粉丝 博客 发了 篇文章 阅读 好意思 登上 头条 ",
+        "items": [
+            {
+                "positive_prob": 0.508972,
+                "confidence": 0.820566,
+                "negative_prob": 0.491028,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 7920821102154676922,
+        "text": "首先 大多数 文章 包括 老外 篇文章 脱颖而出 为什么 想想 知道 其次 以前 一直 粉丝 炮弹 不爽 这些 ikun 流量 央视 点名 真的 恶心 真的 恶心 最后 真心 力挺 各大 up 加油 看好 你们 ",
+        "items": [
+            {
+                "positive_prob": 0.0295825,
+                "confidence": 0.934261,
+                "negative_prob": 0.970418,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 577900163203045498,
+        "text": "认识 没有 好感 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.397992,
+                "confidence": 0.115573,
+                "negative_prob": 0.602008,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 4476145123258115130,
+        "text": "只是 黑粉 节奏 但是 黑粉 猖狂 我们 ikun 偏要 徐坤 一声 爱坤 一生 ikunO 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.388193,
+                "confidence": 0.137348,
+                "negative_prob": 0.611807,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 4372943793231122778,
+        "text": "最近 发现 徐坤 神奇 不管 认识 还是 认识 感觉 要凉 一次 发现 所以 不同 圈子 黑人 这么 齐心协力 ",
+        "items": [
+            {
+                "positive_prob": 0.606872,
+                "confidence": 0.126381,
+                "negative_prob": 0.393128,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1337731382055612602,
+        "text": "国内外 评价 肯定 是因为 国内 偏见 知道 想要 超越 不仅仅 跟随 那么 当前 国际 先进 电音 重要 类似 普通 手机 电子屏 华为 等等 首先 学习 优秀 老师 然后 出师 徐坤 现在 就是 条路 这样 ",
+        "items": [
+            {
+                "positive_prob": 0.869537,
+                "confidence": 0.710083,
+                "negative_prob": 0.130463,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2061733768141296762,
+        "text": "虽然 没有 多少 关注 多多少少 身边 了解 一点 网上 几乎 全网 Greatvocals 有点 同意 毕竟 现在 国内外 唱歌 好听 很多 回来 毕竟 担任 NBA 大使 多少 一定 实力 只能 是非 多路 观点 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.874391,
+                "confidence": 0.72087,
+                "negative_prob": 0.125608,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1920235827423971770,
+        "text": "近日 徐坤 VIEWOFTHEARTS 网站 头条 作者 一个 艺术家 并且 高度赞扬 徐坤 声线 GreatVocals ",
+        "items": [
+            {
+                "positive_prob": 0.29124,
+                "confidence": 0.352801,
+                "negative_prob": 0.70876,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 3221395074946669018,
+        "text": "卡通 奎中葵 crlogo ",
+        "items": [
+            {
+                "positive_prob": 0.530105,
+                "confidence": 0.397907,
+                "negative_prob": 0.469895,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 3103299085375143546,
+        "text": "首先 当初 为什么 其实 粉丝 行为 其实 自己 真的 干什么 但是 说实话 不管 公司 还是 个人 一点 担当 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.242119,
+                "confidence": 0.461957,
+                "negative_prob": 0.757881,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5749885447731561786,
+        "text": "当然 毕竟 国内 黑粉 比较 国外 只是 看到 这个 男孩 才华 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.679514,
+                "confidence": 0.287809,
+                "negative_prob": 0.320486,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5602565915913689402,
+        "text": "金子 总会 发光 一个 音乐 作品 当然 值得 称赞 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.890369,
+                "confidence": 0.756377,
+                "negative_prob": 0.109631,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 9183699785652053658,
+        "text": "ins 看到 知道 大家 不能 必须 道歉 日本 东京 ",
+        "items": [
+            {
+                "positive_prob": 0.329014,
+                "confidence": 0.268858,
+                "negative_prob": 0.670986,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 3415193793525164442,
+        "text": "徐坤能 登上 头条 只能 说明 实力 认可 国内 各种 八卦 各种 吃瓜 无中生有 人太多 跟风 所以 很多 看到 假象 掩盖 真实 外网 只是 阐述 他们 看到 听到 感受 国内 不管 徐坤 还是 别的 艺人 多多少少 有色 眼光 目的 只能 国内 ",
+        "items": [
+            {
+                "positive_prob": 0.57409,
+                "confidence": 0.0535337,
+                "negative_prob": 0.42591,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3132879140902152506,
+        "text": "阿姨 一次 所以 声音 评价 只是 有点 爆红 偶像 所以 喜爱 诋毁 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.790408,
+                "confidence": 0.534239,
+                "negative_prob": 0.209592,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2606042096468389434,
+        "text": "不是 因为 外网 就是 因为 外网 称赞 代表 俱佳 而是 真实 水平 的确 讨人喜欢 然后 还有 脑残粉 粉尬 控评 惹人讨厌 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.330954,
+                "confidence": 0.264547,
+                "negative_prob": 0.669046,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1788688263071913594,
+        "text": "关注 新闻 偏见 真的 多少 关注 问题 定论 追星 关注 自己 明星 真正 粉丝 不会 自己 爱豆 以为 任何 明星 不管 正面 还是 负面 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.915264,
+                "confidence": 0.811697,
+                "negative_prob": 0.0847365,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3053435270668591290,
+        "text": "奇怪 为什么 国外 赞扬 看看 海外 公演 知道 徐坤 工作室 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.477539,
+                "confidence": 0.550781,
+                "negative_prob": 0.522461,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 8625928800778816506,
+        "text": "喜欢 何必 知道 双眼 不会 蒙蔽 太久 认可 一定 越来越 自己 什么 重要 喜欢 造型 ",
+        "items": [
+            {
+                "positive_prob": 0.842217,
+                "confidence": 0.649372,
+                "negative_prob": 0.157783,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5094208808635518330,
+        "text": "暴力 粉丝 说实话 徐坤 几乎 没什么 了解 知道 什么 但是 之前 暴力 粉丝 无端 攻击 所以 评价 也罢 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.237226,
+                "confidence": 0.472832,
+                "negative_prob": 0.762774,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7962969014395289594,
+        "text": "不是 觉得 徐坤 这么 情况 稳住 真的 难得 讨好 大众 只想 潜心 音乐 孩子 真的 优秀 为什么 那么 多人 可能 嫉妒 ",
+        "items": [
+            {
+                "positive_prob": 0.494861,
+                "confidence": 0.89722,
+                "negative_prob": 0.505139,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 3717848017244122714,
+        "text": "怎么 可能 只是 偏见 这么 那个 唇膏 真的 受不了 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.200813,
+                "confidence": 0.553749,
+                "negative_prob": 0.799187,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 3536427174226330458,
+        "text": "喜欢 这个 男生 人设 喜欢 毫无 实力 身居高位 折射 一个 时代 方方面面 病变 没有 办法 只能 打压 这个 人设 也许 只有 这样 一点 微弱 反抗 究竟 反抗 什么 这个 时代 应该 这样 流行 应该 这样 真正 感受 悲哀 只是 那些 表述 群体 ",
+        "items": [
+            {
+                "positive_prob": 0.138619,
+                "confidence": 0.691958,
+                "negative_prob": 0.861381,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 677338281267802170,
+        "text": "大清早 帅哥 LTOPOneKUN 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.729808,
+                "confidence": 0.399572,
+                "negative_prob": 0.270193,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5988678199687228218,
+        "text": "不能 更尬 真实 一点 为了 宣发 到底 这招 ",
+        "items": [
+            {
+                "positive_prob": 0.192581,
+                "confidence": 0.572043,
+                "negative_prob": 0.807419,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 431725250895135610,
+        "text": "因为 音乐 才华 登上 不该 一件 值得 开心 事情 可以 接受 可以 不同 声音 只要 内心 没有 恶意 发表 自己 言论 觉得 可以 接受 一样 声音 相反 满嘴 恶言 恶语中伤 看不到 何为 平心而论 今时 弘扬 国粹 同时 难道 不是 接受 事物 ",
+        "items": [
+            {
+                "positive_prob": 0.335614,
+                "confidence": 0.254191,
+                "negative_prob": 0.664386,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1273664219552813690,
+        "text": "原来 传播 时候 一个 专业 名词 守门员 理论 就是 任何 新闻报道 我们 接受 信息 二手 持有偏见 所以 评判 这个 是不是 greatvocal 有没有 舞台 魅力 网上 争论 毫无意义 不如 几个 爱豆 现场 判断 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.0783023,
+                "confidence": 0.825995,
+                "negative_prob": 0.921698,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8469543748280769242,
+        "text": "律师函 警告 太美谢 广坤 加油 谢广坤 刘能 赵四谢 大脚 永远 支持 LS Rachel 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.78642,
+                "confidence": 0.525378,
+                "negative_prob": 0.21358,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6186420887808679802,
+        "text": "舍友 知道 喜欢 竟然 网上 海报 惊喜 感动 ",
+        "items": [
+            {
+                "positive_prob": 0.938191,
+                "confidence": 0.862646,
+                "negative_prob": 0.0618095,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5699832308862658586,
+        "text": "这么 多人 流量 慎入 比利时 武汉 伦敦 老公 跨国 追星 故事 公演 小组 话题 豆瓣 流量 慎入 比利时 武汉 伦敦 老公 跨国 追星 故事 公演 ",
+        "items": [
+            {
+                "positive_prob": 0.620304,
+                "confidence": 0.156232,
+                "negative_prob": 0.379696,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7349949828497502906,
+        "text": "喜欢 可以 手里 ",
+        "items": [
+            {
+                "positive_prob": 0.922852,
+                "confidence": 0.828561,
+                "negative_prob": 0.0771478,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2549247825776031066,
+        "text": "极大 可能 cxk 接连 在外 网买 知名度 流量 流量 现在 国内 已经 全网 这么 外国 一边 流量 一边 那些 毫无意义 歌火 起来 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.182527,
+                "confidence": 0.594384,
+                "negative_prob": 0.817473,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7434713790874672826,
+        "text": "所谓 头条 只不过 一个 创建 累计 点击 只有 博客 你家 主子 控评 流量 一半多 艺术家 真佛 哪敢 什么 只能 一句 太美 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.190168,
+                "confidence": 0.577404,
+                "negative_prob": 0.809832,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5534887933630935770,
+        "text": "认真 音乐 徐坤 是不是 爱豆 骄傲 Auther ",
+        "items": [
+            {
+                "positive_prob": 0.871422,
+                "confidence": 0.714271,
+                "negative_prob": 0.128578,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 4474306544143907706,
+        "text": "徐坤 最新 单曲 Hardtoget 现已 各大 音乐 平台 上线 一首 讲述 爱情 歌曲 又名 顶级 难泡 已经 第九 原创 歌曲 希望 大家 能够 改变 刻板 印象 作品 或许 认识 ",
+        "items": [
+            {
+                "positive_prob": 0.888907,
+                "confidence": 0.753128,
+                "negative_prob": 0.111093,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4878100351441590522,
+        "text": "不是 每个 天生 优秀 而是 经过 后天 努力 努力 那么 多年 今天 成就 希望 以后 黑粉 可以 善待 数据 记住 金海 猖狂 护坤 黑粉 你们 黑粉 你们 善良 洛阳 汝阳县 城关镇 ",
+        "items": [
+            {
+                "positive_prob": 0.388187,
+                "confidence": 0.137362,
+                "negative_prob": 0.611813,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8651093069497343962,
+        "text": "支持 徐坤 移民 英国 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.802847,
+                "confidence": 0.561882,
+                "negative_prob": 0.197153,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8083634918497824346,
+        "text": "你们 徐坤 人家 电视 努力 你们 看到 反正 没有 顶风 作案 律师函 警告 太美 Lgnoty 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.220769,
+                "confidence": 0.509401,
+                "negative_prob": 0.779231,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 4210790326996574042,
+        "text": "近期 土冥合 发现 土星 代表 公检法 政府 机构 介入 冥王星 代表 灰黑色 地带 擦边球 还是 风险 谨慎 ",
+        "items": [
+            {
+                "positive_prob": 0.191004,
+                "confidence": 0.575546,
+                "negative_prob": 0.808996,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 1181815033909611066,
+        "text": "国内 跟风 黑有 一句 熬过来 一样 熬过来 就是 红到 发紫 那种 徐坤 不要 不要 难过 ikun 永远 存在 在世界上 我们 总会 有人 喜欢 有人 喜欢 道不同不相为谋 他们 理解 不要 在意 他们 自然 不要 ikun 蔡先生 ",
+        "items": [
+            {
+                "positive_prob": 0.266167,
+                "confidence": 0.408518,
+                "negative_prob": 0.733833,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5366378311383818618,
+        "text": "不是 粉丝 不算 知道 nba 形象 shi 处于 什么 原因 但是 知道 NBA 招牌 愿意 对于 那些 做法 年轻 看看 那些 艺人 还有 哪些 脑残粉 不要 那些 标题 套路 什么 中国 shi 男人 what ",
+        "items": [
+            {
+                "positive_prob": 0.21292,
+                "confidence": 0.526845,
+                "negative_prob": 0.78708,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7674836873540192762,
+        "text": "登上 头条 声线 GreatVocals 登上 外网 VIEWOFTHRARTS 头条 伦敦 公演 评为 五星 称赞 greatvocals ",
+        "items": [
+            {
+                "positive_prob": 0.68381,
+                "confidence": 0.297356,
+                "negative_prob": 0.31619,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6270769050084127962,
+        "text": "谢广坤 太美 合集 大家 别点 赞别 评论 离开 麻烦 胆子 小怕 律师 含本 视频 来自 本博主 接受 任何 律师函 LS Rachel 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.804216,
+                "confidence": 0.564924,
+                "negative_prob": 0.195784,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6737776617722631962,
+        "text": "登上 外媒 头条 说明 算是 一个 影响力 事件 外媒 负责 阐述 他们 看到 想到 不会 过多 考虑 他们 所说 是否 影响 他们 国家 什么 明星 艺人 国内 娱乐 媒体 尤其 网络媒体 多数 用来 控制 网民 话语 方向 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.4441,
+                "confidence": 0.01311,
+                "negative_prob": 0.5559,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 2544024279028333946,
+        "text": "网友 投稿 徐坤 粉丝 为了 徐坤 送死 出来 ",
+        "items": [
+            {
+                "positive_prob": 0.428219,
+                "confidence": 0.0484033,
+                "negative_prob": 0.571782,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7225675122601482650,
+        "text": "没有 只是 联想 最近 看过 一些 网暴 事例 部分 网友 不要 一时 嘴瘾 以为 跟上 潮流 撇开 黑粉 不说 事实 就是 有些 了解 讨厌 cxk 网友 盲目 跟风 既然 cxk 没有 血海深仇 不如 做个 善良 ",
+        "items": [
+            {
+                "positive_prob": 0.00720471,
+                "confidence": 0.98399,
+                "negative_prob": 0.992795,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8264550028957485850,
+        "text": "今天 一群 美美 ikun 聚餐 我们 一起 一辈子 附上 可爱 小小 图片 ",
+        "items": [
+            {
+                "positive_prob": 0.873071,
+                "confidence": 0.717936,
+                "negative_prob": 0.126929,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7680245045121719674,
+        "text": "哈哈哈哈 哈哈哈哈 特效 这个 年头 人才济济 来自 QQ 空间 LSXSeven 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.922573,
+                "confidence": 0.827941,
+                "negative_prob": 0.0774265,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2935040255028583098,
+        "text": "觉得 吴亦凡 大碗 面尬 徐坤 Rap 自从 徐坤 喜欢 吴亦凡 对不起 凡哥 LS Rachel 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.64603,
+                "confidence": 0.2134,
+                "negative_prob": 0.35397,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 757614958392620506,
+        "text": "金子 总会 发光 加油 我们 一起 ",
+        "items": [
+            {
+                "positive_prob": 0.739257,
+                "confidence": 0.420572,
+                "negative_prob": 0.260743,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5167190220438673466,
+        "text": "kun MV 预告 第一版 明天 继续 ikun 老公 好帅 啊啊啊 啊啊啊 期待 完整 MV 确认 眼神 眼睛 工作室 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.815396,
+                "confidence": 0.58977,
+                "negative_prob": 0.184604,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7995682662117249626,
+        "text": "徐坤 偶像 真的 很棒 九儿 听到 上瘾 Lvicky luya 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.9337,
+                "confidence": 0.852666,
+                "negative_prob": 0.0663001,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 620097332782539930,
+        "text": "所以 早上 起来 看到 知道 那么 简单 男人 微博 备注 永远 大猪 蹄子 改不掉 ",
+        "items": [
+            {
+                "positive_prob": 0.203011,
+                "confidence": 0.548865,
+                "negative_prob": 0.796989,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6584855722827080282,
+        "text": "介绍 来自 马来西亚 首先 为什么 会粉 是因为 觉得 台风 很帅 人品 非常 努力 虽然 没有 经纪 公司 靠山 不过 凭着 自己 努力 一步 一步 往上爬 喜欢 这种 努力 向上 符合 偶像 标准 说实话 发现 中国 人好 恐怖 好像 人家 ",
+        "items": [
+            {
+                "positive_prob": 0.902431,
+                "confidence": 0.78318,
+                "negative_prob": 0.097569,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6337992551814262458,
+        "text": "外媒 称赞 徐坤 伟大 艺术家 赞扬 声线 GreatVocals 年纪轻轻 殊荣 未来 肯定 不可限量 简直 就是 中国 骄傲 未来 世界 之星 ",
+        "items": [
+            {
+                "positive_prob": 0.733234,
+                "confidence": 0.407187,
+                "negative_prob": 0.266766,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5790229505114411130,
+        "text": "很棒 我们 牢牢 早上 暖暖的 晚上 暴击 现在 只想 男人 ",
+        "items": [
+            {
+                "positive_prob": 0.940938,
+                "confidence": 0.868751,
+                "negative_prob": 0.0590621,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3598457513738600282,
+        "text": "我们 稳稳 早上 感动 现在 只想 男人 ",
+        "items": [
+            {
+                "positive_prob": 0.871937,
+                "confidence": 0.715416,
+                "negative_prob": 0.128063,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3819481241001508346,
+        "text": "这个 访问量 畜牲 玩意 一个 打篮球 一天 流量 太美 这次 足矣 载入史册 失败 营销 案例 一群 粉丝 还原 高潮 徐坤 NMSL 芜湖 安徽师范大学 花津 校区 ",
+        "items": [
+            {
+                "positive_prob": 0.144665,
+                "confidence": 0.678522,
+                "negative_prob": 0.855335,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 1087166566463973850,
+        "text": "作为 一个 客观 有些 截屏 的确 觉得 kun ne 但是 截屏 有时 真的 捏造事实 几个 以来 流言蜚语 连连 不断 过分 家人 你们 那些 人带 有色眼镜 对待 一个 新人 偶像 鲜肉 难道 他们 实力 真的 认可 因为 他太火 所以 了解 漏点 以此 吸引 ",
+        "items": [
+            {
+                "positive_prob": 0.176138,
+                "confidence": 0.608582,
+                "negative_prob": 0.823862,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8035673826555126618,
+        "text": "cxk 原创 宝贝 还是 好好 休息 晚睡 不好 我们 永远 完美 ",
+        "items": [
+            {
+                "positive_prob": 0.608582,
+                "confidence": 0.130183,
+                "negative_prob": 0.391418,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7739333095553201786,
+        "text": "第一次 知道 网络 暴力 到底 恶心 你们 以为 自己 很会 殊不知 自己 就是 这个 社会 还有 你们 到底 知不知道 你们 害死 别人 一边 辱骂 悲伤 逆流 成河 女配 一边 一模一样 事情 电影 里面 一样 你们 杀人 凶手 ",
+        "items": [
+            {
+                "positive_prob": 0.0236183,
+                "confidence": 0.947515,
+                "negative_prob": 0.976382,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8047946591188517242,
+        "text": "kun ikun 一个 组合 荣辱与共 ikun 是因为 kun 没有 背景 kun 失去 ikun 步履艰难 无法 实现 梦想 我们 共同 梦想 kun ikun 真的 晚上 ",
+        "items": [
+            {
+                "positive_prob": 0.350963,
+                "confidence": 0.220082,
+                "negative_prob": 0.649037,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1383191767808415770,
+        "text": "今天 运动会 特别 人性化 EIEI 一下子 座位 起来 一句 一句 别的 智障 一样 看着 他们 知道 爱情 开始 哈哈哈 ",
+        "items": [
+            {
+                "positive_prob": 0.854685,
+                "confidence": 0.677078,
+                "negative_prob": 0.145315,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4615581607838811002,
+        "text": "不是 必须 一句 喜欢 关注 作品 喜欢 请别 关注 招黑 还有 前段时间 某站 视频 有人 不起 就别进 个人 觉得 打着 随便 玩玩 名号 侮辱 别人 反正 支持 维权 最后 实力 不会 说谎 实力 diss 回去 加油 少年 ",
+        "items": [
+            {
+                "positive_prob": 0.548666,
+                "confidence": 0.0266802,
+                "negative_prob": 0.451334,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 1951323119283247098,
+        "text": "徐坤 刚刚 看到 朋友圈 有个 同学 发了 这些 真的 相信 时间 证明 一切 ",
+        "items": [
+            {
+                "positive_prob": 0.504901,
+                "confidence": 0.901981,
+                "negative_prob": 0.495099,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 5590197312226303898,
+        "text": "厉害 ",
+        "items": [
+            {
+                "positive_prob": 0.398075,
+                "confidence": 0.115388,
+                "negative_prob": 0.601925,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5487109994696702842,
+        "text": "实力 觉得 soda 比坤坤 厉害 毕竟 每个 自己 长短 处坤坤 努力学习 打碟 以后 看好 Odjsoda 厉害 ",
+        "items": [
+            {
+                "positive_prob": 0.723547,
+                "confidence": 0.38566,
+                "negative_prob": 0.276453,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7782857383305202778,
+        "text": "徐坤 麻烦 突突突 ",
+        "items": [
+            {
+                "positive_prob": 0.46168,
+                "confidence": 0.233605,
+                "negative_prob": 0.53832,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 6058069988615639546,
+        "text": "为啥 自己 心里 有点 数好 无论 穿着 皮鞋 还是 球鞋 只要 拖鞋 运得 很帅 还有 李小龙 服装 实在 眼看 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.849523,
+                "confidence": 0.665607,
+                "negative_prob": 0.150477,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 905730585170187610,
+        "text": "顶级 难泡 想要 ",
+        "items": [
+            {
+                "positive_prob": 0.477177,
+                "confidence": 0.54353,
+                "negative_prob": 0.522823,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 7703194389770246490,
+        "text": "为国争光 徐坤 超棒 ",
+        "items": [
+            {
+                "positive_prob": 0.933398,
+                "confidence": 0.851997,
+                "negative_prob": 0.0666015,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2077096966686456090,
+        "text": "舞台 张扬 恣意 百变 精灵 十足 投入 感染 周遭 万物 生活 温润 如玉 翩翩少年 这个 喧闹 世界 一直 静守己 渴望 不断 沉淀 提升 自己 音乐 舞台 打动 众人 原创 音乐 常靠 ikun 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.952823,
+                "confidence": 0.895163,
+                "negative_prob": 0.0471766,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 406227671684980090,
+        "text": "坐等 HTG 先导 MV 快快 不住 ",
+        "items": [
+            {
+                "positive_prob": 0.475006,
+                "confidence": 0.500122,
+                "negative_prob": 0.524994,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 7950251927889714298,
+        "text": "今天 早上 湾姐 心情 真的 矛盾 一邊 HardToGet 一邊 早餐 心情 超好 身體 自覺 輕輕搖 擺湾姐 阿娘 忍不住 問我 今天 費解 接著 收到 Instagram 通知 打開 竟然 看到 ViewoftheArts 因為 那些 道德 ",
+        "items": [
+            {
+                "positive_prob": 0.543943,
+                "confidence": 0.121145,
+                "negative_prob": 0.456057,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 9090932249152663578,
+        "text": "宝贝 优秀 外网 头条 当然 应为 实力 优秀 看到 开心 至于 国内 为什么 没有 发现 优秀 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.934992,
+                "confidence": 0.855538,
+                "negative_prob": 0.0650081,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 512777960061531514,
+        "text": "所有 恶言恶语 只不过 他们 当做 不再 自卑 工具 罢了 难听 中国 一边 诋毁 中国 一边 抵制 中国 音乐 崛起 仔细 看看 身边 当做 墙头 不能 外网 评价 或是 真实 或是 追捧 就是 一定 正确 自己 人发 歌本 就是 一种 快乐 ",
+        "items": [
+            {
+                "positive_prob": 0.199336,
+                "confidence": 0.55703,
+                "negative_prob": 0.800664,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8432460643652650042,
+        "text": "徐坤 一日 夫子 虚鲲者 夫子 何故 相欺 卑贱 世间 之物然 虚鲲 何物 未能 相比 夫子 遂曰 菜虚鲲者 粪闻 之大怒 供养 草木 有功 山林 然菜 虚鲲 何物 以吾称 夫子 解旦 日客 外来 夫子 手中 ",
+        "items": [
+            {
+                "positive_prob": 0.121082,
+                "confidence": 0.73093,
+                "negative_prob": 0.878918,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8849917302774075610,
+        "text": "中午 下午 崩溃 KHardToGet 打个 整个 精神 最棒 ",
+        "items": [
+            {
+                "positive_prob": 0.725114,
+                "confidence": 0.389142,
+                "negative_prob": 0.274886,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5759972656560199930,
+        "text": "邹忌 八尺 有余 形貌 朝服 衣冠 窥镜 其妻 孰与 城北 徐坤美 其妻 君美 徐坤何 城北 徐坤 齐国 美丽 自信 而复 问其 孰与 徐坤 美妾 徐坤何 日客 外来 问之客 徐坤 美客 ",
+        "items": [
+            {
+                "positive_prob": 0.850349,
+                "confidence": 0.667441,
+                "negative_prob": 0.149651,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 431868451063040186,
+        "text": "放过 不过 刚出道 不久 小男孩 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.62067,
+                "confidence": 0.157044,
+                "negative_prob": 0.37933,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8497293691141005242,
+        "text": "奎葵 诚信 互捞 LK 染汐 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.381286,
+                "confidence": 0.152698,
+                "negative_prob": 0.618714,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7314286117478613114,
+        "text": "一日 夫子 虚鲲者 夫子 何故 相欺 卑贱 世间 之物然 虚鲲 何物 未能 相比 夫子 遂曰 菜虚鲲者 粪闻 之大怒 供养 草木 有功 山林 然菜 虚鲲 何物 以吾称 夫子 解旦 日客 外来 夫子 手中 空无一物 大悟 ",
+        "items": [
+            {
+                "positive_prob": 0.121763,
+                "confidence": 0.729416,
+                "negative_prob": 0.878237,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8520738039561856954,
+        "text": "第九 创作 单曲 HardToGet 今日 释出 KHardToGet 流言 不断 前行 从不 自己 禁锢 单一 音乐 类型 歌曲 慵懒 忧郁 展现 百无禁忌 风格 此前 登上 VIEWOFTHEARTS 头条 文章 高度赞扬 声线 Great ",
+        "items": [
+            {
+                "positive_prob": 0.644145,
+                "confidence": 0.209212,
+                "negative_prob": 0.355855,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7214823013442156090,
+        "text": "这个 网站 兴趣 可以 了解 一下 推特上 几百 粉丝 私人 博客 性质 创始人 六个 小姑娘 算是 博客 这件 相当于 什么 几百 关注 公众 发表 一篇 文章 赞扬 徐坤 粉丝 觉得 这是 收到 国外 大批 观众 认可 这群人 看来 文化 随便 英文 博客 高潮 ",
+        "items": [
+            {
+                "positive_prob": 0.691196,
+                "confidence": 0.31377,
+                "negative_prob": 0.308804,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7459656381347580954,
+        "text": "从来不 偷东西 偷笑 从来不 偷东西 偷看 爱坤 乐颜 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.584563,
+                "confidence": 0.0768071,
+                "negative_prob": 0.415437,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5611716470747305818,
+        "text": "游泳池 今日 积分 今日 歌曲 继续 哥哥 晚安 ",
+        "items": [
+            {
+                "positive_prob": 0.622336,
+                "confidence": 0.160747,
+                "negative_prob": 0.377664,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 203830626392481370,
+        "text": "cxk 觉得 一条 可以 邀请 大家 看看 优秀 正在 很多 看到 优秀 时间 我们 一个 答案 眼前 可能 一些 黑暗 迷茫 成长 以后 回头 看看 为了 渲染 成功 以后 璀璨 姐姐 Kunsland 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.94721,
+                "confidence": 0.882688,
+                "negative_prob": 0.0527903,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 142898946163543770,
+        "text": "有位 靓仔 凭借 一己 之力 洗白 所有 鲜肉 ",
+        "items": [
+            {
+                "positive_prob": 0.752377,
+                "confidence": 0.449727,
+                "negative_prob": 0.247623,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 5079310539930136218,
+        "text": "深思 我家 小可爱 这么 可爱 可能 就是 神仙 神仙 我爱你 晚安 ",
+        "items": [
+            {
+                "positive_prob": 0.860476,
+                "confidence": 0.689947,
+                "negative_prob": 0.139524,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 921432691062390426,
+        "text": "哥哥 晚安 明天 加油 今天 哥哥 流泪 ",
+        "items": [
+            {
+                "positive_prob": 0.731921,
+                "confidence": 0.404269,
+                "negative_prob": 0.268079,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5834936183153296762,
+        "text": "新歌 超级 啊啊啊 ",
+        "items": [
+            {
+                "positive_prob": 0.650689,
+                "confidence": 0.223754,
+                "negative_prob": 0.349311,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2560034096946729242,
+        "text": "心尖 尖儿 比不上 我爱你 独家 第九 创作 单曲 HardToGet 流行 先锋 无畏 前行 网页 链接 KUNIKUN 天生一对 ",
+        "items": [
+            {
+                "positive_prob": 0.459861,
+                "confidence": 0.19721,
+                "negative_prob": 0.540139,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 177686408282272090,
+        "text": "看上去 总是 那么 美好 ",
+        "items": [
+            {
+                "positive_prob": 0.572899,
+                "confidence": 0.0508861,
+                "negative_prob": 0.427101,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 5811526477295977210,
+        "text": "看来 癌坤们 真的 巴不得 ",
+        "items": [
+            {
+                "positive_prob": 0.381683,
+                "confidence": 0.151817,
+                "negative_prob": 0.618317,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5804033853005623258,
+        "text": "打开 就是 幸运 希望 幸运 一直 光临 ",
+        "items": [
+            {
+                "positive_prob": 0.856149,
+                "confidence": 0.68033,
+                "negative_prob": 0.143851,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4637094023277833690,
+        "text": "徐坤 伦敦 Performance 登上 VIEWOFTHRARTS 头条 评为 五星 高度赞扬 徐坤 声线 GreatVocals 结果 徐坤 黑粉 网站 留言 网站 自己 参与 流言蜚语 涉足 kun 私生活 文字 传播 能量 ",
+        "items": [
+            {
+                "positive_prob": 0.373956,
+                "confidence": 0.168987,
+                "negative_prob": 0.626044,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8691073701817497434,
+        "text": "提醒 要是 这样 以后 灯牌 自己 自己 一句 然后 下台 一局 代言 自己 OK ",
+        "items": [
+            {
+                "positive_prob": 0.297218,
+                "confidence": 0.339516,
+                "negative_prob": 0.702782,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6235751974684221818,
+        "text": "徐坤 新歌 好听 来来来 起来 哥教 唱歌 喽上 外网 头条 金子 总会 发光 时间 证明 音乐 忠诚 不是 等到 天爱 ",
+        "items": [
+            {
+                "positive_prob": 0.640477,
+                "confidence": 0.201059,
+                "negative_prob": 0.359523,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5892045992824309178,
+        "text": "每个 自己 梦想 并且 坚持 徐坤 梦想 不过 追求 自己 音乐 罢了 邀请 代言 各种 品牌 什么 那个 本事 NBA 看中 身上 某个 适合 代言 所以 根本 必要 一个 自己 知道 怎么 做人 有点 良心 学会 尊重 他人 ",
+        "items": [
+            {
+                "positive_prob": 0.808171,
+                "confidence": 0.573713,
+                "negative_prob": 0.191829,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8548716132649162554,
+        "text": "徐坤 只有 真正 强大 可以 惧怕 任何 言论 如果 没有 驶来 游过去 ",
+        "items": [
+            {
+                "positive_prob": 0.673371,
+                "confidence": 0.274158,
+                "negative_prob": 0.326629,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 870882669169176186,
+        "text": "徐坤 今晚 朋友 发过来 有种 看到 队友 激动 幸好 朋友圈 这种 ",
+        "items": [
+            {
+                "positive_prob": 0.584203,
+                "confidence": 0.0760059,
+                "negative_prob": 0.415797,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1293758879245899578,
+        "text": "六个 自由 编辑 一个 媒体 类似 一个 微信 公众 吹成 外媒 点赞 微信 公众 外媒 网站 真是 强行 头条 哈哈哈哈 哈哈哈 哈哈哈 哈哈哈 ",
+        "items": [
+            {
+                "positive_prob": 0.967544,
+                "confidence": 0.927875,
+                "negative_prob": 0.0324564,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 9045453237950649434,
+        "text": "海外 采访报道 合集 不仅 凭借 超高 人气 音乐 实力 接受 国外 权威 媒体 采访 个人 公演 海报 采访 内容 登上 各大 媒体 官网 头条 首页 全身心 投入 音乐 制作 不断 带来 优秀作品 不负 期待 个人 首次 海外 公演 带来 作品 惊喜 期待 新歌 MV 上线 ",
+        "items": [
+            {
+                "positive_prob": 0.974032,
+                "confidence": 0.942294,
+                "negative_prob": 0.0259678,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 1005064528485600442,
+        "text": "游泳池 今日 积分 互捞 互动 不要 争取 破纪录 加油 ",
+        "items": [
+            {
+                "positive_prob": 0.596787,
+                "confidence": 0.103972,
+                "negative_prob": 0.403213,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7791969149195283674,
+        "text": "抛开 成见 发现 身上 独特 优点 期待 新歌 HardToGet ",
+        "items": [
+            {
+                "positive_prob": 0.869584,
+                "confidence": 0.710187,
+                "negative_prob": 0.130416,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8208191699528454106,
+        "text": "哈哈哈 六个 创立 访问量 网坤坤 最棒 太美 ",
+        "items": [
+            {
+                "positive_prob": 0.892971,
+                "confidence": 0.762158,
+                "negative_prob": 0.107029,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7534570574434802906,
+        "text": "这是 外媒 客观 评价 毕竟 实力 放在 真正 实力 厉害 ",
+        "items": [
+            {
+                "positive_prob": 0.333257,
+                "confidence": 0.259429,
+                "negative_prob": 0.666743,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 4907836328773753498,
+        "text": "宝贝 一直 快乐 每日 开心 我们 宝贝 超棒 ",
+        "items": [
+            {
+                "positive_prob": 0.983377,
+                "confidence": 0.96306,
+                "negative_prob": 0.0166229,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 748981966600348058,
+        "text": "花花世界 静守己 简简单单 八个 从来不 而已 徐坤 拥有 面对 一切 负面 评价 勇气 不忘 初心 坚持 创作 毅力 超乎 年龄 成熟 ",
+        "items": [
+            {
+                "positive_prob": 0.858706,
+                "confidence": 0.686014,
+                "negative_prob": 0.141294,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5653171713478014938,
+        "text": "披荆斩棘 睥睨 众生 碧海 蓝天 一线 我们 追随 ",
+        "items": [
+            {
+                "positive_prob": 0.627903,
+                "confidence": 0.173118,
+                "negative_prob": 0.372097,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4101942269433422746,
+        "text": "徐坤 真的 优秀 你们 有人 这么 认为 不能 否认 别人 认可 实力 舞台 之王 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.677576,
+                "confidence": 0.283502,
+                "negative_prob": 0.322424,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7384241211838768506,
+        "text": "第九 原创 单曲 Hardtoget 今日 分在 各大 平台 同步 上线 人生 叙述 Hardtoget ",
+        "items": [
+            {
+                "positive_prob": 0.790595,
+                "confidence": 0.534656,
+                "negative_prob": 0.209405,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7314883652439291642,
+        "text": "蔡黑 丢脸 国外 作为 中国 人去 外国 网站 抹黑 中国 以为 人家 附和 不得不 职黑 真的 敬业 你们 记住 你们 成为 蔡黑 之前 首先 中国 代表 中国 素质 赚钱 之前 国家 大义 放在 前面 而且 人家 外国 网站 认可 实力 认可 ",
+        "items": [
+            {
+                "positive_prob": 0.164461,
+                "confidence": 0.634531,
+                "negative_prob": 0.835539,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 3371192797911031834,
+        "text": "恭喜 我坤哥 还是 那个 我们 骄傲 男孩 HardToGet 好听 期待 今后 作品 ",
+        "items": [
+            {
+                "positive_prob": 0.818476,
+                "confidence": 0.596614,
+                "negative_prob": 0.181524,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2516779272663147578,
+        "text": "tmchickenisbeautiful 我服 说实话 看到 这么 好开心 另外 居然 真的 现实 见到 黑子 mdzz 朋友 鉴别 一个 人品 素质 时候 哈尔滨 哈尔滨 医科大学 ",
+        "items": [
+            {
+                "positive_prob": 0.238458,
+                "confidence": 0.470094,
+                "negative_prob": 0.761542,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7223233681960361530,
+        "text": "你们 这些 黑装路 鸡鸡 真的 辛苦 平时 我们 怎么 一会 每次 是因为 你们 哈哈哈哈 多亏 哈比 我们 粉丝 辛苦 拼命 大半夜 睡觉 搁着 顶热 你们 这样 愧疚 一个 身为 粉丝 你们 称职 ",
+        "items": [
+            {
+                "positive_prob": 0.438582,
+                "confidence": 0.0253742,
+                "negative_prob": 0.561418,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 4278143946691626746,
+        "text": "昨天 有个 朋友 一句 徐坤 作为 一个 音乐 现在 虽然 小众 但是 时间 日久 会见 人心 当时 脑子里 想起 那句话 时间 证明 一切 这个 朋友 从路 感官 不好 现在 音乐 欣赏 觉得 就是 最好 证明 ps ",
+        "items": [
+            {
+                "positive_prob": 0.643139,
+                "confidence": 0.206975,
+                "negative_prob": 0.356861,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5179489663602925722,
+        "text": "网友 求助 身边 太多癌 怎么办 律师函 没有 ",
+        "items": [
+            {
+                "positive_prob": 0.287868,
+                "confidence": 0.360293,
+                "negative_prob": 0.712132,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 560772326619222074,
+        "text": "就是 因为 偏见 了解 不是 因为 他长 太帅 忽略 才华 太红挡 职黑 下场 厉害 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.494367,
+                "confidence": 0.887332,
+                "negative_prob": 0.505633,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 89345432388835930,
+        "text": "徐坤 游泳池 今日 份求 积分 ",
+        "items": [
+            {
+                "positive_prob": 0.512645,
+                "confidence": 0.747095,
+                "negative_prob": 0.487355,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 5108125676067796282,
+        "text": "风波 过后 依然 坚信不疑 地站 身后 知道 很棒 身为 九妹 骄傲 ",
+        "items": [
+            {
+                "positive_prob": 0.932578,
+                "confidence": 0.850173,
+                "negative_prob": 0.0674222,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4173855244765740602,
+        "text": "一位 自己 态度 青年 歌者 国内 黑粉 一直 强调 不足 我们 接受 无论 对错 现在 黑粉 已经 疯狂 外国 媒体 赞扬 不放过 地步 希望 你们 看到 这个 世界 可以 友善 一点 不要 这种 偏见 安到 外国 媒体 身上 谢谢 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.451378,
+                "confidence": 0.027551,
+                "negative_prob": 0.548622,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 779278128605512122,
+        "text": "徐坤 厉害 相信 听听 首歌 ",
+        "items": [
+            {
+                "positive_prob": 0.426748,
+                "confidence": 0.0516714,
+                "negative_prob": 0.573252,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 5438439068566917242,
+        "text": "这次 所有人 看清 中国 竟然 这么 素质 低下 外国 网去 丢脸 他们 不要脸 中国 还要 中国 外国 中国 真是 可笑 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.0567573,
+                "confidence": 0.873873,
+                "negative_prob": 0.943243,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 291106169005730554,
+        "text": "新歌 KHardToGet 出道 一年 原创 RB EDM 流行 先锋 自由 徜徉于 音乐 世界 不断 变换 节奏 律动 勾勒 出仅 属于 独特 音乐风格 ",
+        "items": [
+            {
+                "positive_prob": 0.919112,
+                "confidence": 0.820249,
+                "negative_prob": 0.0808878,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3642223780739534874,
+        "text": "相信 支持 离开 许昌 时代广场 ",
+        "items": [
+            {
+                "positive_prob": 0.799957,
+                "confidence": 0.55546,
+                "negative_prob": 0.200043,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7474669882999771994,
+        "text": "昨晚 徐坤 登上 VIEWOFTHRARTS 网站 头条 网友 网站 评论 徐坤 花钱买 今早 网站 对此 进行 澄清 强调 自己 非营利 性质 网站 发文 纯粹 徐坤 欣赏 ",
+        "items": [
+            {
+                "positive_prob": 0.0632005,
+                "confidence": 0.859554,
+                "negative_prob": 0.9368,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7542855672252559034,
+        "text": "寻思 瞎吹 图片 部分 来自 知乎 ",
+        "items": [
+            {
+                "positive_prob": 0.300148,
+                "confidence": 0.333004,
+                "negative_prob": 0.699852,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1427111699875902714,
+        "text": "哈哈哈 就是 一个 博客 性质 网站 国外 头疼 难道 不够 一次 广州 广州 华南 商贸 职业 学院 ",
+        "items": [
+            {
+                "positive_prob": 0.34516,
+                "confidence": 0.232977,
+                "negative_prob": 0.65484,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8479915636801727322,
+        "text": "为啥 天天 徐坤 徐坤 有人 成神 有人 到底 干嘛 ",
+        "items": [
+            {
+                "positive_prob": 0.324789,
+                "confidence": 0.278247,
+                "negative_prob": 0.675211,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2234565242834917178,
+        "text": "看看 姐姐 团在 伦敦 场外 采访 外国 歌迷 偶像 练习生 喜欢 徐坤 就是 黑子 去尬 那个 视频 出处 可是 那个 节目 好多 徐坤 姐姐 Kunsland 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.872073,
+                "confidence": 0.715718,
+                "negative_prob": 0.127927,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6791566215326659546,
+        "text": "英语专业 一定 好好学习 English 每天 vegetableblacks 一样 努力 ",
+        "items": [
+            {
+                "positive_prob": 0.663738,
+                "confidence": 0.252752,
+                "negative_prob": 0.336262,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8052337332750501914,
+        "text": "相信 支持 ",
+        "items": [
+            {
+                "positive_prob": 0.807703,
+                "confidence": 0.572674,
+                "negative_prob": 0.192297,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5147945230634942266,
+        "text": "每次 徐坤 一上 黑粉 粉丝 快服 可能 粉儿 哈哈哈 哈哈哈 徐坤 粉丝 不能 还口 不然 就是 脑残粉 不能 发表 关于 赞美 评论 不然 小窗 哈哈哈哈 徐坤 真的 需要 很大 勇气 ",
+        "items": [
+            {
+                "positive_prob": 0.636197,
+                "confidence": 0.191549,
+                "negative_prob": 0.363803,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 354800857719345946,
+        "text": "发现 徐坤 黑子 真挺 容易 状告 今天 外网 头条 比控评 粉丝 辛苦 密切 关注 徐坤 各类 话题 想方设法 引导 舆论 群嘲 律师函 明明 就是 要告 平台 up 主和自 媒体 协助 处理结果 变成 状告 算不算 阅读 理解 障碍 外网 头条 ",
+        "items": [
+            {
+                "positive_prob": 0.303182,
+                "confidence": 0.326262,
+                "negative_prob": 0.696818,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6670168099107353306,
+        "text": "Thankuforurintegrity ",
+        "items": [
+            {
+                "positive_prob": 1,
+                "confidence": 1,
+                "negative_prob": 0,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 4990176522127174554,
+        "text": "蔡黑 真的 国人 丢脸 外国 网站 抹黑 徐坤 看到 人家 回应 素质 真的 不配 作为 一个 中国 中国 文明古国 知礼 守法 你们 认为 外国 网站 抹黑 别人 你们 职黑 一样 跟风 拜托 脑子 上网 完全 国人 丢脸 素质 啥时候 这么 低下 ",
+        "items": [
+            {
+                "positive_prob": 0.00719951,
+                "confidence": 0.984001,
+                "negative_prob": 0.9928,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2745872720231297882,
+        "text": "支持 徐坤 维权 希望 ikun 团结起来 微博 知乎 百度 QQ 淘宝 等等 起诉 因为 那些 软件 上面 侮辱 徐坤 东西 可以 找到 证据 光告 一个 不够 维护 自己 权益 这些 软件 背后 公司 战斗 到底 粉丝团 ",
+        "items": [
+            {
+                "positive_prob": 0.191223,
+                "confidence": 0.575059,
+                "negative_prob": 0.808777,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1218367816045095514,
+        "text": "粉丝 爆破 徐坤 粉丝 成果 反观 ikun 怎么 申请 账号 发愁 ",
+        "items": [
+            {
+                "positive_prob": 0.444339,
+                "confidence": 0.0125787,
+                "negative_prob": 0.55566,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1658786164352181850,
+        "text": "登上 头条 伦敦 PerformanceVIEWOFTHRARTS 头条 评为 最高 程度 五星 外媒 评价 声线 GreatVocals 虽然 只有 但是 他用 令人 难以置信 表演 征服 大众 态度 音乐 ",
+        "items": [
+            {
+                "positive_prob": 0.809514,
+                "confidence": 0.576697,
+                "negative_prob": 0.190486,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7508058494947556954,
+        "text": "估计 眼瞎 太美 律师函 样子 真像 徐坤 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.273803,
+                "confidence": 0.391549,
+                "negative_prob": 0.726197,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7583036649240366202,
+        "text": "徐坤 希望 我们 vegetableblack 能够 不要 丢脸 虽然 我们 感谢 所有 评论 必须 明确 我们 不能容忍 肆意 侮辱 这篇 评论 完全 基础 KUN 英国 表演 表达 我们 作为 记者 欣赏 我们 这里 传播 能量 不是 负面影响 ",
+        "items": [
+            {
+                "positive_prob": 0.406646,
+                "confidence": 0.0963428,
+                "negative_prob": 0.593354,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8175938227117161018,
+        "text": "徐坤 粉丝 对于 表扬 称赞 表示感谢 公演 顺利进行 旧金山 LA 纽约 伦敦 四场 谢谢 外媒 认可 希望 自己 平心静气 抛开 固有 思维 了解 一下 本人 音乐 舞台 无论 是否 接受 喜欢 希望 多一点 包容 一些 空间 自由 成长 需要 时间 徐坤原 ",
+        "items": [
+            {
+                "positive_prob": 0.978771,
+                "confidence": 0.952825,
+                "negative_prob": 0.0212286,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6300772075938064826,
+        "text": "听新歌 心情 非常 微博 视频 HardToGet ",
+        "items": [
+            {
+                "positive_prob": 0.558315,
+                "confidence": 0.018478,
+                "negative_prob": 0.441685,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 823649205120959674,
+        "text": "每个 审美 欣赏 角度 一样 我们 可以 不去 喜欢 不能 伤害 因为 我们 没有 资格 没有 任何 立场 评论 别热 每个 缺点 世界 没有 完美 只要 努力 不断 取得 进步 最好 自己 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.894636,
+                "confidence": 0.765858,
+                "negative_prob": 0.105364,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 691455929082505882,
+        "text": "徐坤 chickenissobeautifulchicken ",
+        "items": [
+            {
+                "positive_prob": 1,
+                "confidence": 1,
+                "negative_prob": 0,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 7168277906709901050,
+        "text": "微博 视频 HardToGet ",
+        "items": [
+            {
+                "positive_prob": 0.521972,
+                "confidence": 0.560552,
+                "negative_prob": 0.478028,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 4444701463223349178,
+        "text": "cxk 歌手 偶像 舞台 闪闪发光 存在 坚持 原创 音乐 热心 助力 公益 今后 带给 大家 源源不断 能量 ",
+        "items": [
+            {
+                "positive_prob": 0.879155,
+                "confidence": 0.731455,
+                "negative_prob": 0.120845,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8124962665249059866,
+        "text": "粉丝 回复 不敢 原来 就是 头条 American CaliforniaYolo ",
+        "items": [
+            {
+                "positive_prob": 0.235495,
+                "confidence": 0.476678,
+                "negative_prob": 0.764505,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2258577128327919962,
+        "text": "葵求 积分 ",
+        "items": [
+            {
+                "positive_prob": 0.574099,
+                "confidence": 0.0535531,
+                "negative_prob": 0.425901,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1079658318991570458,
+        "text": "徐坤 游泳池 积分 互捞 ",
+        "items": [
+            {
+                "positive_prob": 0.607934,
+                "confidence": 0.128742,
+                "negative_prob": 0.392066,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 3078463338063464890,
+        "text": "放下 偏见 一个 人时 才能 看见 他人 闪光点 不要 因为 他们 言语 左右 自己 好好 认识 这个 男孩 关注 歌曲 hardtoget 第九 原创 音乐 真的 热爱 音乐 男孩 不要 因为 自己 手下无情 嘲笑 别人 坚持 ",
+        "items": [
+            {
+                "positive_prob": 0.816001,
+                "confidence": 0.591113,
+                "negative_prob": 0.183999,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5880456512023819866,
+        "text": "这么 多外 报道 Billboard 首页 报道 尼玛 Billboard 个人 起来 个人 博客 ",
+        "items": [
+            {
+                "positive_prob": 0.376236,
+                "confidence": 0.16392,
+                "negative_prob": 0.623764,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1476607422835311386,
+        "text": "的确如此 有些 喜欢 人家 明星 没有 什么 伤害 别人 还要 费尽心思 伤害 没见 别人 努力 人家 一夜 成名 真的 无奈 徐坤 登外 头条 高度 称赞 国内外 评价 一只 是因为 偏见 ",
+        "items": [
+            {
+                "positive_prob": 0.389825,
+                "confidence": 0.133721,
+                "negative_prob": 0.610174,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6760929530808552186,
+        "text": "外网 人家 billboard 首页 两次 事实 就是 事实 看看 黑子 水平 哈哈哈 哈哈 真是 跳梁小丑 ",
+        "items": [
+            {
+                "positive_prob": 0.627928,
+                "confidence": 0.173173,
+                "negative_prob": 0.372072,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6229106941296604314,
+        "text": "一个 六个 创办 七年 下来 阅读 只有 十万左右 坐拥 五十多 粉丝 所有 文章 评论 一个 国外 免费 博客 网站 十万 阅读 还是 发了 徐坤后 我们 粉丝 火速 赶过去 叫做 头条 国人 骄傲 呐本 柠檬精 真是 这骚 操作 一波 接着 一波 ",
+        "items": [
+            {
+                "positive_prob": 0.610274,
+                "confidence": 0.133941,
+                "negative_prob": 0.389726,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 276786470121747258,
+        "text": "键盘 侠真 nm 可笑 外网 不是 因为 你们 一个个 经过 脑子 思考 NBA 形象大使 新春 贺岁 大使 分不清 现在 外网 你们 双标 中国 人脸 难道 不是 你们 这群 没脑子 说话 键盘 阳泉 南娄镇 ",
+        "items": [
+            {
+                "positive_prob": 0.018332,
+                "confidence": 0.959262,
+                "negative_prob": 0.981668,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 3441153551208518490,
+        "text": "微博 视频 HardToGet ",
+        "items": [
+            {
+                "positive_prob": 0.521972,
+                "confidence": 0.560552,
+                "negative_prob": 0.478028,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 7841200138581497018,
+        "text": "徐坤 其他 分值 播放 应该 提上来 ",
+        "items": [
+            {
+                "positive_prob": 0.478657,
+                "confidence": 0.573141,
+                "negative_prob": 0.521343,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 3784487580041148986,
+        "text": "好棒 ",
+        "items": [
+            {
+                "positive_prob": 0.667297,
+                "confidence": 0.26066,
+                "negative_prob": 0.332703,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 7445536416679605722,
+        "text": "上海 DWP 打碟 现场 真的 感慨 男孩 进步 真的 神速 现场 表现力 DWP 生日会 进步 一大截 这次 海外 公演 DJ 表演 dwp 成熟 LSweetPoisonAugust 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.922131,
+                "confidence": 0.826958,
+                "negative_prob": 0.0778687,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5183754665432990682,
+        "text": "真是 为了 丢人 国外 真是 你们 丢人 你们 中国 蹩脚 英语 真不闲 丢人 ",
+        "items": [
+            {
+                "positive_prob": 0.0332384,
+                "confidence": 0.926137,
+                "negative_prob": 0.966762,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7267931282204594618,
+        "text": "大哥 MV ",
+        "items": [
+            {
+                "positive_prob": 0.50831,
+                "confidence": 0.833796,
+                "negative_prob": 0.49169,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 6506392997775723738,
+        "text": "不要 戴上 有色眼镜 看待 一个 人请 好好 了解 下定义 ",
+        "items": [
+            {
+                "positive_prob": 0.43251,
+                "confidence": 0.0388674,
+                "negative_prob": 0.56749,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2910850833469262554,
+        "text": "野鸡 网站 什么 时候 代表 外网 cxk 天上 ty 是不是 火爆 全球 ",
+        "items": [
+            {
+                "positive_prob": 0.47823,
+                "confidence": 0.564605,
+                "negative_prob": 0.52177,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 2009887727180925818,
+        "text": "跟风 没有 判断能力 麻烦 看看 这个 国外 坚持 徐坤 音乐 舞台 客观 评价 反观 国内 真的 令人 咂舌 网页 链接 ",
+        "items": [
+            {
+                "positive_prob": 0.196559,
+                "confidence": 0.563202,
+                "negative_prob": 0.803441,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6741500814874040474,
+        "text": "不敢 不敢 ak 这么 自欺欺人 滨州 山东 航空学院 ",
+        "items": [
+            {
+                "positive_prob": 0.200416,
+                "confidence": 0.55463,
+                "negative_prob": 0.799584,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5122057830335583994,
+        "text": "网友 投稿 顶级 流量 徐坤大 数据 评论 这样 央视 点名 还是 不知悔改 ",
+        "items": [
+            {
+                "positive_prob": 0.384392,
+                "confidence": 0.145795,
+                "negative_prob": 0.615608,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 260822487534147194,
+        "text": "今天 早就 看到 观感 不好 东西 对于 这种 行为 无法 理解 一群 人站 道德 最高点 恶毒 语言 甚至 不惜 损害 国家 形象 伤害 一个 优秀 无限 可能 年轻 中国 说不出来 感觉 知道 应该 心疼 偶像 徐坤 还是 ",
+        "items": [
+            {
+                "positive_prob": 0.0626817,
+                "confidence": 0.860707,
+                "negative_prob": 0.937318,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8057170088552961306,
+        "text": "你们 粉丝 一点 操作 cxk 多一丝 机会 翻身 真的 ",
+        "items": [
+            {
+                "positive_prob": 0.666287,
+                "confidence": 0.258416,
+                "negative_prob": 0.333713,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 8279869395888582170,
+        "text": "游泳池 积分 ",
+        "items": [
+            {
+                "positive_prob": 0.592404,
+                "confidence": 0.0942304,
+                "negative_prob": 0.407596,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8352023257732622714,
+        "text": "之前 看到 各大 平台 全网 徐坤 感觉 特别 无奈 无力 反驳 那么 多人 其实 什么 恶意 人身攻击 国人 善良 一点 不要 自己 人先 瞧不起 自己 ",
+        "items": [
+            {
+                "positive_prob": 0.134967,
+                "confidence": 0.700073,
+                "negative_prob": 0.865033,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2424302420714983482,
+        "text": "徐坤 先生 才华 支持 徐坤 先生 正义 维权 ",
+        "items": [
+            {
+                "positive_prob": 0.790873,
+                "confidence": 0.535272,
+                "negative_prob": 0.209127,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6287138508114466298,
+        "text": "这舞 这么 辣眼 艺术 看来 现在 小女生 喜欢 人妖 ",
+        "items": [
+            {
+                "positive_prob": 0.851135,
+                "confidence": 0.669188,
+                "negative_prob": 0.148865,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3407460340412691962,
+        "text": "好听 不错 ",
+        "items": [
+            {
+                "positive_prob": 0.909947,
+                "confidence": 0.799881,
+                "negative_prob": 0.0900535,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8439795669846029146,
+        "text": "登上 VIEWOFTHRARTS 头条 伦敦 Performance 评为 最高 程度 五星 文章 评价 声线 GreatVocals 许多 留下 深刻 印象 虽然 只有 这个 年轻人 令人 难以置信 表演 征服 大众 不忘 初心 坚持 下去 即将 迎来 属于 春天 ",
+        "items": [
+            {
+                "positive_prob": 0.945671,
+                "confidence": 0.879269,
+                "negative_prob": 0.054329,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6440492219274064250,
+        "text": "新歌 说句实话 真的 一般 粉丝 让路 不要 有色眼镜 徐坤 麻烦 这话 之前 你们 粉丝 滤镜 拿走 ",
+        "items": [
+            {
+                "positive_prob": 0.166805,
+                "confidence": 0.629322,
+                "negative_prob": 0.833195,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7182019518784041594,
+        "text": "超级 好听 第九 原创 歌曲 ",
+        "items": [
+            {
+                "positive_prob": 0.763948,
+                "confidence": 0.475441,
+                "negative_prob": 0.236052,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4929650574355786906,
+        "text": "明显 营销 不然 营销 怎么 billboard 两篇 文章 配图 具有 调侃 意味 还点 赞黑 评论 内娱 资本 喜欢 没法 控制 打压 妖魔化 粉丝 很能 理解 徐坤 加油 一潭死水 内娱 真的 无趣 希望 自己 虽然 艰难 还有 粉丝 刷下来 ",
+        "items": [
+            {
+                "positive_prob": 0.533225,
+                "confidence": 0.335491,
+                "negative_prob": 0.466775,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 5005946369641175578,
+        "text": "电光 教程 软件 procreate 做好 图放 评论 玫瑰色 Cris 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.217528,
+                "confidence": 0.516605,
+                "negative_prob": 0.782472,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5741123984324237786,
+        "text": "实力 圈粉 ",
+        "items": [
+            {
+                "positive_prob": 0.592633,
+                "confidence": 0.0947391,
+                "negative_prob": 0.407367,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4046604944313809178,
+        "text": "网友 投稿 女朋友 妈妈 徐坤 应援 周边 怎么 ps 初二 小朋友 ",
+        "items": [
+            {
+                "positive_prob": 0.358106,
+                "confidence": 0.204209,
+                "negative_prob": 0.641894,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6323758077871450266,
+        "text": "徐鲲 是不是 第一个 比利 相比 ",
+        "items": [
+            {
+                "positive_prob": 0.498051,
+                "confidence": 0.96103,
+                "negative_prob": 0.501949,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 2682832777746855450,
+        "text": "只有 二十岁 做到 现在 这样 真的 比太多 人强 没有 人会 平白无故 钦佩 一个 欣赏 来自 身上 闪光点 我们 get 愿意 努力 送上 鲜花 随口 一句 也许 得到 黑子 几个 但是 不如 徐坤 就是 不如 徐坤 就是 优秀 就是 成功 这是 所有人 看在眼里 ",
+        "items": [
+            {
+                "positive_prob": 0.279099,
+                "confidence": 0.37978,
+                "negative_prob": 0.720901,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 3758558366653900890,
+        "text": "这个 什么 网站 就是 这个 叫做 viewofthearts 头条 这个 网站 到底 权威 自己 网页 链接 原来 六个 外国 小姐姐 创建 免费 博客 所以 粉丝 理性 点别 什么 艺术家 头衔 低调 敞亮 点有 实力 不会 因为 一个 所谓 外媒 人尽皆知 ",
+        "items": [
+            {
+                "positive_prob": 0.714143,
+                "confidence": 0.364762,
+                "negative_prob": 0.285857,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2649994086068554874,
+        "text": "一碗 宽面 吴亦凡 教会 徐坤 做人 吴亦凡 一碗 宽面 吴亦凡 教会 徐坤 做人 ",
+        "items": [
+            {
+                "positive_prob": 0.683968,
+                "confidence": 0.297707,
+                "negative_prob": 0.316032,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6679405159214744602,
+        "text": "网站 麻烦 了解 一下 billboardbillboard 应该 知道 什么 不用 解释 ",
+        "items": [
+            {
+                "positive_prob": 0.478076,
+                "confidence": 0.56151,
+                "negative_prob": 0.521924,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 2324906774741126170,
+        "text": "还是 相信 很多 能量 放下 偏见 了解 一下 恶搞 视频 已经 妖魔化 当初 徐坤 时候 觉得 这个 男孩 简单 单纯 看着 越来越 认可 视频 来源 名为 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.453956,
+                "confidence": 0.0791198,
+                "negative_prob": 0.546044,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 3208330156979844698,
+        "text": "玩意 媒体 权威 真的 不是 买来 智商 不难 顺手 嘲讽 国内 还行 ",
+        "items": [
+            {
+                "positive_prob": 0.414194,
+                "confidence": 0.0795682,
+                "negative_prob": 0.585806,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8610771602143477434,
+        "text": "徐坤 愿意 枕上 潮头 红地毯 礼堂 暮霭 沉沉的 原野 共享 ",
+        "items": [
+            {
+                "positive_prob": 0.540885,
+                "confidence": 0.182306,
+                "negative_prob": 0.459115,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 8924138520822736154,
+        "text": "帅哥 ",
+        "items": [
+            {
+                "positive_prob": 0.736813,
+                "confidence": 0.41514,
+                "negative_prob": 0.263187,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3137610209751134618,
+        "text": "宇宙 巨腥 徐鲲 篮球 吊打 科比 乔丹 跳舞 超越 迈克尔 杰克逊 厉害 厉害 ",
+        "items": [
+            {
+                "positive_prob": 0.254133,
+                "confidence": 0.435259,
+                "negative_prob": 0.745867,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1600638998969588122,
+        "text": "萌娃 养成 果然 女孩子 生气 真的 年龄 来源 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.516419,
+                "confidence": 0.67162,
+                "negative_prob": 0.483581,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 2430645508951098458,
+        "text": "喜欢 事儿 一定 开心 自己 喜欢 事儿 每天 管不住 自己 一定 可悲 徐坤本 ",
+        "items": [
+            {
+                "positive_prob": 0.952269,
+                "confidence": 0.893931,
+                "negative_prob": 0.0477309,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1504270002836895322,
+        "text": "昨天 新歌 好听 最近 看到 那么 多人 以前 希望 过去 这么 才华 小伙子 可以 ",
+        "items": [
+            {
+                "positive_prob": 0.736479,
+                "confidence": 0.414398,
+                "negative_prob": 0.263521,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5604195383083622266,
+        "text": "徐坤 早期 选秀 节目 星动 亚洲 队友 高强度 舞蹈 导师 震惊 徐坤 金鸣 奋发 联系 高难度 动作 老师 惊讶 星动 亚洲 ",
+        "items": [
+            {
+                "positive_prob": 0.825558,
+                "confidence": 0.61235,
+                "negative_prob": 0.174442,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 501920570371768826,
+        "text": "一群 继续 控评 ",
+        "items": [
+            {
+                "positive_prob": 0.575046,
+                "confidence": 0.0556583,
+                "negative_prob": 0.424954,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7899726766941732378,
+        "text": "努力 奔跑 流言蜚语 随风 可悲 别人 早已 超越 角落里 黑人 热度 关注 ",
+        "items": [
+            {
+                "positive_prob": 0.599607,
+                "confidence": 0.110238,
+                "negative_prob": 0.400393,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5014962558966035674,
+        "text": "这个 tag 里面 应该 打篮球 美国 嘲笑 中国 球技 不行 内容 谢谢 东亚 病夫 招牌 捡回来 谢谢 ",
+        "items": [
+            {
+                "positive_prob": 0.684281,
+                "confidence": 0.298403,
+                "negative_prob": 0.315719,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4076717415463687546,
+        "text": "国际版 首页 ",
+        "items": [
+            {
+                "positive_prob": 0.524631,
+                "confidence": 0.507386,
+                "negative_prob": 0.475369,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 5899248991296423866,
+        "text": "不得不 真的 一件 ikun 开心 希望 坤哥 不再 受到 非议 希望 受到 更多人 认可 支持 坚持 ikun 后面 支持 ",
+        "items": [
+            {
+                "positive_prob": 0.928735,
+                "confidence": 0.841633,
+                "negative_prob": 0.071265,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4778309883671424570,
+        "text": "不管 这热 哪来 反正 花钱买 粉丝 希望 发布 消息 搜上 网站 小人 评价 中肯 自己 现场 真实 感受 夸赞 粉丝 高兴 谁家 小孩 谁家 自己 疼爱 黑子 行为 太过 恶心 水平 罕见 自我感觉 良好 无非 搞来搞去 几件事 ",
+        "items": [
+            {
+                "positive_prob": 0.0179168,
+                "confidence": 0.960185,
+                "negative_prob": 0.982083,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 3507546179085365402,
+        "text": "蔡小葵 表白 日记 知道 徐坤 一直 小孩 ",
+        "items": [
+            {
+                "positive_prob": 0.600931,
+                "confidence": 0.113181,
+                "negative_prob": 0.399069,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6773066797881765402,
+        "text": "推荐 本书 鬼谷 玄阵 剑客 虞舜 卷入 玄门 千年 浩劫 苍生 踏上 前往 云梦山 道路 真相 一定 那里 历经 坎鬼谷 玄阵 网页 链接 ",
+        "items": [
+            {
+                "positive_prob": 0.805691,
+                "confidence": 0.568203,
+                "negative_prob": 0.194309,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 9196837155513553530,
+        "text": "了解 不想 了解 蔡对 本人 就是 单纯 了解 但是 无脑 粉是 真的 哪儿 哪儿 看见 所以 粉丝 怒气 转移 本人 身上 现在 看见 任何 觉得 烦心 看见 评论 一群 脑残 粉刷 公关 无语 为什么 这么 可能 讨厌 没脑子 ",
+        "items": [
+            {
+                "positive_prob": 0.0133688,
+                "confidence": 0.970292,
+                "negative_prob": 0.986631,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5324623344217078586,
+        "text": "徐坤 优秀 哪里 音乐 人歌 抄袭 粉丝 滤镜 太厚 就算 不谈 抄袭 除了 粉丝 几个 人能 本人 放过 wait 所有人 爆笑 外国人 评价 粉丝 忘记 自己 屠榜 群嘲 时候 提外 评价 现在 博客 赖吹 ",
+        "items": [
+            {
+                "positive_prob": 0.307473,
+                "confidence": 0.316727,
+                "negative_prob": 0.692527,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5749547732695802778,
+        "text": "热烈祝贺 徐坤 登上 头条 ",
+        "items": [
+            {
+                "positive_prob": 0.568996,
+                "confidence": 0.0422124,
+                "negative_prob": 0.431004,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 6666786719174013434,
+        "text": "多少 评控 自我 高潮 太美 ",
+        "items": [
+            {
+                "positive_prob": 0.652909,
+                "confidence": 0.228687,
+                "negative_prob": 0.347091,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7106071260690095226,
+        "text": "黑真 努力 半夜 睡觉 行叭 毕竟 你们 这个 恰饭 这么 努力 感动 听歌 ",
+        "items": [
+            {
+                "positive_prob": 0.647524,
+                "confidence": 0.21672,
+                "negative_prob": 0.352476,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8017609870457261018,
+        "text": "一个 几个 小组 网站 浏览量 几乎 零破 流量 没得 出来 粉丝 无脑 护主 流量 好意思 出来 宣传 粉丝 真当 别人 不会 上网 ",
+        "items": [
+            {
+                "positive_prob": 0.0247252,
+                "confidence": 0.945055,
+                "negative_prob": 0.975275,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1453235876135279226,
+        "text": "尴尬 败坏 人缘 ",
+        "items": [
+            {
+                "positive_prob": 0.444268,
+                "confidence": 0.0127379,
+                "negative_prob": 0.555732,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5441736889217054298,
+        "text": "网站 就是 国外 野鸡 博客 下面 文章 评论 没有 浏览 人数 ",
+        "items": [
+            {
+                "positive_prob": 0.479468,
+                "confidence": 0.589362,
+                "negative_prob": 0.520532,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 7716908362962809178,
+        "text": "每次 评论 徐坤 不是 拉黑 就是 投诉 什么 一句 鸡太美有 问题 ",
+        "items": [
+            {
+                "positive_prob": 0.0660376,
+                "confidence": 0.85325,
+                "negative_prob": 0.933962,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1907264641812034746,
+        "text": "原来 路人 一口 一个 黑称 喜欢 别点 进来 进来 一句 喜欢 存在 感非 要说 一句 才能 证明 活着 ",
+        "items": [
+            {
+                "positive_prob": 0.0807952,
+                "confidence": 0.820455,
+                "negative_prob": 0.919205,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 4784479030032395098,
+        "text": "明明 优秀 国外 只是 客观 评价 徐坤 为什么 中国 就要 自己 国家 只是 搞不懂 人家 徐坤 什么 只是 个别 粉丝 有时候 做事 不是 很能 理解 但是 徐坤 没有 关系 努力 今天 全网 ",
+        "items": [
+            {
+                "positive_prob": 0.113825,
+                "confidence": 0.747055,
+                "negative_prob": 0.886175,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7060773181895252218,
+        "text": "wow 坤哥 大家 多多 支持 坤哥 新歌 Hardtoget ",
+        "items": [
+            {
+                "positive_prob": 0.849435,
+                "confidence": 0.665411,
+                "negative_prob": 0.150565,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1983940914756283354,
+        "text": "真的 辛苦 各位 还要 搜索 网站 还要 评论 辛苦 你们 这个 粉丝 称职 ",
+        "items": [
+            {
+                "positive_prob": 0.31965,
+                "confidence": 0.289667,
+                "negative_prob": 0.68035,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 5863373147008365466,
+        "text": "fo 怎么 徐坤 ",
+        "items": [
+            {
+                "positive_prob": 0.378144,
+                "confidence": 0.159679,
+                "negative_prob": 0.621856,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8852418940111610970,
+        "text": "徐坤 登上 头条 虽然 认识 登上 头条 外国 作者 称为 艺术家 并且 得到 高度赞扬 怎么 为国争光 ",
+        "items": [
+            {
+                "positive_prob": 0.769476,
+                "confidence": 0.487725,
+                "negative_prob": 0.230524,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6037629353293353370,
+        "text": "徐坤 一面 照妖镜 体现 很多 国人 素质 底下 肮脏 丑陋 嘴脸 黑子 应该 希望 徐坤 一直 下去 不然 他们 没有 黑心 可以 ",
+        "items": [
+            {
+                "positive_prob": 0.110616,
+                "confidence": 0.754188,
+                "negative_prob": 0.889385,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7268258789051453786,
+        "text": "VIEWOFTHEARTS 网站 头条 作者 一个 艺术家 并且 高度赞扬 声线 GreatVocals 出道 年间 一张 团体 专辑 七首 原创 歌曲 巡回 见面 会场 海外 公演 超过 音乐 舞台 呈现 花花世界 静守己 全世界 看到 ",
+        "items": [
+            {
+                "positive_prob": 0.759904,
+                "confidence": 0.466453,
+                "negative_prob": 0.240096,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8753977004070194490,
+        "text": "顶级 难泡 徐坤 小朋友 两米 罢了 微博 视频 HardToGet ",
+        "items": [
+            {
+                "positive_prob": 0.239658,
+                "confidence": 0.467426,
+                "negative_prob": 0.760342,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6137768924541508570,
+        "text": "其实 就是 亚洲 女生 文章 相当于 微信 公众 粉丝 真的 没什么 可以 ",
+        "items": [
+            {
+                "positive_prob": 0.743126,
+                "confidence": 0.429169,
+                "negative_prob": 0.256874,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5892443121517696314,
+        "text": "金子 一定 发光 郑州 中森意墅 蓝山 ",
+        "items": [
+            {
+                "positive_prob": 0.653813,
+                "confidence": 0.230696,
+                "negative_prob": 0.346187,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3222225941803027034,
+        "text": "现在 可以 中文 为什么 我用 百度 进去 ",
+        "items": [
+            {
+                "positive_prob": 0.777552,
+                "confidence": 0.50567,
+                "negative_prob": 0.222448,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 7272554596137661722,
+        "text": "首页 ",
+        "items": [
+            {
+                "positive_prob": 0.529242,
+                "confidence": 0.415169,
+                "negative_prob": 0.470758,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 3009222180381099386,
+        "text": "ViewofTheArts 官网 回应 相信 支持 英翻 内容 ViewofTheArts 一个 非营利 性质 网站 运营 初衷 我们 读者 分享 各种 其他 英文 媒体 没有 得到 充分 挖掘 内容 虽然 我们 感谢 所有 评论 必须 明确 ",
+        "items": [
+            {
+                "positive_prob": 0.914668,
+                "confidence": 0.810373,
+                "negative_prob": 0.0853321,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2474833953687145370,
+        "text": "徐坤 已经 youyouyou 洗脑 昨一 晚上 这个 旋律 ",
+        "items": [
+            {
+                "positive_prob": 0.520949,
+                "confidence": 0.58103,
+                "negative_prob": 0.479052,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 7566953586837586682,
+        "text": "徐坤 徐坤 VIEWOFTHEARTS 网站 头条 作者 一个 艺术家 并且 高度赞扬 徐坤 声线 GreatVocals 年间 一张 团体 专辑 九首 原创 歌曲 巡回 见面 会场 海外 公演 超过 音乐 舞台 呈现 真正 一名 音乐 从未 偏离 ",
+        "items": [
+            {
+                "positive_prob": 0.677562,
+                "confidence": 0.283472,
+                "negative_prob": 0.322438,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2845639929902586778,
+        "text": "宝贝 终于 找到 ",
+        "items": [
+            {
+                "positive_prob": 0.809311,
+                "confidence": 0.576248,
+                "negative_prob": 0.190689,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4277401711538449498,
+        "text": "伦敦 公演 现场 伦敦 进口 猫咪 cxk 我爱你 WelcometoLondon 徐坤 姐姐 Kunsland 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.813003,
+                "confidence": 0.584452,
+                "negative_prob": 0.186997,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3207423463212711962,
+        "text": "咳弱 偷偷 一句 感觉 之前 流量 事件 一样 太原 太原 学院 ",
+        "items": [
+            {
+                "positive_prob": 0.119997,
+                "confidence": 0.733339,
+                "negative_prob": 0.880003,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7895105004353534522,
+        "text": "徐坤 登上 外网 VIEWOFTHEARTS 头条 徐坤 登上 外网 VIEWOFTHEARTS 头条 ",
+        "items": [
+            {
+                "positive_prob": 0.61142,
+                "confidence": 0.136489,
+                "negative_prob": 0.38858,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8418790543780388090,
+        "text": "有些 是不是 出生 见到 太阳 心底 阴暗 ",
+        "items": [
+            {
+                "positive_prob": 0.364347,
+                "confidence": 0.190341,
+                "negative_prob": 0.635653,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5793130842600888186,
+        "text": "加油 我们 ",
+        "items": [
+            {
+                "positive_prob": 0.606228,
+                "confidence": 0.124951,
+                "negative_prob": 0.393772,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 4385290400164343482,
+        "text": "爱豆 关系 到底 不乐意 进来 自己 晚上 赶着 热度 不乐意 下去 顶上来 闹心 ",
+        "items": [
+            {
+                "positive_prob": 0.631859,
+                "confidence": 0.181908,
+                "negative_prob": 0.368141,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7423059510109833658,
+        "text": "这个 觉得 尴尬 不是 不是 黑粉 你们 之前 不能 一下 这个 网站 什么 野鸡 网站 要是 没有 你们 估计 这个 网站 外媒 头条 ",
+        "items": [
+            {
+                "positive_prob": 0.0141652,
+                "confidence": 0.968522,
+                "negative_prob": 0.985835,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2181380050274464090,
+        "text": "哈哈 黑粉 大半夜 我们 粉丝 努力 不想 看到 徐坤 你们 忍不住 进来 装路 我们 顶上去 看看 我家 帅哥 雷打不动 人气 你们 粉丝 死忠 因为 粉丝 你们 了解 这个 小朋友 优秀 ",
+        "items": [
+            {
+                "positive_prob": 0.898097,
+                "confidence": 0.773548,
+                "negative_prob": 0.101903,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6486184318232843578,
+        "text": "好烦 为什么 天天 真是 好好 刷个 微博 不行 外网 上个 外网 厉害 粉丝 控评 真是 厉害 真的 徐坤 讨厌 讨厌 这些 管东 管西 粉丝 一帮 脑残粉 ",
+        "items": [
+            {
+                "positive_prob": 0.0469916,
+                "confidence": 0.895574,
+                "negative_prob": 0.953008,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 258964950900717402,
+        "text": "加油 优秀 ",
+        "items": [
+            {
+                "positive_prob": 0.735043,
+                "confidence": 0.411206,
+                "negative_prob": 0.264957,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3463184352577514522,
+        "text": "不是 出道 多久 尼玛 往死 夸张 澳大利亚 悉尼 ",
+        "items": [
+            {
+                "positive_prob": 0.0308038,
+                "confidence": 0.931547,
+                "negative_prob": 0.969196,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7150842892116061306,
+        "text": "新歌 ",
+        "items": [
+            {
+                "positive_prob": 0.535,
+                "confidence": 0.300003,
+                "negative_prob": 0.465,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 8053065703246897050,
+        "text": "徐坤 帅气 真是 太棒了 广州 广州 华夏 职业 学院 ",
+        "items": [
+            {
+                "positive_prob": 0.883429,
+                "confidence": 0.740954,
+                "negative_prob": 0.116571,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 734410939995566330,
+        "text": "知道 一看 遍地 ",
+        "items": [
+            {
+                "positive_prob": 0.479581,
+                "confidence": 0.591625,
+                "negative_prob": 0.520419,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 3916762247956633658,
+        "text": "花费 我家 多少 ",
+        "items": [
+            {
+                "positive_prob": 0.565615,
+                "confidence": 0.0346993,
+                "negative_prob": 0.434385,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 4715708316371541082,
+        "text": "蔡虚鲲 nmsl 癌坤 全家 爆炸 ",
+        "items": [
+            {
+                "positive_prob": 0.560136,
+                "confidence": 0.0225238,
+                "negative_prob": 0.439864,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7689112067626071930,
+        "text": "大半夜 黑心钱 真的 无数 穷鬼 为之一振 手中 按键 键盘 开始 工作 努力 ",
+        "items": [
+            {
+                "positive_prob": 0.498625,
+                "confidence": 0.9725,
+                "negative_prob": 0.501375,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 2383188184480847994,
+        "text": "这个 搜是 硬生生 垃圾 黑子 顶上去 ",
+        "items": [
+            {
+                "positive_prob": 0.164592,
+                "confidence": 0.634241,
+                "negative_prob": 0.835408,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 3623894751134510042,
+        "text": "还有 各种 黑称 那么 顺口 人散 赶紧 洗洗 黑心钱 起来 没完 我们 粉丝 控热 你们 bb 起来 没完 ",
+        "items": [
+            {
+                "positive_prob": 0.385214,
+                "confidence": 0.143969,
+                "negative_prob": 0.614786,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2700421288885471322,
+        "text": "黑子 真的 毛病 自己 吧唧 贡献 热度 微风 ",
+        "items": [
+            {
+                "positive_prob": 0.538816,
+                "confidence": 0.223681,
+                "negative_prob": 0.461184,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 6105235359572914394,
+        "text": "你们 为什么 讨厌 徐坤 为什么 讨厌 徐坤 来自 知乎 解答 ",
+        "items": [
+            {
+                "positive_prob": 0.0491158,
+                "confidence": 0.890854,
+                "negative_prob": 0.950884,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 4125223002277017786,
+        "text": "这个 无意 上来 之后 感觉 有心人 发现 可以 利用 看来 下不去 不管 怎么样 ",
+        "items": [
+            {
+                "positive_prob": 0.149528,
+                "confidence": 0.667715,
+                "negative_prob": 0.850472,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5009591366469087226,
+        "text": "奉劝 蔡黑 有空 看看书 提升 一下 自己 方面 素养 整天 骂人 现在 文明 社会 那么 粗俗 ",
+        "items": [
+            {
+                "positive_prob": 0.171696,
+                "confidence": 0.618453,
+                "negative_prob": 0.828304,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5985624675585002682,
+        "text": "Billboard 国际版 第九 原创 单曲 HatdToGet 快来 听听 ",
+        "items": [
+            {
+                "positive_prob": 0.767324,
+                "confidence": 0.482943,
+                "negative_prob": 0.232676,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3404072379411889626,
+        "text": "使用 技能 移花接木 ",
+        "items": [
+            {
+                "positive_prob": 0.581777,
+                "confidence": 0.0706152,
+                "negative_prob": 0.418223,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 5774237492006497946,
+        "text": "困么 HTG 作品 摆着 ",
+        "items": [
+            {
+                "positive_prob": 0.548657,
+                "confidence": 0.026859,
+                "negative_prob": 0.451343,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 5569384288736180890,
+        "text": "朋友 作品 ",
+        "items": [
+            {
+                "positive_prob": 0.670554,
+                "confidence": 0.267897,
+                "negative_prob": 0.329446,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4581158299989652538,
+        "text": "看到 这么 多人 搜骂 放心 最好 不要 谢谢你们 这帮 黑粉 数据 辛苦 黑粉 一家人 ",
+        "items": [
+            {
+                "positive_prob": 0.811856,
+                "confidence": 0.581902,
+                "negative_prob": 0.188144,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8050156961398059866,
+        "text": "黑黑 睡觉 这么 拼命 顶热 ",
+        "items": [
+            {
+                "positive_prob": 0.415612,
+                "confidence": 0.0764183,
+                "negative_prob": 0.584388,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 718847165482363290,
+        "text": "你们 这么 billboard 个人 博客 billboard 知道 ",
+        "items": [
+            {
+                "positive_prob": 0.438292,
+                "confidence": 0.0260188,
+                "negative_prob": 0.561708,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 300480301204055674,
+        "text": "发现 别人 滔滔不绝 某人 这差 不好 听听 轻易 接受 别人 观点 输出 毕竟 TA 咀嚼 之后 产物 喜欢 自己 搜索 查阅 这些 信息 原汁原味 下结论 那么 朋友 首歌 亲耳 听听 ",
+        "items": [
+            {
+                "positive_prob": 0.478174,
+                "confidence": 0.56348,
+                "negative_prob": 0.521826,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 3049958053783315162,
+        "text": "帝国 三个 弟弟 已经 长大 越来越 成熟 稳重 可是 一些 帝国 小学 总爱 惹是生非 刚刚 看见 一个千 凯千 西皮 三字 弟弟 四字 弟弟 怎么 那样 愚蠢 粉丝 ",
+        "items": [
+            {
+                "positive_prob": 0.894304,
+                "confidence": 0.765119,
+                "negative_prob": 0.105697,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2022519838146740538,
+        "text": "休斯顿 影后 开创 外媒 太美 ",
+        "items": [
+            {
+                "positive_prob": 0.586011,
+                "confidence": 0.0800237,
+                "negative_prob": 0.413989,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2467477140864366266,
+        "text": "什么 误会 看看 辟谣 微博行 微风 装睡 微风 舞台 很多 实力 很强 ",
+        "items": [
+            {
+                "positive_prob": 0.794947,
+                "confidence": 0.544328,
+                "negative_prob": 0.205053,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1423762842681219162,
+        "text": "努力 大半夜 除了 粉丝 没人 嘎嘎 ",
+        "items": [
+            {
+                "positive_prob": 0.403776,
+                "confidence": 0.102721,
+                "negative_prob": 0.596224,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 8956510075189919418,
+        "text": "rs 看来 睡觉 进来 造谣 必要 明天 继续 这么晚 进来 bb 没什么 ",
+        "items": [
+            {
+                "positive_prob": 0.312795,
+                "confidence": 0.304901,
+                "negative_prob": 0.687205,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1083413671381065850,
+        "text": "现在 微博热 不能 全是 nc 控评尬 ",
+        "items": [
+            {
+                "positive_prob": 0.366691,
+                "confidence": 0.185132,
+                "negative_prob": 0.633309,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6062593238876846618,
+        "text": "哎呀 黑子 手下留情 看不下去 你们 黑火 整天 看着 宝贝 不想 弃博 ",
+        "items": [
+            {
+                "positive_prob": 0.245704,
+                "confidence": 0.45399,
+                "negative_prob": 0.754296,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1558631656962428666,
+        "text": "有钱 关系 赶着 黑一波 然后 生活 如意 听听 我哥 一天天 bbbbb 敦煌 壁画 那么 ",
+        "items": [
+            {
+                "positive_prob": 0.607426,
+                "confidence": 0.127613,
+                "negative_prob": 0.392574,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4263683678671635738,
+        "text": "黑子 努力 不好意思 感觉 一个 故事 低声 细语 呢喃 坚定 信念 掷地有声 没人 鲨鱼 也许 有些 需要 一个 勇敢 地趟 也许 有些 需要 一个 坚持 地去 ",
+        "items": [
+            {
+                "positive_prob": 0.707756,
+                "confidence": 0.350569,
+                "negative_prob": 0.292244,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2554354655536843578,
+        "text": "蔡黑大 晚上 睡觉 睡觉 听歌 ",
+        "items": [
+            {
+                "positive_prob": 0.629822,
+                "confidence": 0.177383,
+                "negative_prob": 0.370177,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6280944143406676858,
+        "text": "晚上 上升 黑粉 努力 不好意思 赶紧 听听 ",
+        "items": [
+            {
+                "positive_prob": 0.542561,
+                "confidence": 0.148779,
+                "negative_prob": 0.457439,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 4083586852388409082,
+        "text": "每次 一到 半夜 粉丝 不控 rs 黑准 感谢 你们 热度 洗洗 ",
+        "items": [
+            {
+                "positive_prob": 0.847865,
+                "confidence": 0.661923,
+                "negative_prob": 0.152135,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7260855537717453050,
+        "text": "晚安 吵吵 开开心心 听歌 ",
+        "items": [
+            {
+                "positive_prob": 0.571545,
+                "confidence": 0.0478779,
+                "negative_prob": 0.428455,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3920667580473667002,
+        "text": "呵呵 外国人 开始 莫名其妙 怎么 知道 这个 存在 ",
+        "items": [
+            {
+                "positive_prob": 0.241518,
+                "confidence": 0.463292,
+                "negative_prob": 0.758482,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 3906566280399525946,
+        "text": "微风 想坤坤 一天 秃头 在线 ",
+        "items": [
+            {
+                "positive_prob": 0.597401,
+                "confidence": 0.105335,
+                "negative_prob": 0.402599,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 901006985983158426,
+        "text": "徐坤 出新 MV 上线 小时 网上 冲浪 最佳 选手 发出通知 ",
+        "items": [
+            {
+                "positive_prob": 0.704383,
+                "confidence": 0.343073,
+                "negative_prob": 0.295617,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1280462622120987930,
+        "text": "既然 那么 听听 合适 别吵 ",
+        "items": [
+            {
+                "positive_prob": 0.532968,
+                "confidence": 0.340642,
+                "negative_prob": 0.467032,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 3353045227268087418,
+        "text": "徐坤 道菜 恭喜 恭喜 上線 任務帖 發個 以前 早上 樓下 ",
+        "items": [
+            {
+                "positive_prob": 0.436694,
+                "confidence": 0.0295684,
+                "negative_prob": 0.563306,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8446218541356471706,
+        "text": "徐坤 粉丝 徐坤 黑粉 登上 著名 熬夜 头条 微风 微风 微风 微风 ",
+        "items": [
+            {
+                "positive_prob": 0.666072,
+                "confidence": 0.257938,
+                "negative_prob": 0.333928,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6154831852035778170,
+        "text": "黑粉 幸苦 ",
+        "items": [
+            {
+                "positive_prob": 0.314266,
+                "confidence": 0.301632,
+                "negative_prob": 0.685734,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6302639222471500378,
+        "text": "听听 ",
+        "items": [
+            {
+                "positive_prob": 0.574519,
+                "confidence": 0.0544867,
+                "negative_prob": 0.425481,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8401469541195679514,
+        "text": "好听 听歌 ",
+        "items": [
+            {
+                "positive_prob": 0.607008,
+                "confidence": 0.126683,
+                "negative_prob": 0.392992,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1520654072447111482,
+        "text": "虽然 手机 广告 实在 好看 Lvivo 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.688435,
+                "confidence": 0.307633,
+                "negative_prob": 0.311565,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 3690205352222690682,
+        "text": "虽然 不是 ikun 知道 为啥 徐坤 最近 那么 英国 加迪夫 ",
+        "items": [
+            {
+                "positive_prob": 0.368757,
+                "confidence": 0.18054,
+                "negative_prob": 0.631243,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 9017122183416491642,
+        "text": "黑黑 你们 休息 不饿 ",
+        "items": [
+            {
+                "positive_prob": 0.154844,
+                "confidence": 0.655902,
+                "negative_prob": 0.845156,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6915419583539730458,
+        "text": "分享 一件 特别 开心 学生会 办公室 小可爱 因为 想要 舞蹈 居然 跳舞 过来 什么 节目 ",
+        "items": [
+            {
+                "positive_prob": 0.884037,
+                "confidence": 0.742304,
+                "negative_prob": 0.115963,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1360268968360229690,
+        "text": "不要 徐坤 我们 糊掉 微风 微风 ",
+        "items": [
+            {
+                "positive_prob": 0.213267,
+                "confidence": 0.526073,
+                "negative_prob": 0.786733,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6015289010387589914,
+        "text": "大半夜 微风 微风 消停 一会儿 ",
+        "items": [
+            {
+                "positive_prob": 0.614409,
+                "confidence": 0.143132,
+                "negative_prob": 0.385591,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 4494933701453697658,
+        "text": "蔡黑大 晚上 睡觉 晚睡 基因突变 希望 突变 好人 ",
+        "items": [
+            {
+                "positive_prob": 0.696754,
+                "confidence": 0.32612,
+                "negative_prob": 0.303246,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5001411990059166522,
+        "text": "怎么 感觉 有点 意识 不该 这时候 整出 玩意 还是 公关 工作 交给 隔壁 面包 小孩 ",
+        "items": [
+            {
+                "positive_prob": 0.0921907,
+                "confidence": 0.795132,
+                "negative_prob": 0.907809,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5275610497418789850,
+        "text": "不是 粉丝 现在 无感 只是 因为 曾经 花过 投过 喜欢 一小 提醒 一下 粉丝 公关 努力 撤热 你们 一看 就是 捧杀 微博 自己 公关 就算 智障 这种 操作 ",
+        "items": [
+            {
+                "positive_prob": 0.0892248,
+                "confidence": 0.801723,
+                "negative_prob": 0.910775,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2621916422160733882,
+        "text": "歌手 外部 噪音 越大 应该 专注 自己 主业 作品 说话 正念 永远 不会 小猫咪 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.192626,
+                "confidence": 0.571942,
+                "negative_prob": 0.807374,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 4801620896656529434,
+        "text": "寻思 粉丝 哪儿 黑酸鸡 自我 高潮 什么 劲儿 恨不得 堵住 任何 客观 评价 嘴来 满足 自己 欲望 外媒 徐坤 新歌 哎呀 这算 什么 外媒 垃圾 可笑 说出 此话 不仅 重点 甚至 根本 没有 听过 徐坤 新歌 bb ",
+        "items": [
+            {
+                "positive_prob": 0.0288263,
+                "confidence": 0.935942,
+                "negative_prob": 0.971174,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6153042557517634938,
+        "text": "不好意思 来晚 三张 图是 直接 癌困 姐姐 挑出 基础 重点 大家 品品 顺便 大伙儿 回忆 一下 眼熟 数据 以及 点击 不如 QQ 空间 外媒 不久前 北美 事件 中国 刷刷 就算 顶多 一句 太美 国外 一顿 熟悉 ",
+        "items": [
+            {
+                "positive_prob": 0.460699,
+                "confidence": 0.213989,
+                "negative_prob": 0.539301,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 4207610292112650426,
+        "text": "看到 几条 全是 觉得 哪里 果然 休斯顿 如出一辙 怎么 外网 一定 厉害 为什么 加个 外字 似乎 变得 客观 神圣 确实 国内 就是 没翻 浪花 没有 ",
+        "items": [
+            {
+                "positive_prob": 0.131768,
+                "confidence": 0.707182,
+                "negative_prob": 0.868232,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2186779845090720730,
+        "text": "徐坤 cxk 一场 舞台 像是 浴着 战火 成长 起来 未来战士 火海 废墟 金色 光芒 咪咕 音乐 音乐 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.743233,
+                "confidence": 0.429408,
+                "negative_prob": 0.256767,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8712902043389741562,
+        "text": "第九 个人 原创 单曲 HardToGet 不仅 世界 极具 专业 权威 音乐 公司 EMPIRE 一起 合作 并且 自己 亲自 参与 作词 作曲 MV 制作 上线 正式版 MV 国内 各大 平台 上线 ",
+        "items": [
+            {
+                "positive_prob": 0.963854,
+                "confidence": 0.919675,
+                "negative_prob": 0.0361465,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4332489012706716282,
+        "text": "刚刚 翻到 这个 一帧 美的 金发 芭莎小坤 真真是 顶级 难泡光 就是 一种 享受 爱惨 迷失 独角兽 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.850776,
+                "confidence": 0.668392,
+                "negative_prob": 0.149224,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6719551114580930874,
+        "text": "新歌 ZDBC ",
+        "items": [
+            {
+                "positive_prob": 0.535,
+                "confidence": 0.300003,
+                "negative_prob": 0.465,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 5742593462685563002,
+        "text": "没有 什么 特别 帅哥 LTeamK 珍爱 kun 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.595446,
+                "confidence": 0.100992,
+                "negative_prob": 0.404554,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6438220866479017722,
+        "text": "公演 徐坤 小朋友 coolguy 微博 视频 HardToGet ",
+        "items": [
+            {
+                "positive_prob": 0.530376,
+                "confidence": 0.392475,
+                "negative_prob": 0.469624,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 7931480980731369722,
+        "text": "找到 节目 里边 玩游戏 片段 真的 搞笑 另外 路过 朋友 可以 听听 新歌 LCeci Chan 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.641938,
+                "confidence": 0.204307,
+                "negative_prob": 0.358062,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5498093262179813018,
+        "text": "音乐创作 徐坤 新歌 好听 海外 公演 ZDBC ",
+        "items": [
+            {
+                "positive_prob": 0.615003,
+                "confidence": 0.144451,
+                "negative_prob": 0.384997,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 185019170399733274,
+        "text": "本来 只是 看热闹 这个 真的 恶心 外网 头条 这样 开眼界 ",
+        "items": [
+            {
+                "positive_prob": 0.034496,
+                "confidence": 0.923342,
+                "negative_prob": 0.965504,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 9163981539678966138,
+        "text": "真是 谢谢 各位 喷子 一边 觉得 搜尬 一边 进来 呼和浩特 玉泉区 ",
+        "items": [
+            {
+                "positive_prob": 0.538211,
+                "confidence": 0.235777,
+                "negative_prob": 0.461789,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 8833687495701785658,
+        "text": "徐坤 One 公演 舞台 一场 一种 升华 还是 La 那场 LTeamK 蔡小坤 Luis 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.582763,
+                "confidence": 0.0728071,
+                "negative_prob": 0.417237,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6344191285898244986,
+        "text": "一定 比烂 心肠 努力 下去 粉丝 不要 ",
+        "items": [
+            {
+                "positive_prob": 0.292014,
+                "confidence": 0.351081,
+                "negative_prob": 0.707986,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2775205900466812058,
+        "text": "外网 丢人 反而 还要 国人 一直 抹黑 整天 有色眼睛 看人 这样 就是 素质 不能 放下 偏见 好好 过好 自己 生活 不要 什么 了解 往头 插一脚 真的 道德 没有 由来 人心 最恶 时候 ",
+        "items": [
+            {
+                "positive_prob": 0.151068,
+                "confidence": 0.664292,
+                "negative_prob": 0.848932,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8967831595885683450,
+        "text": "大半夜 还是 听歌 顺便 看看 那些 素质 喷出 什么 脏东西 ",
+        "items": [
+            {
+                "positive_prob": 0.211201,
+                "confidence": 0.530663,
+                "negative_prob": 0.788799,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7726319775623564218,
+        "text": "晚安 ",
+        "items": [
+            {
+                "positive_prob": 0.546278,
+                "confidence": 0.0744366,
+                "negative_prob": 0.453722,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 2285681129854804890,
+        "text": "黑名单 顶部 老老实实 下去 怎么办 ",
+        "items": [
+            {
+                "positive_prob": 0.216063,
+                "confidence": 0.51986,
+                "negative_prob": 0.783937,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 584277438350568282,
+        "text": "cxk 一生 不要 这么 努力 这么 优秀 为什么 粉丝 行为 偶像 买单 ",
+        "items": [
+            {
+                "positive_prob": 0.353103,
+                "confidence": 0.215326,
+                "negative_prob": 0.646897,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 3275595701978324506,
+        "text": "六个 创立 访问量 外网 尴尬 人家 只是 你们 这些 虚假 浏览 流量 搞点 访问量 觉得 外国人 赞美 上天 到底 在尬 代表 中国 走向世界 你们 不要脸 还要 ",
+        "items": [
+            {
+                "positive_prob": 0.152294,
+                "confidence": 0.661569,
+                "negative_prob": 0.847706,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2889694367869199482,
+        "text": "以为 徐坤 篮球 视频 冲出 国门 ",
+        "items": [
+            {
+                "positive_prob": 0.456662,
+                "confidence": 0.133246,
+                "negative_prob": 0.543338,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 3308039288785680218,
+        "text": "这么 自欺欺人 ",
+        "items": [
+            {
+                "positive_prob": 0.412196,
+                "confidence": 0.0840092,
+                "negative_prob": 0.587804,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8893301256226809210,
+        "text": "当代人 寂寞 为了 热门 胡乱 还有 爱好 ",
+        "items": [
+            {
+                "positive_prob": 0.598616,
+                "confidence": 0.108036,
+                "negative_prob": 0.401384,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1492239051933627098,
+        "text": "早点 睡要 努力完成 自己 事情 指点 想象 江山 徐坤 两点 晚安 ",
+        "items": [
+            {
+                "positive_prob": 0.588214,
+                "confidence": 0.0849198,
+                "negative_prob": 0.411786,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4078825647200442362,
+        "text": "哎呀 我要 菜菜 美照 好多 出来 晒晒 ",
+        "items": [
+            {
+                "positive_prob": 0.75522,
+                "confidence": 0.456044,
+                "negative_prob": 0.24478,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8240420768439155994,
+        "text": "就是 首页 罢了 LA 来临 前且 现场 姐姐 外翻 ikun 如何 压抑 内心 紧张 激动 开启 疯狂 安利 模式 Heisreallyapopularman 徐坤 徐坤 姐姐 Kunsland 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.653191,
+                "confidence": 0.229314,
+                "negative_prob": 0.346809,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1977663093966708090,
+        "text": "好好 工作 一定 天打雷劈 老天 眼孽 力回馈 ",
+        "items": [
+            {
+                "positive_prob": 0.765526,
+                "confidence": 0.478946,
+                "negative_prob": 0.234474,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6889771907318268602,
+        "text": "实力 证明 一切 时间 证明 音乐 忠诚 ",
+        "items": [
+            {
+                "positive_prob": 0.68701,
+                "confidence": 0.304466,
+                "negative_prob": 0.31299,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5960963089247727642,
+        "text": "再说 什么 不想 拜托 睡觉 点进 rs 要说 不想 看非 键盘 一下 显得 打字 或者 进来 只是 嘲讽 听个 流量 拜托 您们 ",
+        "items": [
+            {
+                "positive_prob": 0.0675546,
+                "confidence": 0.849878,
+                "negative_prob": 0.932445,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6721863325883378938,
+        "text": "哈哈哈哈 刚有 ikun bigger 一秒 精神 ",
+        "items": [
+            {
+                "positive_prob": 0.769153,
+                "confidence": 0.487007,
+                "negative_prob": 0.230847,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8527617863580899674,
+        "text": "感受 这位 小哥 说话 之道 偶练 一直 年末 谈吐 大方 得体 谦逊有礼 认真 芒果 娱乐 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.929827,
+                "confidence": 0.84406,
+                "negative_prob": 0.0701731,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 5130652808288630106,
+        "text": "没有 由来 人心 丑恶 时候 ",
+        "items": [
+            {
+                "positive_prob": 0.377006,
+                "confidence": 0.16221,
+                "negative_prob": 0.622994,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 148950051703708954,
+        "text": "伦敦 公演 waitwaitwait 伤感 吟唱 慢慢 满满的 炙热 虔诚 CrLBigQing 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.802205,
+                "confidence": 0.560455,
+                "negative_prob": 0.197795,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 550736309951794682,
+        "text": "成功 逗笑 ",
+        "items": [
+            {
+                "positive_prob": 0.676001,
+                "confidence": 0.280002,
+                "negative_prob": 0.323999,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3179118902867090490,
+        "text": "深夜 加班 推荐 一首歌 一秒 精神 ",
+        "items": [
+            {
+                "positive_prob": 0.807597,
+                "confidence": 0.572438,
+                "negative_prob": 0.192403,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4161692778467503610,
+        "text": "这年头 黑比粉 一个个 积极 知道 以为 他们 干嘛 多少 这么 ",
+        "items": [
+            {
+                "positive_prob": 0.292985,
+                "confidence": 0.348922,
+                "negative_prob": 0.707015,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7083668733960304570,
+        "text": "女朋友 舞台 这大长 LSniperAugust 徐坤 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.56959,
+                "confidence": 0.0435336,
+                "negative_prob": 0.43041,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5001744056475845754,
+        "text": "睡不着 徐坤 最新 单曲 uuu ",
+        "items": [
+            {
+                "positive_prob": 0.583251,
+                "confidence": 0.0738902,
+                "negative_prob": 0.416749,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 9000609251511110426,
+        "text": "这么晚 黑粉 那来 听歌 ",
+        "items": [
+            {
+                "positive_prob": 0.36766,
+                "confidence": 0.182978,
+                "negative_prob": 0.63234,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6068295682248721338,
+        "text": "成长 看见 满心 骄傲 自豪 喜欢 这样 一个 纯真 男孩 为了 梦想 从不 停止 前行 脚步 懂得 感恩 珍惜 一份 真心 坚持 专注 不愧 一滴 留下 走过 光荣 一路 相伴 我们 光芒 之下 幸福 ",
+        "items": [
+            {
+                "positive_prob": 0.984015,
+                "confidence": 0.964479,
+                "negative_prob": 0.0159847,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3014455279307006938,
+        "text": "怎么 徐坤 大概 几个 原因 nba 各种 暗示 动作 觉得 偶像 作为 一种 正面 形象 实在 应该 一些 出界 动作 就是 音乐吧 粉丝 认认真真 音乐 如果 站得住脚 至少 拿出 代表作 粉丝 大多 可爱 大家 恶意 还是 一点 动不动 ",
+        "items": [
+            {
+                "positive_prob": 0.235264,
+                "confidence": 0.477191,
+                "negative_prob": 0.764736,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 3373771721061603418,
+        "text": "一次 蜕变 一次 成长 一次 属于 自我 完美 绽放 所谓 选择 一条 难易 在于 心中 是否 热爱 哪怕 变得 忙碌 一直 抽时间 不断 原创 音乐 无休止 练习 成长 对于 来说 厚积薄发 静守 已心 热爱 自己 坚定 下去 LAugust 紫菜 包饭 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.746569,
+                "confidence": 0.43682,
+                "negative_prob": 0.253431,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 221044810865177658,
+        "text": "一起 加油 ",
+        "items": [
+            {
+                "positive_prob": 0.644956,
+                "confidence": 0.211013,
+                "negative_prob": 0.355044,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4239102690146111386,
+        "text": "相信 力回馈 黑子 恶报 ",
+        "items": [
+            {
+                "positive_prob": 0.538887,
+                "confidence": 0.222269,
+                "negative_prob": 0.461113,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 6421484317814629786,
+        "text": "成长 年纪 放下 偏见 要求 一个 少年 如何 成长 ",
+        "items": [
+            {
+                "positive_prob": 0.454258,
+                "confidence": 0.0851673,
+                "negative_prob": 0.545742,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 3277028039972445146,
+        "text": "采访 可以 看出 小哥 思路 清爽 反应 灵敏 情商 极高瑞思 拜瑞思 娱乐 爆社 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.961787,
+                "confidence": 0.915082,
+                "negative_prob": 0.0382132,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1891549373179814362,
+        "text": "发现 黑子 喷子 发完 睡觉 你们 不要 不想 秃子 听歌 睡觉 快乐 hardtoget 好听 循环 播放 ",
+        "items": [
+            {
+                "positive_prob": 0.22447,
+                "confidence": 0.501177,
+                "negative_prob": 0.77553,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2813109176235417882,
+        "text": "hardtoget 徐坤 cxk 微博 视频 HardToGet ",
+        "items": [
+            {
+                "positive_prob": 0.521972,
+                "confidence": 0.560552,
+                "negative_prob": 0.478028,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 2912019269567068634,
+        "text": "啊啊啊 啊啊啊 徐坤 新歌 喜欢 之前 也好 喜欢 太对 胃口 没人 鲨鱼 角好 浪漫 一男 ",
+        "items": [
+            {
+                "positive_prob": 0.921454,
+                "confidence": 0.825453,
+                "negative_prob": 0.078546,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 949477461323001050,
+        "text": "啊啊啊 啊啊啊 徐坤 真的 好帅 ",
+        "items": [
+            {
+                "positive_prob": 0.55618,
+                "confidence": 0.0137326,
+                "negative_prob": 0.44382,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1233611488719939418,
+        "text": "还有 小猫咪 在线 新歌 好听 ",
+        "items": [
+            {
+                "positive_prob": 0.688775,
+                "confidence": 0.308389,
+                "negative_prob": 0.311225,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3860707077730999034,
+        "text": "新歌 爆炸 好听 慵懒 曲风 击中 姐姐 沉迷 音乐 不能自拔 ",
+        "items": [
+            {
+                "positive_prob": 0.733186,
+                "confidence": 0.407081,
+                "negative_prob": 0.266814,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 891499761136008986,
+        "text": "这个 还有 路人 黑黑 真的 眼睛 睁不开 一个个 暴躁 一样 听首 好听 新歌 平静 一下 网页 链接 徐坤 工作室 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.529238,
+                "confidence": 0.415245,
+                "negative_prob": 0.470762,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 2527869596349259866,
+        "text": "集体 自我 高潮 下面 粉丝 头头 彩虹 一点 新意 固定 文案 公关 鸡腿 ",
+        "items": [
+            {
+                "positive_prob": 0.454012,
+                "confidence": 0.0802415,
+                "negative_prob": 0.545988,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 7236730553982562138,
+        "text": "一次 演出 给出 客观 点评 徐坤 本人 伦敦 公演 认可 看到 好多 黑子 跳脚 上来 美好 好笑 ps 觉得 这个 鲲鹏展翅 扶摇直上 九万里 徐坤 就是 火到 云霄 气气 ",
+        "items": [
+            {
+                "positive_prob": 0.101053,
+                "confidence": 0.775437,
+                "negative_prob": 0.898946,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 361198284772804986,
+        "text": "有点 没得 扒皮 不服气 再放 各种 新闻 花式 安利 污染 屏幕 简直 就是 保健品 理财 传销 行为 ",
+        "items": [
+            {
+                "positive_prob": 0.244438,
+                "confidence": 0.456804,
+                "negative_prob": 0.755562,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 3883674600967222650,
+        "text": "新歌 好听 适合 睡前 chill 一下 ",
+        "items": [
+            {
+                "positive_prob": 0.772043,
+                "confidence": 0.493429,
+                "negative_prob": 0.227957,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7887630778404029690,
+        "text": "今天 腾讯 推送 寻思 没有 内涵 乐死 ",
+        "items": [
+            {
+                "positive_prob": 0.384769,
+                "confidence": 0.144957,
+                "negative_prob": 0.615231,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5327499300566900250,
+        "text": "外网 vncal 定义 ",
+        "items": [
+            {
+                "positive_prob": 0.5505,
+                "confidence": 0.00111063,
+                "negative_prob": 0.4495,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5598356012579094714,
+        "text": "诸位 这么 以为 之前 粉丝 厉害 导致 偏见 一下 视屏 打算 正视 一下 作品 对不起 我错 还是 游戏吧 年轻人 审美 已经 跟不上 ",
+        "items": [
+            {
+                "positive_prob": 0.0661502,
+                "confidence": 0.853,
+                "negative_prob": 0.93385,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7632929826311126554,
+        "text": "不错 中国 艺人 外面 注意 并且 得到 表扬 还是 不错 继续 加油 ",
+        "items": [
+            {
+                "positive_prob": 0.972021,
+                "confidence": 0.937825,
+                "negative_prob": 0.0279788,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3267646084159796922,
+        "text": "很酷 ",
+        "items": [
+            {
+                "positive_prob": 0.834352,
+                "confidence": 0.631892,
+                "negative_prob": 0.165648,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6384237408505469594,
+        "text": "黑比粉 努力 这么晚 那来 听听 徐坤 第九 原创 ",
+        "items": [
+            {
+                "positive_prob": 0.669294,
+                "confidence": 0.265098,
+                "negative_prob": 0.330706,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8791111195649902842,
+        "text": "测下 流量 无视 ",
+        "items": [
+            {
+                "positive_prob": 0.421659,
+                "confidence": 0.0629793,
+                "negative_prob": 0.578341,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2572807512370159322,
+        "text": "伦敦 公演 hardtoget 现场版 youallknowtheresanewsongscomingright CrL 蝴蝶结 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.550518,
+                "confidence": 0.0011513,
+                "negative_prob": 0.449482,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1130358566744972090,
+        "text": "大家 小坤 粉丝 感谢 点进 朋友 对小坤 关注 嘻嘻 今后 多多 支持 爱唱 小坤 ",
+        "items": [
+            {
+                "positive_prob": 0.966477,
+                "confidence": 0.925504,
+                "negative_prob": 0.0335234,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4938528322948245050,
+        "text": "徐坤 粉丝 现在 应该 低调 挽回 好感 临沂 兰山 街区 ",
+        "items": [
+            {
+                "positive_prob": 0.556045,
+                "confidence": 0.0134326,
+                "negative_prob": 0.443955,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7806244483993100090,
+        "text": "不是 什么 头条 只是 外国 博主 徐坤 海外 公演 评价 粉丝 自然 滤镜 彩虹 网友 看戏 一句 太美 黑子 得意洋洋 戳破 头条 这个 谎言 一句 花钱 崇洋媚外 粉丝 黑子 不得 中国 人好 世道 ",
+        "items": [
+            {
+                "positive_prob": 0.0424791,
+                "confidence": 0.905602,
+                "negative_prob": 0.957521,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 3946307332566204090,
+        "text": "徐坤 登上 VIEWOFTHRARTS 头条 Performance 评为 最高 程度 五星 这次 发行 第九 原创 单曲 HardToGet 不仅 世界 极具 专业 权威 音乐 公司 EMPIRE 一起 合作 并且 自己 亲自 参与 作词 作曲 MV 拍摄 外媒 评价 声线 GreatVocals 虽然 只有 但是 他用 令人 难以 ",
+        "items": [
+            {
+                "positive_prob": 0.869322,
+                "confidence": 0.709605,
+                "negative_prob": 0.130678,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 819044054662776218,
+        "text": "晚安 hardtoget 入睡 适合 夜晚 安静 ",
+        "items": [
+            {
+                "positive_prob": 0.831901,
+                "confidence": 0.626447,
+                "negative_prob": 0.168099,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5741090761893502074,
+        "text": "国外 夜店 摇身一变 艺术家 ",
+        "items": [
+            {
+                "positive_prob": 0.56039,
+                "confidence": 0.0230882,
+                "negative_prob": 0.43961,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6513456093503424026,
+        "text": "不如 听歌 不要 ",
+        "items": [
+            {
+                "positive_prob": 0.0726347,
+                "confidence": 0.83859,
+                "negative_prob": 0.927365,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2349592126769279802,
+        "text": "塞着 耳塞 顶级 难泡 无限 循环 入睡 然后 明早 音乐 醒来 ",
+        "items": [
+            {
+                "positive_prob": 0.564893,
+                "confidence": 0.0330966,
+                "negative_prob": 0.435107,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1388130960032372538,
+        "text": "那个 国家 ",
+        "items": [
+            {
+                "positive_prob": 0.505887,
+                "confidence": 0.882261,
+                "negative_prob": 0.494113,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 7551713123640799962,
+        "text": "这有 什么 稀罕 就是 上个 外网 呵呵 ",
+        "items": [
+            {
+                "positive_prob": 0.69888,
+                "confidence": 0.330844,
+                "negative_prob": 0.30112,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 80992961853212794,
+        "text": "为啥 微博热 天天 认识 ",
+        "items": [
+            {
+                "positive_prob": 0.58479,
+                "confidence": 0.0773116,
+                "negative_prob": 0.41521,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2897723371181773626,
+        "text": "emmm 值得 炫耀 公平 公正 emmm ",
+        "items": [
+            {
+                "positive_prob": 0.711935,
+                "confidence": 0.359854,
+                "negative_prob": 0.288065,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2895845570752399162,
+        "text": "是不是 性感 微博 视频 HardToGet ",
+        "items": [
+            {
+                "positive_prob": 0.657132,
+                "confidence": 0.23807,
+                "negative_prob": 0.342868,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1646372438555346906,
+        "text": "cxk 真是 一天 一个 花样 xswl ",
+        "items": [
+            {
+                "positive_prob": 0.453107,
+                "confidence": 0.0621396,
+                "negative_prob": 0.546893,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 4367914638373909722,
+        "text": "太美 ",
+        "items": [
+            {
+                "positive_prob": 0.380603,
+                "confidence": 0.154216,
+                "negative_prob": 0.619397,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 4339218388598173882,
+        "text": "ikun 过来 我们 守护 世界 最好 ",
+        "items": [
+            {
+                "positive_prob": 0.831411,
+                "confidence": 0.625358,
+                "negative_prob": 0.168589,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5939313741076812858,
+        "text": "一个 野鸡 而已 一个个 高潮 没完没了 一群 小学生 拼音字母 认全 整首歌 几个 单词 一点 内涵 没有 甚至 口水 不如 至少 口水 哼哼 几句 真是 侮辱 华语 歌坛 但是 人家 歌词 没有 汉语 毕竟 外国 接轨 哈尔滨 通乡 街区 ",
+        "items": [
+            {
+                "positive_prob": 0.0875241,
+                "confidence": 0.805502,
+                "negative_prob": 0.912476,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5495332870455272154,
+        "text": "搜买 一天 ",
+        "items": [
+            {
+                "positive_prob": 0.543087,
+                "confidence": 0.138264,
+                "negative_prob": 0.456913,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 2455443982290768570,
+        "text": "鲲鲲 Viewofthearts 真的 超大 一个 网站 评论 多点 人数 外国人 认可 你们 认可 你们 想干什么 ",
+        "items": [
+            {
+                "positive_prob": 0.632527,
+                "confidence": 0.183392,
+                "negative_prob": 0.367473,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6757323073695971258,
+        "text": "实在 有关 菜菜 现在 不太敢 我头 一次 遇到 黑粉 粉丝 五五开 偶像 明明 这个 真的 很正 能量 天天 神隐 音乐 难道 粉丝 太红 ",
+        "items": [
+            {
+                "positive_prob": 0.128936,
+                "confidence": 0.713475,
+                "negative_prob": 0.871064,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8681493245634403066,
+        "text": "实力 说话 需要 只是 一个 不带 偏见 公平 平台 徐坤 我会 走向 巅峰 那时 追上 脚步 ",
+        "items": [
+            {
+                "positive_prob": 0.7594,
+                "confidence": 0.465333,
+                "negative_prob": 0.2406,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3263272746540728570,
+        "text": "一天 新歌 起来 ",
+        "items": [
+            {
+                "positive_prob": 0.590432,
+                "confidence": 0.089849,
+                "negative_prob": 0.409568,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3829835387629530714,
+        "text": "超级 好听 ",
+        "items": [
+            {
+                "positive_prob": 0.713277,
+                "confidence": 0.362837,
+                "negative_prob": 0.286723,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7183488711404830106,
+        "text": "流言 不畏 前行 努力 模样 徐坤 cxk ",
+        "items": [
+            {
+                "positive_prob": 0.609762,
+                "confidence": 0.132803,
+                "negative_prob": 0.390238,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 725299452306714458,
+        "text": "知道 为什么 登上 头条 点开 QQ 音乐 首页 新歌 自然 ",
+        "items": [
+            {
+                "positive_prob": 0.638176,
+                "confidence": 0.195947,
+                "negative_prob": 0.361824,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 8246941708829265146,
+        "text": "坤哥 加油 不畏 流言 乘风破浪 成王 ",
+        "items": [
+            {
+                "positive_prob": 0.600826,
+                "confidence": 0.112946,
+                "negative_prob": 0.399174,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2817900665992153850,
+        "text": "cxk 热爱 音乐 舞台 专注 原创 音乐 梦想 坚持 努力 少年 未来 加油 好听 传说 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.926746,
+                "confidence": 0.837213,
+                "negative_prob": 0.073254,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7044722774945518618,
+        "text": "学会 放下 偏见 认可 别人 那么 ",
+        "items": [
+            {
+                "positive_prob": 0.640253,
+                "confidence": 0.200563,
+                "negative_prob": 0.359747,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5865870603730635514,
+        "text": "今天 超级 开心 HardToGet 超级 好听 学校 广播 WaitWaitWait ",
+        "items": [
+            {
+                "positive_prob": 0.860492,
+                "confidence": 0.689983,
+                "negative_prob": 0.139508,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7779771544057498874,
+        "text": "外媒 哈哈 博客 外媒 ikun 流弊 我要 吴亦凡 转粉 ",
+        "items": [
+            {
+                "positive_prob": 0.877454,
+                "confidence": 0.727676,
+                "negative_prob": 0.122546,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 6027320602158872154,
+        "text": "不得不 一句 真的 ",
+        "items": [
+            {
+                "positive_prob": 0.404845,
+                "confidence": 0.100345,
+                "negative_prob": 0.595155,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2090526724078951834,
+        "text": "晚安 ",
+        "items": [
+            {
+                "positive_prob": 0.546278,
+                "confidence": 0.0744366,
+                "negative_prob": 0.453722,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 8366337509252809562,
+        "text": "徐坤 ikun 几天 大家 特别 辛苦 现在 形势 特别 严峻 我们 记得 我们 约定 咱们 徐坤 女人 不能 咱们 火锅 组合 不能 加油 ",
+        "items": [
+            {
+                "positive_prob": 0.708334,
+                "confidence": 0.351854,
+                "negative_prob": 0.291666,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7183777981678384026,
+        "text": "开心 有人 能够 客观 公正 评价 新歌 好听 别人 喜欢 ",
+        "items": [
+            {
+                "positive_prob": 0.735818,
+                "confidence": 0.412928,
+                "negative_prob": 0.264182,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2599668512445791066,
+        "text": "我们 一起 变得 强大 只有 时间 可以 证明 一切 永安 豪门 御景 ",
+        "items": [
+            {
+                "positive_prob": 0.792037,
+                "confidence": 0.537859,
+                "negative_prob": 0.207963,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7157371867693410074,
+        "text": "粉丝 真的 不要脸 ",
+        "items": [
+            {
+                "positive_prob": 0.336887,
+                "confidence": 0.251363,
+                "negative_prob": 0.663113,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2355542792638649530,
+        "text": "优秀 很多 时候 我们 忘记 刚刚 ",
+        "items": [
+            {
+                "positive_prob": 0.847339,
+                "confidence": 0.660754,
+                "negative_prob": 0.152661,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7428266456122424122,
+        "text": "额滴娘 凸九儿 太难 趴练 下来 ",
+        "items": [
+            {
+                "positive_prob": 0.176963,
+                "confidence": 0.606749,
+                "negative_prob": 0.823037,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 6081085726721553658,
+        "text": "一天 徐坤 抹布 桌子 看到 一只 小蚂蚁 于是 儒雅 随和 小蚂蚁 父母 怎么 只有 一个 小蚂蚁 回答 ",
+        "items": [
+            {
+                "positive_prob": 0.279288,
+                "confidence": 0.379359,
+                "negative_prob": 0.720712,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 2803151090276999514,
+        "text": "好多 人真闲 天天 爸爸 张家界 零阳镇 ",
+        "items": [
+            {
+                "positive_prob": 0.649919,
+                "confidence": 0.222043,
+                "negative_prob": 0.350081,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 6858994007904479450,
+        "text": "一个 纯粹 喜欢 音乐 孩子 没有 必要 那么 恶意 ",
+        "items": [
+            {
+                "positive_prob": 0.480084,
+                "confidence": 0.601688,
+                "negative_prob": 0.519916,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 1367985572310832314,
+        "text": "Youplayhardtoget 始终 相信 一直 不懈努力 得到 这个 世界 真诚 回馈 不必 惊慌 背后 不必 回头 前方 有梦爱 始终 爱着 张扬 一直 护着 散场 ",
+        "items": [
+            {
+                "positive_prob": 0.912673,
+                "confidence": 0.805939,
+                "negative_prob": 0.0873273,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 970242262340963386,
+        "text": "建立 现在 浏览量 免费 博客 叫做 头条 艺术家 这热 搜买 真的 ",
+        "items": [
+            {
+                "positive_prob": 0.637268,
+                "confidence": 0.193929,
+                "negative_prob": 0.362732,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8964317557693039066,
+        "text": "时间 证明 一切 熬过来 就是 强大 过程 ",
+        "items": [
+            {
+                "positive_prob": 0.796114,
+                "confidence": 0.54692,
+                "negative_prob": 0.203886,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2871419008303922810,
+        "text": "HardToGet ",
+        "items": [
+            {
+                "positive_prob": 1,
+                "confidence": 1,
+                "negative_prob": 0,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 6999890126514546650,
+        "text": "低调 专心 音乐 参加 综艺 这些 柠檬 活跃 ",
+        "items": [
+            {
+                "positive_prob": 0.793512,
+                "confidence": 0.541137,
+                "negative_prob": 0.206488,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7818389863322920986,
+        "text": "居然 有人 billboard 个人 博客 哈哈哈 ",
+        "items": [
+            {
+                "positive_prob": 0.628439,
+                "confidence": 0.174308,
+                "negative_prob": 0.371561,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5538178972363486618,
+        "text": "道听途说 你们 自己 脑子 小黑子 别人 就是 你们 自己 ",
+        "items": [
+            {
+                "positive_prob": 0.226674,
+                "confidence": 0.49628,
+                "negative_prob": 0.773326,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1667464953512379962,
+        "text": "明白 为啥 那么 多人 徐坤 纯路 觉得 努力 一男 自己 写歌 作曲 相对 某些 只会 流量 更好 人图 ",
+        "items": [
+            {
+                "positive_prob": 0.642668,
+                "confidence": 0.205928,
+                "negative_prob": 0.357332,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2181440838714888570,
+        "text": "音乐 证明 自己 男孩 很赞 加油 ",
+        "items": [
+            {
+                "positive_prob": 0.953601,
+                "confidence": 0.89689,
+                "negative_prob": 0.0463994,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1689146784593744954,
+        "text": "朋友 兴趣 一下 希望 朋友 不要 黑带 希望 小坤能 越来越 认可 HardToGet 真的 不错 一首歌 徐坤 真的 不错 小孩 徐坤 第九 原创 ",
+        "items": [
+            {
+                "positive_prob": 0.77819,
+                "confidence": 0.507089,
+                "negative_prob": 0.22181,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6570465891506337402,
+        "text": "试唱 HardToGetCover 努力 但是 几句 还是 拗不过 一个 cm 大肚 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.353305,
+                "confidence": 0.214878,
+                "negative_prob": 0.646695,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 3346308885934023962,
+        "text": "小朋友 骄傲 小朋友 淄博 双杨镇 ",
+        "items": [
+            {
+                "positive_prob": 0.720832,
+                "confidence": 0.379628,
+                "negative_prob": 0.279168,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4452944000585956410,
+        "text": "徐坤 其实 挺不错 一小 哥哥 ",
+        "items": [
+            {
+                "positive_prob": 0.832216,
+                "confidence": 0.627147,
+                "negative_prob": 0.167784,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 132673337122746234,
+        "text": "徐坤 ikun 咱们 势力 榜掉 第二 新歌 打歌 同时 别忘了 势力 好多 看到 互相 一下 ",
+        "items": [
+            {
+                "positive_prob": 0.565194,
+                "confidence": 0.0337639,
+                "negative_prob": 0.434806,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3929840054548664346,
+        "text": "关注 作品 ",
+        "items": [
+            {
+                "positive_prob": 0.708288,
+                "confidence": 0.351752,
+                "negative_prob": 0.291712,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3539135272557919962,
+        "text": "无穷 我们 以后 还有 很多年 一起 努力 共同进步 成为 彼此 依靠 时间 证明 一切 我们 越来越 感恩 一切 感谢 肯定 继续 加油 听歌 ",
+        "items": [
+            {
+                "positive_prob": 0.961196,
+                "confidence": 0.913768,
+                "negative_prob": 0.0388043,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 5494661708740640378,
+        "text": "感觉 厉害 小朋友 ",
+        "items": [
+            {
+                "positive_prob": 0.39324,
+                "confidence": 0.126134,
+                "negative_prob": 0.60676,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5671522939082590234,
+        "text": "今天 新歌 下载 收藏夹 开车 会放 ",
+        "items": [
+            {
+                "positive_prob": 0.606459,
+                "confidence": 0.125465,
+                "negative_prob": 0.393541,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7053596730177806010,
+        "text": "选择 大碗 宽面 河池 安阳 ",
+        "items": [
+            {
+                "positive_prob": 0.633826,
+                "confidence": 0.186279,
+                "negative_prob": 0.366174,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 9136981252725374170,
+        "text": "徐坤 ",
+        "items": [
+            {
+                "positive_prob": 1,
+                "confidence": 1,
+                "negative_prob": 0,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 8857443672740817530,
+        "text": "优秀 人会 世界 看见 ",
+        "items": [
+            {
+                "positive_prob": 0.839622,
+                "confidence": 0.643606,
+                "negative_prob": 0.160377,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6991205413144922714,
+        "text": "睡前 美颜 暴击 我哥 这颜值 反正 不愧 喜欢 帅气 晚安 ",
+        "items": [
+            {
+                "positive_prob": 0.94844,
+                "confidence": 0.885423,
+                "negative_prob": 0.0515598,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3952801776305349562,
+        "text": "没人 鲨鱼 童谣 chase 首歌 歌词 真的 美妙 ",
+        "items": [
+            {
+                "positive_prob": 0.586935,
+                "confidence": 0.0820788,
+                "negative_prob": 0.413065,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7233457775456058362,
+        "text": "奎葵 不同 音律 交织 谱写 内心 想法 展示 有力 一面 HardToGet 带给 听觉 盛宴 音乐 忠诚 我们 一次 看到 今日 积分 啊啊啊 ",
+        "items": [
+            {
+                "positive_prob": 0.913265,
+                "confidence": 0.807255,
+                "negative_prob": 0.0867353,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6919661156896485498,
+        "text": "事实胜于雄辩 努力 总会 发光 ",
+        "items": [
+            {
+                "positive_prob": 0.573194,
+                "confidence": 0.0515432,
+                "negative_prob": 0.426806,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 989951874228574298,
+        "text": "野鸡 疯狂 这些 粉丝 要么 假人 要么 智商 假人 不如 ",
+        "items": [
+            {
+                "positive_prob": 0.180289,
+                "confidence": 0.599358,
+                "negative_prob": 0.819711,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5440889228923701370,
+        "text": "真的 骄傲 源自 网络 ",
+        "items": [
+            {
+                "positive_prob": 0.554305,
+                "confidence": 0.00956734,
+                "negative_prob": 0.445695,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1264187410113115834,
+        "text": "真正 了解 他会 发现 真的 好好 一个 小孩 一个 喜欢 豆奶 小朋友 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.812002,
+                "confidence": 0.582226,
+                "negative_prob": 0.187998,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7183738133262863290,
+        "text": "徐坤 既然 他们 知道 不是 真的 什么 在乎 徐坤 还是 听听 超难 好听 ",
+        "items": [
+            {
+                "positive_prob": 0.11585,
+                "confidence": 0.742557,
+                "negative_prob": 0.884151,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5824716609468019962,
+        "text": "今天 接阿佳 放学 路边 看到 小朋友 觉得 真的 小孩子 代沟 现在 徐坤 接受 不了 以后 怎么 接受 自己 孩子 喜欢 明星 ",
+        "items": [
+            {
+                "positive_prob": 0.597677,
+                "confidence": 0.105948,
+                "negative_prob": 0.402323,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7201306656553712442,
+        "text": "厉害 以后 一定 红红火火 ",
+        "items": [
+            {
+                "positive_prob": 0.502312,
+                "confidence": 0.953766,
+                "negative_prob": 0.497688,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 925091878705523930,
+        "text": "作品 就是 实力 证明 徐坤 新歌 欢迎 收听 ",
+        "items": [
+            {
+                "positive_prob": 0.827225,
+                "confidence": 0.616055,
+                "negative_prob": 0.172775,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1123494321892886074,
+        "text": "真的 不错 ",
+        "items": [
+            {
+                "positive_prob": 0.829242,
+                "confidence": 0.620537,
+                "negative_prob": 0.170758,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 29875506226876826,
+        "text": "品位 ",
+        "items": [
+            {
+                "positive_prob": 0.601454,
+                "confidence": 0.114343,
+                "negative_prob": 0.398546,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7198254226077414554,
+        "text": "优秀 我坤 真的 好听 ",
+        "items": [
+            {
+                "positive_prob": 0.769921,
+                "confidence": 0.488714,
+                "negative_prob": 0.230079,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8856986468862009498,
+        "text": "单曲 循环 很久 啊啊啊 你们 喜欢 一句 先来 太多 劣质 感情 排队 其中 蔡葵 可爱多 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.56717,
+                "confidence": 0.0381558,
+                "negative_prob": 0.43283,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2968993498997007738,
+        "text": "努力 专注 音乐 值得 期待 ",
+        "items": [
+            {
+                "positive_prob": 0.911589,
+                "confidence": 0.803531,
+                "negative_prob": 0.088411,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 8381773432259627290,
+        "text": "请问 有人 ",
+        "items": [
+            {
+                "positive_prob": 0.429662,
+                "confidence": 0.0451948,
+                "negative_prob": 0.570338,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 944099941167782138,
+        "text": "徐坤 伦敦 公演 VIEWOFTHEARTS 网站 头条 作者 表演 远超 期待 意外 之喜 并且 赞扬 声线 GreatVocalsL 重慶 森林 一九九八 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.802086,
+                "confidence": 0.56019,
+                "negative_prob": 0.197914,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8579766857909481178,
+        "text": "承受 多大 诋毁 荣誉 人云亦云 跟风 真的 low 听歌 放松 一下 心情 ",
+        "items": [
+            {
+                "positive_prob": 0.60611,
+                "confidence": 0.124689,
+                "negative_prob": 0.39389,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 858440790198116218,
+        "text": "奎葵 滴求 积分 ",
+        "items": [
+            {
+                "positive_prob": 0.638512,
+                "confidence": 0.196694,
+                "negative_prob": 0.361488,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7576652971783903738,
+        "text": "真的 很棒 ",
+        "items": [
+            {
+                "positive_prob": 0.909392,
+                "confidence": 0.79865,
+                "negative_prob": 0.0906076,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 7482049147400206714,
+        "text": "漂漂亮亮 闪闪 亮亮 一颗 肇东市 ",
+        "items": [
+            {
+                "positive_prob": 0.597205,
+                "confidence": 0.1049,
+                "negative_prob": 0.402795,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1825571903029797114,
+        "text": "加油 全世界 ",
+        "items": [
+            {
+                "positive_prob": 0.559891,
+                "confidence": 0.0219791,
+                "negative_prob": 0.440109,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2073108643703063034,
+        "text": "酷崽 早点 休息 ",
+        "items": [
+            {
+                "positive_prob": 0.7767,
+                "confidence": 0.503779,
+                "negative_prob": 0.2233,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2003543213693471834,
+        "text": "这首 真是 第一句 欣赏 尤其 递进 部分 完全 音乐风格 收听 免费 欢迎 可爱 朋友 徐坤 HardToGetKHardToGetKHardToGet ",
+        "items": [
+            {
+                "positive_prob": 0.905461,
+                "confidence": 0.789913,
+                "negative_prob": 0.094539,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3572313393892602810,
+        "text": "棒棒 ",
+        "items": [
+            {
+                "positive_prob": 0.584053,
+                "confidence": 0.0756742,
+                "negative_prob": 0.415947,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8000933204990859354,
+        "text": "看过 原文 觉得 像是 国内 一些 国外 艺人 评价 中立 评价 不黑 一些 看到 事实 看到 一定 真实 所以 求求 粉丝 徐坤 可能 你们 错太多 一直 觉得 遇到 表扬 谦虚 遇到 批评 坦然 面对 批评 非黑 另外 曾经 没有 徐坤 ",
+        "items": [
+            {
+                "positive_prob": 0.317808,
+                "confidence": 0.29376,
+                "negative_prob": 0.682192,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 4649576126232884346,
+        "text": "徐坤 新歌 已经 上线 世界 恶语相向 不如 听听 ",
+        "items": [
+            {
+                "positive_prob": 0.316095,
+                "confidence": 0.297566,
+                "negative_prob": 0.683905,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5580850492403867386,
+        "text": "其实 谦虚 温和 礼貌 热爱 音乐 舞台 ",
+        "items": [
+            {
+                "positive_prob": 0.705674,
+                "confidence": 0.345941,
+                "negative_prob": 0.294326,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 811928012550672666,
+        "text": "这个 优秀 孩子 多一点 善意 作品 了解 一下 ",
+        "items": [
+            {
+                "positive_prob": 0.902015,
+                "confidence": 0.782256,
+                "negative_prob": 0.0979849,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2520858408390944154,
+        "text": "FlashbacktothedayshetouredinUSUK 网页 链接 ",
+        "items": [
+            {
+                "positive_prob": 0.494387,
+                "confidence": 0.887731,
+                "negative_prob": 0.505614,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 2358752894475367930,
+        "text": "年个 露面 完全 续命 好听 kunikun ",
+        "items": [
+            {
+                "positive_prob": 0.471313,
+                "confidence": 0.426255,
+                "negative_prob": 0.528687,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 4726533315892285946,
+        "text": "评论 粉丝 我们 抛掉 有色眼镜 抱歉 真的 抛不掉 别说 这个 那个 那个 cx 开始 我家 作词 作曲 我们 粉丝 cx 证据 出来 时候 你们 只是 公司 曲子 不管 我们 姑且 原谅 可是 你们 原曲 下面 ",
+        "items": [
+            {
+                "positive_prob": 0.182496,
+                "confidence": 0.594453,
+                "negative_prob": 0.817504,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 1287460979863103834,
+        "text": "某坤 粉丝 眼里 只要 就是 无脑 跟风 xxj 逻辑 ",
+        "items": [
+            {
+                "positive_prob": 0.424247,
+                "confidence": 0.0572279,
+                "negative_prob": 0.575753,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5930634195762582842,
+        "text": "别酸 不如 看看 顶级 难泡 帅哥 耍帅 微博 视频 HardToGet ",
+        "items": [
+            {
+                "positive_prob": 0.3302,
+                "confidence": 0.266222,
+                "negative_prob": 0.6698,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7369176566342362586,
+        "text": "看清楚 自豪 ",
+        "items": [
+            {
+                "positive_prob": 0.478846,
+                "confidence": 0.576923,
+                "negative_prob": 0.521154,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 6350153291727637786,
+        "text": "新歌 不错 虽然 喜欢 暂时 没有 超越 ",
+        "items": [
+            {
+                "positive_prob": 0.908044,
+                "confidence": 0.795654,
+                "negative_prob": 0.0919559,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 6809483897622153562,
+        "text": "渣浪 真的 早會 雷劈 ",
+        "items": [
+            {
+                "positive_prob": 0.29518,
+                "confidence": 0.344044,
+                "negative_prob": 0.70482,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 7371158292759674874,
+        "text": "两天 正在 补看 偶像 练习生 感觉 实力 就是 一些 粉丝 可能 黑粉 一直 吹捧 哪怕 别的 选手 表演 节目 弹幕 好多 cxk 就让 路人 些许 反感 但是 实力 来说 就是 粉丝 太招 绍兴 东湖 ",
+        "items": [
+            {
+                "positive_prob": 0.702102,
+                "confidence": 0.338005,
+                "negative_prob": 0.297898,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7164006231926348954,
+        "text": "顶级 难泡 微博 视频 HardToGet ",
+        "items": [
+            {
+                "positive_prob": 0.457485,
+                "confidence": 0.149708,
+                "negative_prob": 0.542515,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 478822164273045658,
+        "text": "Pullup 舞台 一下 超炸 菜菜 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.653884,
+                "confidence": 0.230854,
+                "negative_prob": 0.346116,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1590716773883717178,
+        "text": "继续 加油 ",
+        "items": [
+            {
+                "positive_prob": 0.657701,
+                "confidence": 0.239336,
+                "negative_prob": 0.342299,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2670092638217642330,
+        "text": "现在 黑子 机器人 那些 复制粘贴 说来说去 就是 几句 就是 那么 事儿 真的 看烦 个人 不好 如果 喜欢 我会 直接 跳过 即使 出现 朋友圈 简单 不会 还是 ",
+        "items": [
+            {
+                "positive_prob": 0.0977103,
+                "confidence": 0.782866,
+                "negative_prob": 0.90229,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5467299713216519898,
+        "text": "徐坤 这么 厉害 哇哇 ",
+        "items": [
+            {
+                "positive_prob": 0.313929,
+                "confidence": 0.302379,
+                "negative_prob": 0.686071,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 4682182401128962234,
+        "text": "果然 喜欢 错人 我哥 优秀 ",
+        "items": [
+            {
+                "positive_prob": 0.952109,
+                "confidence": 0.893576,
+                "negative_prob": 0.0478908,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2511255183475027738,
+        "text": "以前 梅格妮 后来 脱粉 几年 粉上 感觉 实力 喜欢 实力 黑粉 完全 不用 做过 解释 然后 表白 我坤 新歌 郑州 陈砦 ",
+        "items": [
+            {
+                "positive_prob": 0.410693,
+                "confidence": 0.0873485,
+                "negative_prob": 0.589307,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 850667461496023930,
+        "text": "打退堂鼓 HCG 几次 地方 便宜 没有 ",
+        "items": [
+            {
+                "positive_prob": 0.475601,
+                "confidence": 0.512019,
+                "negative_prob": 0.524399,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 2118600743845200026,
+        "text": "喜欢 优秀 ",
+        "items": [
+            {
+                "positive_prob": 0.934681,
+                "confidence": 0.854847,
+                "negative_prob": 0.0653189,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 4827163639443127674,
+        "text": "千军万马 听歌 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.539958,
+                "confidence": 0.200841,
+                "negative_prob": 0.460042,
+                "sentiment": 1
+            }
+        ]
+    },
+    {
+        "log_id": 5862147453229056506,
+        "text": "听听 作品 认识 一个 不是 网络 似是而非 从众 发言 值得 所有 粉丝 骄傲 ",
+        "items": [
+            {
+                "positive_prob": 0.845541,
+                "confidence": 0.656758,
+                "negative_prob": 0.154459,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 1288409995276440826,
+        "text": "已经 上线 ",
+        "items": [
+            {
+                "positive_prob": 0.613246,
+                "confidence": 0.140546,
+                "negative_prob": 0.386754,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7878261585457590074,
+        "text": "专注 作品 无畏 前行 UplayhardtogetButIcanonlyplaywithusomuch ",
+        "items": [
+            {
+                "positive_prob": 0.715479,
+                "confidence": 0.36773,
+                "negative_prob": 0.284521,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8313100134297485146,
+        "text": "既然 国内 国外 干嘛 国外 发展 国内 一片 清净 国外 贡献 伟大 创作 ",
+        "items": [
+            {
+                "positive_prob": 0.310497,
+                "confidence": 0.310007,
+                "negative_prob": 0.689503,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 5570171750132946106,
+        "text": "什么 真正 这里 或许 想要 答案 下午 已经 上线 LLevis 中国 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.350812,
+                "confidence": 0.220418,
+                "negative_prob": 0.649188,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 8236201574711134970,
+        "text": "宝贝 很棒 广水 应山 街区 ",
+        "items": [
+            {
+                "positive_prob": 0.949152,
+                "confidence": 0.887003,
+                "negative_prob": 0.0508484,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 7854108639470898362,
+        "text": "听歌 ",
+        "items": [
+            {
+                "positive_prob": 0.552113,
+                "confidence": 0.00469565,
+                "negative_prob": 0.447887,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5383853710385900762,
+        "text": "风格 真的 喜欢 什么 时候 等到 爵士 ",
+        "items": [
+            {
+                "positive_prob": 0.706766,
+                "confidence": 0.348369,
+                "negative_prob": 0.293234,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2006406289104889594,
+        "text": "第四章 终章 可是 悦游 死活 上不来 听听 hardtoget 缓解 一下 心中 郁结 LLevis 中国 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.412381,
+                "confidence": 0.0835979,
+                "negative_prob": 0.587619,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 4213181545145826234,
+        "text": "路人 优秀 值得 表扬 ",
+        "items": [
+            {
+                "positive_prob": 0.941079,
+                "confidence": 0.869065,
+                "negative_prob": 0.0589209,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 3331843727281479450,
+        "text": "VIEWOFTHEARTS 网站 头条 作者 一个 艺术家 并且 高度赞扬 声线 GreatVocals 真正 一名 音乐 从未 偏离 路线 ",
+        "items": [
+            {
+                "positive_prob": 0.314647,
+                "confidence": 0.300784,
+                "negative_prob": 0.685353,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "error_code": 18,
+        "error_msg": "Open api qps request limit reached"
+    },
+    {
+        "log_id": 4349671429988708538,
+        "text": "真的 棒棒 既然 这么 优秀 今年 不得 拿个 格莱美 奥斯卡 毕竟 外国人 这么 ",
+        "items": [
+            {
+                "positive_prob": 0.386143,
+                "confidence": 0.141905,
+                "negative_prob": 0.613857,
+                "sentiment": 0
+            }
+        ]
+    },
+    {
+        "log_id": 9101502707859280346,
+        "text": "收集 几个 大家 空耳 中文 rap 歌词 马上 揭晓 答案 时刻 寻思 大家 可以 猜猜 一包 辣条 全军覆没 倒计时 小时 ",
+        "items": [
+            {
+                "positive_prob": 0.622702,
+                "confidence": 0.161559,
+                "negative_prob": 0.377298,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 5019193214386706522,
+        "text": "实力 帅哥 果然 还是 发现 原创 音乐 徐坤 带来 第九 原创 歌曲 HardToGet 下午 上线 在线 免费听 一起 期待 HTGL 徐坤 工作室 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.965943,
+                "confidence": 0.924318,
+                "negative_prob": 0.0340569,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 2779278709850183898,
+        "text": "实力 证明 一切 不忘 初心 继续 成长 徐坤 加油 徐坤 印象 如何 ",
+        "items": [
+            {
+                "positive_prob": 0.691966,
+                "confidence": 0.315481,
+                "negative_prob": 0.308034,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 8432748340390888602,
+        "text": "第九 原创 HardToGet 下午 上线 各大 平台 试听 免费 看看 预告 徐坤 工作室 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.889653,
+                "confidence": 0.754785,
+                "negative_prob": 0.110347,
+                "sentiment": 2
+            }
+        ]
+    },
+    {
+        "log_id": 7235203388753224122,
+        "text": "最爱 mv 最棒 接受 反驳 WaitWaitWaitMVL 徐坤 工作室 微博 视频 ",
+        "items": [
+            {
+                "positive_prob": 0.987022,
+                "confidence": 0.971159,
+                "negative_prob": 0.0129783,
+                "sentiment": 2
+            }
+        ]
+    }
+]

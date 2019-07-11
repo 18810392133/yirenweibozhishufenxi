@@ -12,3 +12,7 @@ class fan_phone(models.Model):
 class star_pinglun(models.Model):
     keyword = models.CharField(max_length=40)
     tote = models.IntegerField()
+
+class fan_area(models.Model):
+    province = models.CharField(max_length=40)
+    tote = models.IntegerField()
