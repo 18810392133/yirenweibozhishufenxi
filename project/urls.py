@@ -19,4 +19,6 @@ urlpatterns = [
     url(r'^fensiqinggan/$', views.fensiqinggan, name='fensiqinggan'),
     url(r'^gongtongguanzhu/$', views.gongtongguanzhu, name='gongtongguanzhu'),
     url(r'^load_phone_data/$', views.load_phone_data, name='load_phone_data'),
+    url(r'^diqufenbu/$', views.fans_area, name='diqufenbu'),
+
 ]

@@ -1,6 +1,6 @@
 from django.http import HttpResponse, JsonResponse
 from django.shortcuts import render
-from .models import star_topic,fan_phone,star_pinglun
+from .models import star_topic,fan_phone,star_pinglun,huati
 # 创建数据库连接
 import MySQLdb
 
@@ -18,7 +18,9 @@ def shijianduan(request):
 def yonghuhuaxiang(request):
     return render(request,"cxk/用户画像.html")
 def yonghuhuati(request):
+    getHUATICiYun()
     return render(request,"cxk/用户话题.html")
+
 def fensiqinggan(request):
     getHuaticiyun()
     getPingLunCiYun()
@@ -31,6 +33,9 @@ def load_phone_data(request):
         temp = (fan_phones[i].phone_name,fan_phones[i].tote)
         name_dict.append(temp)
     return JsonResponse(dict(name_dict))
+
+def fans_area(request):
+    return render(request, "cxk/地区分布.html")
 
 
 
@@ -53,10 +58,22 @@ def getPingLunCiYun():
     file.write("var pinglun_data = {")
     all_items = star_pinglun.objects.all().filter(tote__gt=48)
     for i in range(keyword_count):
-        if (all_items[i].keyword == '蔡徐坤'):
-            pass
-        if(all_items[i].tote>40):
+        if(all_items[i].tote>40 and all_items[i].keyword != "蔡徐坤"):
             file.write('"' + all_items[i].keyword + '"' + ':' + str(all_items[i].tote) + ',\n')
+    file.write("};")
+    file.close()
 
+
+
+def getHUATICiYun():
+    huati_count = huati.objects.all().filter(tote__gt=20).count()
+    file = open('project/static/js_myself/huati_data.js', 'w+', encoding='utf-8')
+    file.write("var huati_data = {")
+    huati_object = huati.objects.all().filter(tote__gt=20)
+    for i in range(huati_count):
+        if (huati_object[i].keyword == '蔡徐坤'):
+            pass
+        if(huati_object[i].tote>15):
+            file.write('"' + huati_object[i].keyword + '"' + ':' + str(huati_object[i].tote) + ',\n')
     file.write("};")
     file.close()

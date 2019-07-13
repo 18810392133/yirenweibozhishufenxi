@@ -68,9 +68,17 @@
     <script src='{% static "js_myself/data.js" %}'></script>
     <script src='{% static "js_myself/pinglun_data.js" %}'></script>
     <script src="https://cdn.bootcss.com/echarts/3.7.0/echarts.simple.js"></script>
+
+
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/echarts.min.js"></script>
     <script src='{% static "js/echarts-wordcloud.min.js" %}'></script>
-    <!--显示粉丝评论倾向的插件-->
-    <script src="https://unpkg.com/frappe-charts@1.1.0/dist/frappe-charts.min.iife.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-gl/echarts-gl.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts-stat/ecStat.min.js"></script>
+    <script type="text/javascript"
+            src="http://echarts.baidu.com/gallery/vendors/echarts/extension/dataTool.min.js"></script>
+    <script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/simplex.js"></script>
+
+
 </head>
 
 <body>
@@ -96,7 +104,8 @@
                         <ul class="submenu-angle" aria-expanded="true">
                             <li><a title="Dashboard v.1" href="{% url 'project:yonghuhuaxiang' %}"><span
                                     class="mini-sub-pro">用户画像</span></a></li>
-                            <li><a title="Dashboard v.2" href="#"><span class="mini-sub-pro">地区分布</span></a></li>
+                            <li><a title="Dashboard v.2" href="{% url 'project:diqufenbu' %}"><span
+                                    class="mini-sub-pro">地区分布</span></a></li>
                             <li><a title="Dashboard v.3" href="{% url 'project:yingxianglipaiming' %}"><span
                                     class="mini-sub-pro">影响力排行</span></a></li>
                             <li><a title="Analytics" href="{% url 'project:gongtongguanzhu' %}"><span
@@ -152,7 +161,7 @@
                                             class="admin-project-icon edu-icon edu-down-arrow"></span></a>
                                         <ul class="collapse dropdown-header-top">
                                             <li><a href="{% url 'project:yonghuhuaxiang' %}">用户画像</a></li>
-                                            <li><a href="#">地区分布</a></li>
+                                            <li><a href="{% url 'project:diqufenbu' %}">地区分布</a></li>
                                             <li><a href="{% url 'project:yingxianglipaiming' %}">影响力排行</a></li>
                                             <li><a href="{% url 'project:gongtongguanzhu' %}">共同关注</a></li>
                                             <li><a href="{% url 'project:shijianduan' %}">粉丝活跃时间段</a></li>
@@ -204,7 +213,7 @@
                     <div class="analytics-sparkle-line reso-mg-b-30">
                         <div class="analytics-content">
                             <h5>粉丝主页数据</h5>
-                            <h2><span class="counter">5000</span> <span class="tuition-fees">来源于微博</span></h2>
+                            <h2><span class="counter">5697</span> <span class="tuition-fees">来源于微博</span></h2>
                             <!--<span class="text-success">20%</span>
                             <div class="progress m-b-0">
                                 <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:20%;"> <span class="sr-only">20% Complete</span> </div>
@@ -216,7 +225,7 @@
                     <div class="analytics-sparkle-line reso-mg-b-30">
                         <div class="analytics-content">
                             <h5>微博评论数据</h5>
-                            <h2><span class="counter">3000</span> <span class="tuition-fees">来源于微博</span></h2>
+                            <h2><span class="counter">56282</span> <span class="tuition-fees">来源于微博</span></h2>
                             <!-- <span class="text-danger">30%</span>
                              <div class="progress m-b-0">
                                  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:30%;"> <span class="sr-only">230% Complete</span> </div>
@@ -228,7 +237,7 @@
                     <div class="analytics-sparkle-line reso-mg-b-30 table-mg-t-pro dk-res-t-pro-30">
                         <div class="analytics-content">
                             <h5>关键词数据</h5>
-                            <h2><span class="counter">2000</span> <span class="tuition-fees">来源于微博</span></h2>
+                            <h2><span class="counter">8523</span> <span class="tuition-fees">来源于微博</span></h2>
                             <!-- <span class="text-info">60%</span>
                              <div class="progress m-b-0">
                                  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:60%;"> <span class="sr-only">20% Complete</span> </div>
@@ -240,7 +249,7 @@
                     <div class="analytics-sparkle-line table-mg-t-pro dk-res-t-pro-30">
                         <div class="analytics-content">
                             <h5>话题数据</h5>
-                            <h2><span class="counter">3500</span> <span class="tuition-fees">来源于微博</span></h2>
+                            <h2><span class="counter">6523</span> <span class="tuition-fees">来源于微博</span></h2>
                             <!-- <span class="text-inverse">80%</span>
                               <div class="progress m-b-0">
                                   <div class="progress-bar progress-bar-inverse" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:80%;"> <span class="sr-only">230% Complete</span> </div>
@@ -258,19 +267,19 @@
     <div class="sparkline-area">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <div class="about-sparkline responsive-mg-b-30">
                         <div class="sparkline-hd">
                             <div class="main-spark-hd">
-                                <h1 onclick="show_huaticiyun()">艺人在粉丝中的话题 </h1>
+                                <h1 onclick="show_huaticiyun()">用户转发词云 </h1>
                             </div>
                         </div>
                         <div class="sparkline-content">
-                            <div id="ciyun" style="width:500px; height:300px"></div>
+                            <div id="ciyun" style="width:600px; height:500px"></div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <div class="sparkline-list">
                         <!--表格-->
                         <div class="smart-sparkline-hd">
@@ -279,7 +288,7 @@
                             </div>
                             <div class="sparkline-content">
                                 <div class="sparkline-content">
-                                    <div id="pinglun_ciyun" style="width:500px; height:300px"></div>
+                                    <div id="pinglun_ciyun" style="width:600px; height:500px"></div>
                                 </div>
                             </div>
                         </div>
@@ -296,7 +305,7 @@
     <div class="pie-bar-line-area mg-t-30 mg-b-15">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                     <div class="sparkline7-list responsive-mg-b-30">
                         <div class="sparkline7-hd">
                             <div class="main-spark7-hd">
@@ -304,11 +313,40 @@
                             </div>
                         </div>
                         <div class="sparkline7-graph">
-                            <div id="chart"></div>
+                            <div id="qinggan_chart" style="width:600px; height:500px"></div>
                         </div>
                     </div>
                 </div>
-
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <div class="sparkline7-list responsive-mg-b-30">
+                        <div class="sparkline7-hd">
+                            <div class="main-spark7-hd">
+                                <h1>由评论生成的频繁项集</h1>
+                            </div>
+                        </div>
+                        <div class="sparkline7-graph">
+                            <div id="pinfanxiangji" style="width:600px; height:500px"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="pie-bar-line-area mg-t-30 mg-b-15">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <div class="sparkline7-list responsive-mg-b-30">
+                        <div class="sparkline7-hd">
+                            <div class="main-spark7-hd">
+                                <h1>由频繁项集生成的关联规则</h1>
+                            </div>
+                        </div>
+                        <div class="sparkline7-graph">
+                            <div id="guanlianguize" style="width:600px; height:500px"></div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -378,136 +416,722 @@
     ============================================ -->
 
 <script>
-    function show_huaticiyun() {
-        //载入数据
-        var data_list = [];
-        for (var key in data) {
-            console.log(data[key] + key);
-            var a_data = {name: key, value: data[key]};
-            data_list.push(a_data);
-        }
-        var myChart = echarts.init(document.getElementById('ciyun'));
-        var option = {
-            title: {
-                text: '蔡徐坤',//标题
-                x: 'center',
-                textStyle: {
-                    fontSize: 23
-                }
-
+    //载入数据
+    var data_list = [];
+    for (var key in data) {
+        console.log(data[key] + key);
+        var a_data = {name: key, value: data[key]};
+        data_list.push(a_data);
+    }
+    var myChart = echarts.init(document.getElementById('ciyun'));
+    var option = {
+        //  backgroundColor: '#F7F7F7',
+        tooltip: {
+            show: true
+        },
+        series: [{
+            name: '话题广场关键词',//数据提示窗标题
+            type: 'wordCloud',
+            sizeRange: [8, 88],//画布范围，如果设置太大会出现少词（溢出屏幕）
+            rotationRange: [-45, 90],//数据翻转范围
+            //shape: 'circle',
+            textPadding: 0,
+            autoSize: {
+                enable: true,
+                minSize: 20
             },
-            //  backgroundColor: '#F7F7F7',
-            tooltip: {
-                show: true
-            },
-            series: [{
-                name: '话题广场关键词',//数据提示窗标题
-                type: 'wordCloud',
-                sizeRange: [8, 88],//画布范围，如果设置太大会出现少词（溢出屏幕）
-                rotationRange: [-45, 90],//数据翻转范围
-                //shape: 'circle',
-                textPadding: 0,
-                autoSize: {
-                    enable: true,
-                    minSize: 6
-                },
-                textStyle: {
-                    normal: {
-                        color: function () {
-                            return 'rgb(' + [
-                                Math.round(Math.random() * 160),
-                                Math.round(Math.random() * 160),
-                                Math.round(Math.random() * 160)
-                            ].join(',') + ')';
-                        }
-                    },
-                    emphasis: {
-                        shadowBlur: 10,
-                        shadowColor: '#333'
+            textStyle: {
+                normal: {
+                    color: function () {
+                        return 'rgb(' + [
+                            Math.round(Math.random() * 160),
+                            Math.round(Math.random() * 160),
+                            Math.round(Math.random() * 160)
+                        ].join(',') + ')';
                     }
                 },
-                data: data_list
-                //name和value建议用小写，大写有时会出现兼容问题
-
-            }]
-        };
-        myChart.setOption(option);
-        window.onresize = myChart.resize;
-    }
-
-    function show_pinglunciyun() {
-        //载入数据
-        var data_list = [];
-        for (var key in pinglun_data) {
-            console.log(pinglun_data[key] + key);
-            var a_data = {name: key, value: pinglun_data[key]};
-            data_list.push(a_data);
-        }
-        var myChart = echarts.init(document.getElementById('pinglun_ciyun'));
-        var option = {
-            title: {
-                text: '蔡徐坤',//标题
-                x: 'center',
-                textStyle: {
-                    fontSize: 23
+                emphasis: {
+                    shadowBlur: 10,
+                    shadowColor: '#333'
                 }
+            },
+            data: data_list
+            //name和value建议用小写，大写有时会出现兼容问题
 
+        }]
+    };
+    myChart.setOption(option);
+    window.onresize = myChart.resize;
+
+
+    //载入数据
+    var data_list_pinglun = [];
+    for (var key in pinglun_data) {
+        console.log(pinglun_data[key] + key);
+        var a_data = {name: key, value: pinglun_data[key]};
+        data_list_pinglun.push(a_data);
+    }
+    var myChart_pinglun = echarts.init(document.getElementById('pinglun_ciyun'));
+    var option_pinglun = {
+        //  backgroundColor: '#F7F7F7',
+        tooltip: {
+            show: true
+        },
+        series: [{
+            name: '话题广场关键词',//数据提示窗标题
+            type: 'wordCloud',
+            sizeRange: [8, 88],//画布范围，如果设置太大会出现少词（溢出屏幕）
+            rotationRange: [-45, 90],//数据翻转范围
+            //shape: 'circle',
+            textPadding: 0,
+            autoSize: {
+                enable: true,
+                minSize: 60
             },
-            //  backgroundColor: '#F7F7F7',
-            tooltip: {
-                show: true
-            },
-            series: [{
-                name: '话题广场关键词',//数据提示窗标题
-                type: 'wordCloud',
-                sizeRange: [8, 88],//画布范围，如果设置太大会出现少词（溢出屏幕）
-                rotationRange: [-45, 90],//数据翻转范围
-                //shape: 'circle',
-                textPadding: 0,
-                autoSize: {
-                    enable: true,
-                    minSize: 6
-                },
-                textStyle: {
-                    normal: {
-                        color: function () {
-                            return 'rgb(' + [
-                                Math.round(Math.random() * 160),
-                                Math.round(Math.random() * 160),
-                                Math.round(Math.random() * 160)
-                            ].join(',') + ')';
-                        }
-                    },
-                    emphasis: {
-                        shadowBlur: 10,
-                        shadowColor: '#333'
+            textStyle: {
+                normal: {
+                    color: function () {
+                        return 'rgb(' + [
+                            Math.round(Math.random() * 160),
+                            Math.round(Math.random() * 160),
+                            Math.round(Math.random() * 160)
+                        ].join(',') + ')';
                     }
                 },
-                data: data_list
-                //name和value建议用小写，大写有时会出现兼容问题
+                emphasis: {
+                    shadowBlur: 10,
+                    shadowColor: '#333'
+                }
+            },
+            data: data_list_pinglun
+            //name和value建议用小写，大写有时会出现兼容问题
 
-            }]
-        };
-        myChart.setOption(option);
-        window.onresize = myChart.resize;
-    }
+        }]
+    };
+    myChart_pinglun.setOption(option_pinglun);
+    window.onresize = myChart_pinglun.resize;
 
-    const data_pie = {
-        labels: ["积极评论","消极评论","中性评论"
-        ],
-        datasets: [
+
+    var dom_qinggan = document.getElementById("qinggan_chart");
+    var myChart_qinggan = echarts.init(dom_qinggan);
+    option_qinggan = null;
+    option_qinggan = {
+        title: {
+            text: '粉丝评论情感',
+            x: 'center'
+        },
+        tooltip: {
+            trigger: 'item',
+            formatter: "{a} <br/>{b} : {c} ({d}%)"
+        },
+        legend: {
+            orient: 'vertical',
+            left: 'left',
+            data: ['积极评论', '消极评论', '中性评论']
+        },
+        series: [
             {
-                name: "情感占比", type: "pie",
-                values: [292,175,72]
-            },
+                name: '访问来源',
+                type: 'pie',
+                radius: '55%',
+                center: ['50%', '60%'],
+                data: [
+                    {value: 335, name: '积极评论'},
+                    {value: 310, name: '消极评论'},
+                    {value: 1548, name: '中性评论'}
+                ],
+                itemStyle: {
+                    emphasis: {
+                        shadowBlur: 10,
+                        shadowOffsetX: 0,
+                        shadowColor: 'rgba(0, 0, 0, 0.5)'
+                    }
+                }
+            }
         ]
+    };
+    myChart_qinggan.setOption(option_qinggan, true);
+
+
+    var dom_pinfanxiangji = document.getElementById("pinfanxiangji");
+    var myChart_pinfanxiangji = echarts.init(dom_pinfanxiangji);
+    var app = {};
+    option_pinfanxiangji = null;
+    var data_pinfanxiangji = [
+
+        {
+            name: '不安',
+            itemStyle: {
+                color: '#da1d23'
+            },
+            children: [{
+                name: '当下',
+                itemStyle: {
+                    color: '#dd4c51'
+                },
+                children: [{
+                    name: ' ',
+                    value: 1,
+                    itemStyle: {
+                        color: '#ef2d36'
+                    }
+                }]
+            }, {
+                name: '承诺',
+                itemStyle: {
+                    color: '#c94a44'
+                },
+                children: [{
+                    name: ' ',
+                    value: 1,
+                    itemStyle: {
+                        color: '#ef2d36'
+                    }
+                }]
+
+            }, {
+                name: '未来',
+                itemStyle: {
+                    color: '#dd4c51'
+                },
+                children: [{
+                    name: '',
+                    value: 1,
+                    itemStyle: {
+                        color: '#f2684b'
+                    }
+                }]
+            }, {
+                name: '定数',
+                itemStyle: {
+                    color: '#f26355'
+                },
+                children: [{
+                    name: '',
+                    value: 1,
+                    itemStyle: {
+                        color: '#f26355'
+                    }
+                }]
+            },
+                {
+                    name: '此时此刻',
+                    itemStyle: {
+                        color: '#f26355'
+                    },
+                    children: [{
+                        name: '',
+                        value: 1,
+                        itemStyle: {
+                            color: '#f26355'
+                        }
+                    }]
+                }]
+        }, {
+            name: '当下',
+            itemStyle: {
+                color: '#ebb40f'
+            },
+            children: [{
+                name: '承诺',
+                itemStyle: {
+                    color: '#e1c315'
+                },
+                children: [{
+                    name: ' ',
+                    value: 1,
+                    itemStyle: {
+                        color: '#9ea718'
+                    }
+                }]
+            }, {
+                name: '未来',
+                itemStyle: {
+                    color: '#9ea718'
+                },
+                children: [{
+                    name: '',
+                    value: 1,
+                    itemStyle: {
+                        color: '# '
+                    }
+                }]
+            },
+                {
+                    name: '蔡徐坤',
+                    itemStyle: {
+                        color: '#94a76f'
+                    },
+                    children: [{
+                        name: '',
+                        value: 1,
+                        itemStyle: {
+                            color: '# '
+                        }
+                    }]
+                },
+                {
+                    name: '熬夜',
+                    itemStyle: {
+                        color: '#8eb646'
+                    },
+                    children: [{
+                        name: '',
+                        value: 1,
+                        itemStyle: {
+                            color: '# '
+                        }
+                    }]
+                },
+                {
+                    name: '让人',
+                    itemStyle: {
+                        color: '#faef07'
+                    },
+                    children: [{
+                        name: '',
+                        value: 1,
+                        itemStyle: {
+                            color: '# '
+                        }
+                    }]
+                }
+
+            ]
+        }, {
+            name: '承诺',
+            itemStyle: {
+                color: '#187a2f'
+            },
+            children: [{
+                name: '未来',
+                value: 1,
+                itemStyle: {
+                    color: '#a2b029'
+                }
+            }, {
+                name: '此时此刻',
+                value: 1,
+                itemStyle: {
+                    color: '#718933'
+                }
+            }, {
+                name: '蔡徐坤',
+                itemStyle: {
+                    color: '#3aa255'
+                },
+                children: [{
+                    name: ' ',
+                    value: 1,
+                    itemStyle: {
+                        color: '#a2bb2b'
+                    }
+                }]
+            }, {
+                name: '定数',
+                value: 1,
+                itemStyle: {
+                    color: '#7ac141'
+                }
+            }]
+        }, {
+            name: '却说',
+            itemStyle: {
+                color: '#0aa3b5'
+            },
+            children: [
+                {
+                    name: '话到嘴边',
+                    itemStyle: {
+                        color: '#8b8c90'
+                    },
+                    children: [{
+                        name: '',
+                        value: 1,
+                        itemStyle: {
+                            color: '# '
+                        }
+                    }]
+                },
+                {
+                    name: '请',
+                    itemStyle: {
+                        color: '#beb276'
+                    },
+                    children: [{
+                        name: '',
+                        value: 1,
+                        itemStyle: {
+                            color: '# '
+                        }
+                    }]
+                },
+                {
+                    name: '爱意',
+                    itemStyle: {
+                        color: '#a3a36f'
+                    },
+                    children: [{
+                        name: '',
+                        value: 1,
+                        itemStyle: {
+                            color: '# '
+                        }
+                    }]
+                },
+                {
+                    name: '音乐',
+                    itemStyle: {
+                        color: '#c9b583'
+                    },
+                    children: [{
+                        name: '',
+                        value: 1,
+                        itemStyle: {
+                            color: '#  '
+                        }
+                    }]
+                }, {
+                    name: '记住',
+                    itemStyle: {
+                        color: '#9db2b7'
+                    },
+                    children: [{
+                        name: ' ',
+                        value: 1,
+                        itemStyle: {
+                            color: '#8b8c90'
+                        }
+                    }]
+                }, {
+                    name: '话',
+                    itemStyle: {
+                        color: '#76c0cb'
+                    },
+                    children: [{
+                        name: ' ',
+                        value: 1,
+                        itemStyle: {
+                            color: '#80a89d'
+                        }
+                    }]
+                }]
+        }, {
+            name: '倾诉吧',
+            itemStyle: {
+                color: '#c94930'
+            },
+            children: [{
+                name: '却说',
+                value: 1,
+                itemStyle: {
+                    color: '#caa465'
+                }
+            }, {
+                name: '很爱',
+                value: 1,
+                itemStyle: {
+                    color: '#dfbd7e'
+                }
+            }, {
+                name: '话到嘴边',
+                itemStyle: {
+                    color: '#be8663'
+                },
+                children: [{
+                    name: ' ',
+                    value: 1,
+                    itemStyle: {
+                        color: '#b9a449'
+                    }
+                }]
+            }, {
+                name: '音乐',
+                itemStyle: {
+                    color: '# '
+                },
+                children: [{
+                    name: ' ',
+                    value: 1,
+                    itemStyle: {
+                        color: '# '
+                    }
+                }]
+            }]
+        }, {
+            name: '包围',
+            itemStyle: {
+                color: '#ad213e'
+            },
+            children: [{
+                name: '却说',
+                value: 1,
+                itemStyle: {
+                    color: '#794752'
+                }
+            }, {
+                name: '天生一对',
+                value: 1,
+                itemStyle: {
+                    color: '#cc3d41'
+                }
+            }, {
+                name: '爱意',
+                itemStyle: {
+                    color: '#b14d57'
+                },
+                children: [{
+                    name: ' ',
+                    value: 1,
+                    itemStyle: {
+                        color: '#c78936'
+                    }
+                }]
+            }]
+        }];
+
+
+    option_pinfanxiangji = {
+        title: {
+            text: '由评论生成的频繁项集',
+            subtext: '数据来源于微博',
+            textStyle: {
+                fontSize: 14,
+                align: 'center'
+            },
+            subtextStyle: {
+                align: 'center'
+            },
+            sublink: 'https://worldcoffeeresearch.org/work/sensory-lexicon/'
+        },
+        series: {
+            type: 'sunburst',
+            highlightPolicy: 'ancestor',
+            data: data_pinfanxiangji,
+            radius: [0, '95%'],
+            sort: null,
+            levels: [{}, {
+                r0: '15%',
+                r: '35%',
+                itemStyle: {
+                    borderWidth: 2
+                },
+                label: {
+                    rotate: 'tangential'
+                }
+            }, {
+                r0: '35%',
+                r: '70%',
+                label: {
+                    align: 'right'
+                }
+            }, {
+                r0: '70%',
+                r: '72%',
+                label: {
+                    position: 'outside',
+                    padding: 3,
+                    silent: false
+                },
+                itemStyle: {
+                    borderWidth: 3
+                }
+            }]
+        }
+    };
+    ;
+    if (option_pinfanxiangji && typeof option_pinfanxiangji === "object") {
+        myChart_pinfanxiangji.setOption(option_pinfanxiangji, true);
     }
-    const chart = new frappe.Chart("#chart", {  // or a DOM element,
-        // new Chart() in case of ES6 module with above usage
-        title: "蔡徐坤粉丝评论倾向如下：",
-        data: data_pie,
-        type: 'pie', height: 300, colors: ['purple', '#ffa3ef', 'light-blue']
-    })
+</script>
+<script type="text/javascript">
+    var dom_guanlianguize = document.getElementById("guanlianguize");
+var myChart_guanlianguize = echarts.init(dom_guanlianguize);
+var app = {};
+option_guanlianguize = null;
+var dataBJ = [
+    [0.555,0.88,9,56,0.46,18,6,"不安,  当下,  此时此刻, 定数, 让人","很爱,  未来"],
+    [0.42,0.83,11,21,0.65,34,9,"不安,  当下,  此时此刻, 定数","很爱,  未来"],
+    [0.4122,0.84,2,63,0.3,14,5,"承诺, 让人","很爱,  未来"],
+    [0.4,0.33,7,29,0.33,16,6,"承诺,  此时此刻, 让人","很爱,  未来"],
+    [0.5,0.42,24,44,0.76,40,16,"此时此刻, 定数, 让人","很爱,  未来"],
+    [0.6,0.82,58,90,1.77,68,33,"不安,  此时此刻, 让人","很爱,  未来"],
+    [0.7,0.74,49,77,1.46,48,27,"当下,  此时此刻, 定数, 让人","很爱,  未来"],
+    [0.8,0.78,55,80,1.29,59,29,"不安,  当下,  承诺, 定数","很爱,  未来"],
+    [0.9,0.267,216,280,4.8,108,64,"不安,  承诺","却说, 很多"],
+    [0.10,0.185,127,216,2.52,61,27,"包围,  天生一对, 音乐","却说, 很多"],
+    [0.11,0.39,19,38,0.57,31,15,"爱意","倾诉吧,  包围,  天生一对,  永远, 很爱, 音乐"],
+    [0.12,0.41,11,40,0.43,21,7,"记住,  话到嘴边,  请","却说, 很多"],
+    [0.13,0.64,38,74,1.04,46,22,"记住,  话,  请","却说, 很多"],
+    [0.14,0.108,79,120,1.7,75,41,"记住,  话到嘴边,  那就","却说, 很多"],
+    [0.15,0.108,63,116,1.48,44,26,"话,  话到嘴边,  请","却说, 很多"],
+    [0.16,0.33,6,29,0.34,13,5,"话,  话到嘴边,  那就","却说, 很多"],
+    [0.170,0.94,66,110,1.54,62,31,"倾诉吧","却说, 很多"],
+    [0.180,0.186,142,192,3.88,93,79,"倾诉吧,  包围,  天生一对, 音乐","却说, 很多"],
+    [0.19,0.57,31,54,0.96,32,14,"倾诉吧,  包围,  天生一对,  爱意","却说, 很多"],
+    [0.20,0.22,8,17,0.48,23,10,"包围,  天生一对","却说, 很多"],
+    [0.21,0.39,15,36,0.61,29,13,"倾诉吧,  天生一对, 音乐","却说, 很多"]
+
+];
+
+
+var schema = [
+    {name: 'date', index: 0, text: '关联词'},
+    {name: 'AQIindex', index: 1, text: '推出'},
+    {name: 'b', index: 1, text: '前置'}
+];
+
+
+var itemStyle = {
+    normal: {
+        opacity: 0.8,
+        shadowBlur: 10,
+        shadowOffsetX: 0,
+        shadowOffsetY: 0,
+        shadowColor: 'rgba(0, 0, 0, 0.5)'
+    }
+};
+
+option_guanlianguize = {
+    backgroundColor: '#404a59',
+    color: [
+        '#dd4444', '#fec42c', '#80F1BE'
+    ],
+    legend: {
+        y: 'top',
+        data: [' ', ' ', ' '],
+        textStyle: {
+            color: '#fff',
+            fontSize: 16
+        }
+    },
+    grid: {
+        x: '10%',
+        x2: 150,
+        y: '18%',
+        y2: '10%'
+    },
+    tooltip: {
+        padding: 10,
+        backgroundColor: '#222',
+        borderColor: '#777',
+        borderWidth: 1,
+        formatter: function (obj) {
+            var value = obj.value;
+            return schema[2].text + '：' + value[8] + '<br>'+schema[1].text + '：' + value[7] + '<br>'
+               ;
+        }
+    },
+    xAxis: {
+        type: 'value',
+        name: '可信度',
+        nameGap: 16,
+        nameTextStyle: {
+            color: '#fff',
+            fontSize: 14
+        },
+        max: 1,
+        splitLine: {
+            show: false
+        },
+        axisLine: {
+            lineStyle: {
+                color: '#eee'
+            }
+        }
+    },
+    yAxis: {
+        type: 'value',
+        name: '关联度',
+        nameLocation: 'end',
+        nameGap: 20,
+        nameTextStyle: {
+            color: '#fff',
+            fontSize: 16
+        },
+        axisLine: {
+            lineStyle: {
+                color: '#eee'
+            }
+        },
+        splitLine: {
+            show: false
+        }
+    },
+    visualMap: [
+        {
+            left: 'right',
+            top: '10%',
+            dimension: 2,
+            min: 0,
+            max: 250,
+            itemWidth: 30,
+            itemHeight: 120,
+            calculable: true,
+            precision: 0.1,
+            text: [' '],
+            textGap: 30,
+            textStyle: {
+                color: '#fff'
+            },
+            inRange: {
+                symbolSize: [10, 70]
+            },
+            outOfRange: {
+                symbolSize: [10, 70],
+                color: ['rgba(255,255,255,.2)']
+            },
+            controller: {
+                inRange: {
+                    color: ['#c23531']
+                },
+                outOfRange: {
+                    color: ['#444']
+                }
+            }
+        },
+        {
+            left: 'right',
+            bottom: '5%',
+            dimension: 6,
+            min: 0,
+            max: 50,
+            itemHeight: 120,
+            calculable: true,
+            precision: 0.1,
+            text: [' '],
+            textGap: 30,
+            textStyle: {
+                color: '#fff'
+            },
+            inRange: {
+                colorLightness: [1, 0.5]
+            },
+            outOfRange: {
+                color: ['rgba(255,255,255,.2)']
+            },
+            controller: {
+                inRange: {
+                    color: ['#c23531']
+                },
+                outOfRange: {
+                    color: ['#444']
+                }
+            }
+        }
+    ],
+    series: [
+        {
+            name: '关联规则',
+            type: 'scatter',
+            itemStyle: itemStyle,
+            data: dataBJ
+        }
+    ]
+};;
+if (option_guanlianguize && typeof option_guanlianguize === "object") {
+    myChart_guanlianguize.setOption(option_guanlianguize, true);
+}
 </script>
 </body>
 

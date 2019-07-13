@@ -14,13 +14,13 @@
 				fill: false,
                 backgroundColor: 'rgba(54, 162, 235, 1)',
 				borderColor: 'rgba(54, 162, 235, 1)',
-				data: [3, -5, -2, 3, 9, 12, 19]
+				data: [300, 500, 200, 300, 900, 120, 190]
             }, {
                 label: "粉丝",
 				fill: false,
                 backgroundColor: 'rgba(255,99,132,1)',
 				borderColor: 'rgba(255,99,132,1)',
-				data: [-12, -3, -4, 6, 3, 7, 10]
+				data: [120, 300, 40, 60, 3, 7, 10]
 				
 		}]
 		},
@@ -89,7 +89,7 @@
 				fill: false,
                 backgroundColor: 'rgba(255,99,132,1)',
 				borderColor: 'rgba(255,99,132,1)',
-				data: [1, 3, 2, 2, 3, 4, 3],
+				data: [1, 300, 200, 288, 3, 4, 3],
 				yAxisID: "y-axis-2"
 				
 		}]

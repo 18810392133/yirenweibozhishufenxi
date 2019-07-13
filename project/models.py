@@ -16,3 +16,7 @@ class star_pinglun(models.Model):
 class fan_area(models.Model):
     province = models.CharField(max_length=40)
     tote = models.IntegerField()
+
+class huati(models.Model):
+    keyword = models.CharField(max_length=40)
+    tote = models.IntegerField()
